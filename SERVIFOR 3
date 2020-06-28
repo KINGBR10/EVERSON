@@ -1,484 +1,232 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://iv.pe/c9x" group-title=" KING BR - 4K",   Animal Planet  4k [Alter]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/28663
-#EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title=" KING BR - Documentários",   Animal Planet  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2023
-#EXTINF:-1 tvg-logo="http://iv.pe/tTP" group-title=" KING BR - Documentários",   Animal Planet[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25472
-#EXTINF:-1 tvg-logo="http://iv.pe/ymi" group-title=" KING BR - ",   Animal Planet[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29482
-#EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title=" KING BR - Documentários",   Animal Planet   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1902
-#EXTINF:-1 tvg-logo="http://iv.pe/gEX" group-title=" KING BR - ",   Animal Planet   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2400
-#EXTINF:-1 tvg-logo="http://iv.pe/gv4" group-title=" KING BR - Documentários",   Animal Planet   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1903
-#EXTINF:-1 tvg-logo="http://iv.pe/UsW" group-title=" KING BR - ",   Animal Planet   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2213
-#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title=" KING BR - Documentários",   Arte 1  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2022
-#EXTINF:-1 tvg-logo="http://iv.pe/AUT" group-title=" KING BR - Documentários",   Arte 1[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25471
-#EXTINF:-1 tvg-logo="http://iv.pe/xC0" group-title=" KING BR - Documentários",   Arte 1   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1900
-#EXTINF:-1 tvg-logo="http://iv.pe/hCx" group-title=" KING BR - Documentários",   Arte 1   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1901
-#EXTINF:-1 tvg-logo="http://iv.pe/pEn" group-title=" KING BR - ",   Arte 1   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2113
-#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title=" KING BR - Filmes e Séries",   AXN  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2021
-#EXTINF:-1 tvg-logo="http://iv.pe/wLB" group-title=" KING BR - Filmes e Séries",   AXN[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25470
-#EXTINF:-1 tvg-logo="http://iv.pe/qdM" group-title=" KING BR - ",   AXN[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29481
-#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title=" KING BR - Filmes e Séries",   AXN   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1898
-#EXTINF:-1 tvg-logo="http://iv.pe/Xt1" group-title=" KING BR - ",   AXN   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2399
-#EXTINF:-1 tvg-logo="http://iv.pe/Dcw" group-title=" KING BR - Filmes e Séries",   AXN   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1899
-#EXTINF:-1 tvg-logo="http://iv.pe/k2E" group-title=" KING BR - ",   AXN   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2212
-#EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title=" KING BR - Infantis",   BabyTV   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1897
-#EXTINF:-1 tvg-logo="http://iv.pe/bZR" group-title=" KING BR - ",   BabyTV   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2211
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - Abertos",   Band BA   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42973
-#EXTINF:-1 tvg-logo="" group-title=" KING BR - ",   Band Bahia   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/30551
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - Abertos",   Band Campinas   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42975
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - Abertos",   Band DF   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42974
-#EXTINF:-1 tvg-logo="http://iv.pe/7pi" group-title=" KING BR - ",   Band Goiania[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29487
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - Abertos",   Band Goiania   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42972
-#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title=" KING BR - Abertos",   Band Internacional   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/36646
-#EXTINF:-1 tvg-logo="" group-title=" KING BR - Abertos",   Band PR   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42971
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - Abertos",   Band RJ   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42976
-#EXTINF:-1 tvg-logo="" group-title=" KING BR - ",   Band   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/30552
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - Abertos",   Band Sergipe   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42977
-#EXTINF:-1 tvg-logo="http://iv.pe/mdn" group-title=" KING BR - 4K",   Band SP  4k [Alter]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/28672
-#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title=" KING BR - Abertos",   Band SP  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1953
-#EXTINF:-1 tvg-logo="http://iv.pe/xkY" group-title=" KING BR - Abertos",   Band SP[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25398
-#EXTINF:-1 tvg-logo="http://iv.pe/ayO" group-title=" KING BR - Abertos",   Band SP   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1895
-#EXTINF:-1 tvg-logo="http://iv.pe/lCG" group-title=" KING BR - ",   Band SP   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2398
-#EXTINF:-1 tvg-logo="http://iv.pe/A6P" group-title=" KING BR - Abertos",   Band SP   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1896
-#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title=" KING BR - Notícias",   BandNews  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2020
-#EXTINF:-1 tvg-logo="http://iv.pe/Xph" group-title=" KING BR - Notícias",   BandNews[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25469
-#EXTINF:-1 tvg-logo="http://iv.pe/lyX" group-title=" KING BR - ",   BandNews[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29423
-#EXTINF:-1 tvg-logo="http://iv.pe/WYh" group-title=" KING BR - Notícias",   BandNews   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1893
-#EXTINF:-1 tvg-logo="http://iv.pe/vnS" group-title=" KING BR - Notícias",   BandNews   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1894
-#EXTINF:-1 tvg-logo="" group-title=" KING BR - ",   BandNews   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/30553
-#EXTINF:-1 tvg-logo="http://iv.pe/3TS" group-title=" KING BR - ",   BandNews   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2210
-#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title=" KING BR - Variedades",   BIS  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1952
-#EXTINF:-1 tvg-logo="http://iv.pe/hYK" group-title=" KING BR - Variedades",   BIS[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25467
-#EXTINF:-1 tvg-logo="http://iv.pe/MrC" group-title=" KING BR - ",   BIS[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29421
-#EXTINF:-1 tvg-logo="http://iv.pe/IKy" group-title=" KING BR - Variedades",   BIS   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1889
-#EXTINF:-1 tvg-logo="http://iv.pe/96b" group-title=" KING BR - ",   BIS   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2396
-#EXTINF:-1 tvg-logo="http://iv.pe/Uaq" group-title=" KING BR - Variedades",   BIS   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1890
-#EXTINF:-1 tvg-logo="http://iv.pe/Pgg" group-title=" KING BR - ",   BIS   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2121
-#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title=" KING BR - Infantis",   Boomerang  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2018
-#EXTINF:-1 tvg-logo="http://iv.pe/bIc" group-title=" KING BR - Infantis",   Boomerang[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25466
-#EXTINF:-1 tvg-logo="http://iv.pe/txx" group-title=" KING BR - ",   Boomerang[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29420
-#EXTINF:-1 tvg-logo="http://iv.pe/Rq9" group-title=" KING BR - Infantis",   Boomerang   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1886
-#EXTINF:-1 tvg-logo="http://iv.pe/Ym6" group-title=" KING BR - Infantis",   Boomerang   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1887
-#EXTINF:-1 tvg-logo="http://iv.pe/uM5" group-title=" KING BR - ",   Boomerang   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2208
-#EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title=" KING BR - Filmes e Séries",   AMC  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2024
-#EXTINF:-1 tvg-logo="http://iv.pe/L8f" group-title=" KING BR - Filmes e Séries",   AMC[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25399
-#EXTINF:-1 tvg-logo="http://iv.pe/Z5v" group-title=" KING BR - ",   AMC[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29483
-#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title=" KING BR - Filmes e Séries",   AMC   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1904
-#EXTINF:-1 tvg-logo="http://iv.pe/0Wu" group-title=" KING BR - ",   AMC   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2401
-#EXTINF:-1 tvg-logo="http://iv.pe/ACu" group-title=" KING BR - Filmes e Séries",   AMC   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1905
-#EXTINF:-1 tvg-logo="http://iv.pe/UHe" group-title=" KING BR - ",   AMC   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2214
-#EXTINF:-1 tvg-logo="http://iv.pe/NND" group-title=" KING BR - Filmes e Séries",   Canal Brasil  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1920
-#EXTINF:-1 tvg-logo="http://iv.pe/3Kn" group-title=" KING BR - Filmes e Séries",   Canal Brasil[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25465
-#EXTINF:-1 tvg-logo="http://iv.pe/idz" group-title=" KING BR - ",   Canal Brasil[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29402
-#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title=" KING BR - Filmes e Séries",   Canal Sony  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2017
-#EXTINF:-1 tvg-logo="http://iv.pe/eGq" group-title=" KING BR - Filmes e Séries",   Canal Sony[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25464
-#EXTINF:-1 tvg-logo="http://iv.pe/723" group-title=" KING BR - ",   Canal Sony[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29480
-#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title=" KING BR - Filmes e Séries",   Canal Sony   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1882
-#EXTINF:-1 tvg-logo="http://iv.pe/KFV" group-title=" KING BR - ",   Canal Sony   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2395
-#EXTINF:-1 tvg-logo="http://iv.pe/vKM" group-title=" KING BR - Filmes e Séries",   Canal Sony   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1883
-#EXTINF:-1 tvg-logo="http://iv.pe/P14" group-title=" KING BR - ",   Canal Sony   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2207
-#EXTINF:-1 tvg-logo="http://iv.pe/tZV" group-title=" KING BR - Abertos",   Cancao Nova   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1881
-#EXTINF:-1 tvg-logo="http://iv.pe/5gn" group-title=" KING BR - ",   Cancao Nova   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2107
-#EXTINF:-1 tvg-logo="http://iv.pe/dej" group-title=" KING BR - 4K",   Cartoon Network  4k [Alter]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/28662
-#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title=" KING BR - Infantis",   Cartoon Network  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2016
-#EXTINF:-1 tvg-logo="http://iv.pe/Ra4" group-title=" KING BR - Infantis",   Cartoon Network[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25463
-#EXTINF:-1 tvg-logo="http://iv.pe/DKY" group-title=" KING BR - ",   Cartoon Network[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29479
-#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title=" KING BR - Infantis",   Cartoon Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1879
-#EXTINF:-1 tvg-logo="http://iv.pe/ZYG" group-title=" KING BR - ",   Cartoon Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2394
-#EXTINF:-1 tvg-logo="http://iv.pe/1Pk" group-title=" KING BR - Infantis",   Cartoon Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1880
-#EXTINF:-1 tvg-logo="http://iv.pe/5Ib" group-title=" KING BR - ",   Cartoon Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2112
-#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title=" KING BR - Infantis",   Disney Junior  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1955
-#EXTINF:-1 tvg-logo="http://iv.pe/jZd" group-title=" KING BR - Infantis",   Disney Junior[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25389
-#EXTINF:-1 tvg-logo="http://iv.pe/vF8" group-title=" KING BR - ",   Disney Junior[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29417
-#EXTINF:-1 tvg-logo="http://iv.pe/rMC" group-title=" KING BR - Infantis",   Disney Junior   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1678
-#EXTINF:-1 tvg-logo="http://iv.pe/u1y" group-title=" KING BR - ",   Disney Junior   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2381
-#EXTINF:-1 tvg-logo="http://iv.pe/Imc" group-title=" KING BR - Infantis",   Disney Junior   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1852
-#EXTINF:-1 tvg-logo="http://iv.pe/iVe" group-title=" KING BR - ",   Disney Junior   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2199
-#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title=" KING BR - Infantis",   Disney XD  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/43772
-#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title=" KING BR - Infantis",   Disney XD[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25361
-#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title=" KING BR - Infantis",   Disney XD   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/43773
-#EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title=" KING BR - Infantis",   Disney XD   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1851
-#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title=" KING BR - Filmes e Séries",   Cinemax  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2015
-#EXTINF:-1 tvg-logo="http://iv.pe/U19" group-title=" KING BR - Filmes e Séries",   Cinemax[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25462
-#EXTINF:-1 tvg-logo="http://iv.pe/rgO" group-title=" KING BR - ",   Cinemax[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29478
-#EXTINF:-1 tvg-logo="http://iv.pe/pUK" group-title=" KING BR - Filmes e Séries",   Cinemax   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1877
-#EXTINF:-1 tvg-logo="http://iv.pe/i8x" group-title=" KING BR - ",   Cinemax   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2393
-#EXTINF:-1 tvg-logo="http://iv.pe/9JR" group-title=" KING BR - Filmes e Séries",   Cinemax   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1878
-#EXTINF:-1 tvg-logo="http://iv.pe/mqc" group-title=" KING BR - ",   Cinemax   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2130
-#EXTINF:-1 tvg-logo="http://iv.pe/MWu" group-title=" KING BR - Notícias",   CNN Brasil  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/41605
-#EXTINF:-1 tvg-logo="http://iv.pe/aC5" group-title=" KING BR - Notícias",   CNN Brasil[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/41990
-#EXTINF:-1 tvg-logo="http://iv.pe/aC5" group-title=" KING BR - Notícias",   CNN Brasil   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/41606
-#EXTINF:-1 tvg-logo="http://iv.pe/gbS" group-title=" KING BR - Notícias",   CNN Brasil   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/41607
-#EXTINF:-1 tvg-logo="http://iv.pe/q7X" group-title=" KING BR - ",   Combate[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29477
-#EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title=" KING BR - Variedades",   Comedy Central  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2014
-#EXTINF:-1 tvg-logo="http://iv.pe/vNO" group-title=" KING BR - Variedades",   Comedy Central[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25460
-#EXTINF:-1 tvg-logo="http://iv.pe/eoy" group-title=" KING BR - ",   Comedy Central[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29476
-#EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title=" KING BR - Variedades",   Comedy Central   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1873
-#EXTINF:-1 tvg-logo="http://iv.pe/jEL" group-title=" KING BR - ",   Comedy Central   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2391
-#EXTINF:-1 tvg-logo="http://iv.pe/uaD" group-title=" KING BR - Variedades",   Comedy Central   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1874
-#EXTINF:-1 tvg-logo="http://iv.pe/4Cl" group-title=" KING BR - ",   Comedy Central   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2205
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title=" KING BR - Variedades",   A&E  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2025
-#EXTINF:-1 tvg-logo="http://iv.pe/rU0" group-title=" KING BR - Variedades",   A&E[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25400
-#EXTINF:-1 tvg-logo="http://iv.pe/NKc" group-title=" KING BR - ",   A&E[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29484
-#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title=" KING BR - Variedades",   A&E   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1906
-#EXTINF:-1 tvg-logo="http://iv.pe/FZg" group-title=" KING BR - ",   A&E   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2402
-#EXTINF:-1 tvg-logo="http://iv.pe/LHo" group-title=" KING BR - Variedades",   A&E   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1907
-#EXTINF:-1 tvg-logo="http://iv.pe/Se2" group-title=" KING BR - ",   A&E   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2215
-#EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title=" KING BR - Documentários",   Discovery Channel  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1950
-#EXTINF:-1 tvg-logo="http://iv.pe/Lpz" group-title=" KING BR - Documentários",   Discovery Channel[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25362
-#EXTINF:-1 tvg-logo="http://iv.pe/xPh" group-title=" KING BR - ",   Discovery Channel[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29475
-#EXTINF:-1 tvg-logo="http://iv.pe/gSH" group-title=" KING BR - Documentários",   Discovery Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1869
-#EXTINF:-1 tvg-logo="http://iv.pe/5D3" group-title=" KING BR - ",   Discovery Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2390
-#EXTINF:-1 tvg-logo="http://iv.pe/Fxk" group-title=" KING BR - Documentários",   Discovery Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1870
-#EXTINF:-1 tvg-logo="http://iv.pe/Po1" group-title=" KING BR - ",   Discovery Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2203
-#EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title=" KING BR - Variedades",   Discovery H&H  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2011
-#EXTINF:-1 tvg-logo="http://iv.pe/hk2" group-title=" KING BR - Variedades",   Discovery H&H[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25396
-#EXTINF:-1 tvg-logo="http://iv.pe/3tL" group-title=" KING BR - ",   Discovery H&H[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29419
-#EXTINF:-1 tvg-logo="http://iv.pe/SGu" group-title=" KING BR - Variedades",   Discovery H&H   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1865
-#EXTINF:-1 tvg-logo="http://iv.pe/VR3" group-title=" KING BR - ",   Discovery H&H   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2388
-#EXTINF:-1 tvg-logo="http://iv.pe/pav" group-title=" KING BR - Variedades",   Discovery H&H   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1866
-#EXTINF:-1 tvg-logo="http://iv.pe/pOf" group-title=" KING BR - ",   Discovery H&H   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2106
-#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title=" KING BR - Infantis",   Discovery Kids  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2010
-#EXTINF:-1 tvg-logo="http://iv.pe/I3R" group-title=" KING BR - Infantis",   Discovery Kids[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25395
-#EXTINF:-1 tvg-logo="http://iv.pe/DCD" group-title=" KING BR - ",   Discovery Kids[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29473
-#EXTINF:-1 tvg-logo="http://iv.pe/Nrt" group-title=" KING BR - Infantis",   Discovery Kids   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1863
-#EXTINF:-1 tvg-logo="http://iv.pe/jE2" group-title=" KING BR - ",   Discovery Kids   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2387
-#EXTINF:-1 tvg-logo="http://iv.pe/9C5" group-title=" KING BR - Infantis",   Discovery Kids   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1864
-#EXTINF:-1 tvg-logo="http://iv.pe/hZx" group-title=" KING BR - ",   Discovery Kids   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2202
-#EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title=" KING BR - Documentários",   Discovery Science  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2009
-#EXTINF:-1 tvg-logo="http://iv.pe/kmL" group-title=" KING BR - Documentários",   Discovery Science[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25394
-#EXTINF:-1 tvg-logo="http://iv.pe/C66" group-title=" KING BR - ",   Discovery Science[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29472
-#EXTINF:-1 tvg-logo="http://iv.pe/gpH" group-title=" KING BR - Documentários",   Discovery Science   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1861
-#EXTINF:-1 tvg-logo="http://iv.pe/VZl" group-title=" KING BR - ",   Discovery Science   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2386
-#EXTINF:-1 tvg-logo="http://iv.pe/wai" group-title=" KING BR - Documentários",   Discovery Science   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1862
-#EXTINF:-1 tvg-logo="http://iv.pe/Eog" group-title=" KING BR - ",   Discovery Science   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2123
-#EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title=" KING BR - Documentários",   Discovery Theater  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2008
-#EXTINF:-1 tvg-logo="http://iv.pe/rzD" group-title=" KING BR - Documentários",   Discovery Theater[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25393
-#EXTINF:-1 tvg-logo="http://iv.pe/oXM" group-title=" KING BR - ",   Discovery Theater[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29471
-#EXTINF:-1 tvg-logo="http://iv.pe/BUp" group-title=" KING BR - Documentários",   Discovery Theater   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1859
-#EXTINF:-1 tvg-logo="http://iv.pe/beu" group-title=" KING BR - ",   Discovery Theater   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2385
-#EXTINF:-1 tvg-logo="http://iv.pe/zab" group-title=" KING BR - Documentários",   Discovery Theater   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1860
-#EXTINF:-1 tvg-logo="http://iv.pe/ctS" group-title=" KING BR - ",   Discovery Theater   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2124
-#EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title=" KING BR - Variedades",   Discovery Turbo  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2007
-#EXTINF:-1 tvg-logo="http://iv.pe/7O2" group-title=" KING BR - Variedades",   Discovery Turbo[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25392
-#EXTINF:-1 tvg-logo="http://iv.pe/tQA" group-title=" KING BR - ",   Discovery Turbo[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29401
-#EXTINF:-1 tvg-logo="http://iv.pe/hHi" group-title=" KING BR - Variedades",   Discovery Turbo   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1857
-#EXTINF:-1 tvg-logo="http://iv.pe/54s" group-title=" KING BR - ",   Discovery Turbo   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2384
-#EXTINF:-1 tvg-logo="http://iv.pe/RL5" group-title=" KING BR - Variedades",   Discovery Turbo   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1858
-#EXTINF:-1 tvg-logo="http://iv.pe/3Hx" group-title=" KING BR - ",   Discovery Turbo   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2201
-#EXTINF:-1 tvg-logo="http://iv.pe/iva" group-title=" KING BR - Documentários",   Discovery World  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2006
-#EXTINF:-1 tvg-logo="http://iv.pe/7Ob" group-title=" KING BR - Documentários",   Discovery World[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25391
-#EXTINF:-1 tvg-logo="http://iv.pe/yRd" group-title=" KING BR - ",   Discovery World[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29400
-#EXTINF:-1 tvg-logo="http://iv.pe/jPu" group-title=" KING BR - Documentários",   Discovery World   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1855
-#EXTINF:-1 tvg-logo="http://iv.pe/Ken" group-title=" KING BR - ",   Discovery World   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2383
-#EXTINF:-1 tvg-logo="http://iv.pe/uoY" group-title=" KING BR - Documentários",   Discovery World   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1856
-#EXTINF:-1 tvg-logo="http://iv.pe/DjM" group-title=" KING BR - ",   Discovery World   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2122
-#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title=" KING BR - Infantis",   Disney Channel  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1949
-#EXTINF:-1 tvg-logo="http://iv.pe/Gsp" group-title=" KING BR - Infantis",   Disney Channel[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25390
-#EXTINF:-1 tvg-logo="http://iv.pe/Eyg" group-title=" KING BR - ",   Disney Channel[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29418
-#EXTINF:-1 tvg-logo="http://iv.pe/xlD" group-title=" KING BR - Infantis",   Disney Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1853
-#EXTINF:-1 tvg-logo="http://iv.pe/rL7" group-title=" KING BR - ",   Disney Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2382
-#EXTINF:-1 tvg-logo="http://iv.pe/ECM" group-title=" KING BR - Infantis",   Disney Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1854
-#EXTINF:-1 tvg-logo="http://iv.pe/Koj" group-title=" KING BR - ",   Disney Channel   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2200
 
-#EXTINF:-1 tvg-logo="http://iv.pe/HWr" group-title=" KING BR - ",   Disney XD   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2198
-#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title=" KING BR - Variedades",   E!  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2005
-#EXTINF:-1 tvg-logo="http://iv.pe/sv1" group-title=" KING BR - Variedades",   E![H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25388
-#EXTINF:-1 tvg-logo="http://iv.pe/0eP" group-title=" KING BR - ",   E![H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29416
-#EXTINF:-1 tvg-logo="http://iv.pe/nHY" group-title=" KING BR - Variedades",   E!   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1849
-#EXTINF:-1 tvg-logo="http://iv.pe/gG9" group-title=" KING BR - ",   E!   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2380
-#EXTINF:-1 tvg-logo="http://iv.pe/jL6" group-title=" KING BR - Variedades",   E!   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1850
-#EXTINF:-1 tvg-logo="http://iv.pe/zDy" group-title=" KING BR - ",   E!   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2197
-
-#EXTINF:-1 tvg-logo="" group-title=" KING BR - Variedades",   FashionTV[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25385
-#EXTINF:-1 tvg-logo="http://iv.pe/WTD" group-title=" KING BR - Filmes e Séries",   Film & Arts   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1666
-#EXTINF:-1 tvg-logo="http://iv.pe/Ws8" group-title=" KING BR - Variedades",   Fish TV  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2002
-#EXTINF:-1 tvg-logo="http://iv.pe/Ws8" group-title=" KING BR - Variedades",   Fish TV[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25384
-#EXTINF:-1 tvg-logo="http://iv.pe/oRA" group-title=" KING BR - ",   Fish TV[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29470
-#EXTINF:-1 tvg-logo="http://iv.pe/NCl" group-title=" KING BR - Variedades",   Fish TV   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1839
-#EXTINF:-1 tvg-logo="http://iv.pe/wX4" group-title=" KING BR - Variedades",   Fish TV   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1840
-#EXTINF:-1 tvg-logo="http://iv.pe/uXx" group-title=" KING BR - ",   Fish TV   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2109
-#EXTINF:-1 tvg-logo="http://iv.pe/QlP" group-title=" KING BR - Esportes",   FlaTV  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/33986
-#EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title=" KING BR - Variedades",   Food Network  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2001
-#EXTINF:-1 tvg-logo="http://iv.pe/0rl" group-title=" KING BR - Variedades",   Food Network[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25456
-#EXTINF:-1 tvg-logo="http://iv.pe/57B" group-title=" KING BR - ",   Food Network[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29469
-#EXTINF:-1 tvg-logo="http://iv.pe/KHb" group-title=" KING BR - Variedades",   Food Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1837
-#EXTINF:-1 tvg-logo="http://iv.pe/xLp" group-title=" KING BR - ",   Food Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2375
-#EXTINF:-1 tvg-logo="http://iv.pe/hLG" group-title=" KING BR - Variedades",   Food Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1838
-#EXTINF:-1 tvg-logo="http://iv.pe/sCv" group-title=" KING BR - ",   Food Network   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2125
-#EXTINF:-1 tvg-logo="http://iv.pe/x4P" group-title=" KING BR - Filmes e Séries",   Fox  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1946
-#EXTINF:-1 tvg-logo="http://iv.pe/EEX" group-title=" KING BR - Filmes e Séries",   Fox[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25455
-#EXTINF:-1 tvg-logo="http://iv.pe/HWP" group-title=" KING BR - ",   Fox[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29468
-#EXTINF:-1 tvg-logo="http://iv.pe/F2S" group-title=" KING BR - Filmes e Séries",   Fox   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1835
-#EXTINF:-1 tvg-logo="http://iv.pe/var" group-title=" KING BR - ",   Fox   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2374
-#EXTINF:-1 tvg-logo="http://iv.pe/u2m" group-title=" KING BR - Legendados",   Fox    [Legendado]
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1527
-#EXTINF:-1 tvg-logo="http://iv.pe/jDd" group-title=" KING BR - Variedades",   Fox Life  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2000
-#EXTINF:-1 tvg-logo="http://iv.pe/C2m" group-title=" KING BR - Variedades",   Fox Life[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25454
-#EXTINF:-1 tvg-logo="http://iv.pe/X32" group-title=" KING BR - Variedades",   Fox Life   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1833
-#EXTINF:-1 tvg-logo="http://iv.pe/htW" group-title=" KING BR - ",   Fox Life   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2373
-#EXTINF:-1 tvg-logo="http://iv.pe/sdr" group-title=" KING BR - Variedades",   Fox Life   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1834
-#EXTINF:-1 tvg-logo="http://iv.pe/eJN" group-title=" KING BR - ",   Fox Life   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2193
-#EXTINF:-1 tvg-logo="http://iv.pe/SdR" group-title=" KING BR - Filmes e Séries",   Fox Premium 1  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1999
-#EXTINF:-1 tvg-logo="http://iv.pe/3DN" group-title=" KING BR - Filmes e Séries",   Fox Premium 1[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25453
-#EXTINF:-1 tvg-logo="http://iv.pe/2Iz" group-title=" KING BR - ",   Fox Premium 1[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29415
-#EXTINF:-1 tvg-logo="http://iv.pe/QyU" group-title=" KING BR - Filmes e Séries",   Fox Premium 1   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1831
-#EXTINF:-1 tvg-logo="http://iv.pe/3Ga" group-title=" KING BR - ",   Fox Premium 1   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2372
-#EXTINF:-1 tvg-logo="http://iv.pe/2Fh" group-title=" KING BR - Filmes e Séries",   Fox Premium 1   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1832
-#EXTINF:-1 tvg-logo="http://iv.pe/8PZ" group-title=" KING BR - Filmes e Séries",   Fox Premium 2  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1998
-#EXTINF:-1 tvg-logo="http://iv.pe/M2S" group-title=" KING BR - Filmes e Séries",   Fox Premium 2[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25452
-#EXTINF:-1 tvg-logo="http://iv.pe/TYo" group-title=" KING BR - ",   Fox Premium 2[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29414
-#EXTINF:-1 tvg-logo="http://iv.pe/sMR" group-title=" KING BR - Filmes e Séries",   Fox Premium 2   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1829
-#EXTINF:-1 tvg-logo="http://iv.pe/he0" group-title=" KING BR - ",   Fox Premium 2   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2371
-#EXTINF:-1 tvg-logo="http://iv.pe/3sV" group-title=" KING BR - Filmes e Séries",   Fox Premium 2   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1830
-#EXTINF:-1 tvg-logo="http://iv.pe/BZj" group-title=" KING BR - Filmes e Séries",   Fox   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1836
-#EXTINF:-1 tvg-logo="http://iv.pe/mp0" group-title=" KING BR - ",   Fox   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2192
-#EXTINF:-1 tvg-logo="http://iv.pe/48C" group-title=" KING BR - Legendados",   Fox    [Legendado]
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1526
-
-#EXTINF:-1 tvg-logo="http://iv.pe/xEJ" group-title=" KING BR - Abertos",   Futura  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1997
-#EXTINF:-1 tvg-logo="http://iv.pe/LA6" group-title=" KING BR - Abertos",   Futura[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25451
-#EXTINF:-1 tvg-logo="http://iv.pe/ZYH" group-title=" KING BR - Abertos",   Futura   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1823
-#EXTINF:-1 tvg-logo="http://iv.pe/Giu" group-title=" KING BR - Abertos",   Futura   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1824
-#EXTINF:-1 tvg-logo="http://iv.pe/o3V" group-title=" KING BR - ",   Futura   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2189
-#EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title=" KING BR - Filmes e Séries",   FX  
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1996
-#EXTINF:-1 tvg-logo="http://iv.pe/TV0" group-title=" KING BR - Filmes e Séries",   FX[H265]   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25450
-#EXTINF:-1 tvg-logo="http://iv.pe/RAe" group-title=" KING BR - ",   FX[H265]    
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29465
-#EXTINF:-1 tvg-logo="http://iv.pe/mvK" group-title=" KING BR - Filmes e Séries",   FX   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1821
-#EXTINF:-1 tvg-logo="http://iv.pe/TV0" group-title=" KING BR - ",   FX   
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2368
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/te2" group-title="Canais | Variedades",[I][B][COLOR blue] A&E[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2025
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/rU0" group-title="Canais | Variedades",[I][B][COLOR blue] A&E[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25400
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/NKc" group-title="Canais | Alternativos",[I][B][COLOR blue] A&E[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29484
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/xsU" group-title="Canais | Variedades",[I][B][COLOR blue] A&E [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1906
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/FZg" group-title="Canais | Alternativos",[I][B][COLOR blue] A&E [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2402
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/LHo" group-title="Canais | Variedades",[I][B][COLOR blue] A&E [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1907
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Se2" group-title="Canais | Alternativos",[I][B][COLOR blue] A&E [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2215
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/M0T" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AMC[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2024
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/L8f" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AMC[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25399
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Z5v" group-title="Canais | Alternativos",[I][B][COLOR blue] AMC[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29483
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/vSY" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AMC [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1904
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/0Wu" group-title="Canais | Alternativos",[I][B][COLOR blue] AMC [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2401
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/ACu" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AMC [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1905
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/UHe" group-title="Canais | Alternativos",[I][B][COLOR blue] AMC [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2214
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/c9x" group-title="Canais | 4K",[I][B][COLOR blue] Animal Planet  4k [Alter] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/28663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/u4P" group-title="Canais | Documentários",[I][B][COLOR blue] Animal Planet[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2023
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/tTP" group-title="Canais | Documentários",[I][B][COLOR blue] Animal Planet[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25472
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/ymi" group-title="Canais | Alternativos",[I][B][COLOR blue] Animal Planet[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29482
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/XYZ" group-title="Canais | Documentários",[I][B][COLOR blue] Animal Planet [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1902
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/gEX" group-title="Canais | Alternativos",[I][B][COLOR blue] Animal Planet [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2400
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/gv4" group-title="Canais | Documentários",[I][B][COLOR blue] Animal Planet [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1903
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/UsW" group-title="Canais | Alternativos",[I][B][COLOR blue] Animal Planet [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2213
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/rSN" group-title="Canais | Documentários",[I][B][COLOR blue] Arte 1[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/AUT" group-title="Canais | Documentários",[I][B][COLOR blue] Arte 1[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25471
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/xC0" group-title="Canais | Documentários",[I][B][COLOR blue] Arte 1 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1900
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/hCx" group-title="Canais | Documentários",[I][B][COLOR blue] Arte 1 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1901
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/pEn" group-title="Canais | Alternativos",[I][B][COLOR blue] Arte 1 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2113
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/NWV" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AXN[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2021
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/wLB" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AXN[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25470
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/qdM" group-title="Canais | Alternativos",[I][B][COLOR blue] AXN[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/sXN" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AXN [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1898
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Xt1" group-title="Canais | Alternativos",[I][B][COLOR blue] AXN [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2399
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/vVK" group-title="Canais | Legendados",[I][B][COLOR blue] AXN [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] [Legendado]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1529
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Dcw" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] AXN [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1899
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/k2E" group-title="Canais | Alternativos",[I][B][COLOR blue] AXN [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2212
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/WcX" group-title="Canais | Legendados",[I][B][COLOR blue] AXN [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] [Legendado]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/BhC" group-title="Canais | Infantis",[I][B][COLOR blue] BabyTV [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1897
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/bZR" group-title="Canais | Alternativos",[I][B][COLOR blue] BabyTV [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2211
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | Abertos",[I][B][COLOR blue] Band BA [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42973
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Alternativos",[I][B][COLOR blue] Band Bahia [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/30551
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | Abertos",[I][B][COLOR blue] Band Campinas [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42975
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | Abertos",[I][B][COLOR blue] Band DF [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42974
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/7pi" group-title="Canais | Alternativos",[I][B][COLOR blue] Band Goiania[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29487
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | Abertos",[I][B][COLOR blue] Band Goiania [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42972
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/ViV" group-title="Canais | Abertos",[I][B][COLOR blue] Band Internacional [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/36646
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Abertos",[I][B][COLOR blue] Band PR [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42971
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | Abertos",[I][B][COLOR blue] Band RJ [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Alternativos",[I][B][COLOR blue] Band [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/30552
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | Abertos",[I][B][COLOR blue] Band Sergipe [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/42977
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/mdn" group-title="Canais | 4K",[I][B][COLOR blue] Band SP  4k [Alter] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/28672
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/ViV" group-title="Canais | Abertos",[I][B][COLOR blue] Band SP[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1953
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/xkY" group-title="Canais | Abertos",[I][B][COLOR blue] Band SP[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25398
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/ayO" group-title="Canais | Abertos",[I][B][COLOR blue] Band SP [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/lCG" group-title="Canais | Alternativos",[I][B][COLOR blue] Band SP [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2398
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/A6P" group-title="Canais | Abertos",[I][B][COLOR blue] Band SP [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1896
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/DB1" group-title="Canais | Notícias",[I][B][COLOR blue] BandNews[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Xph" group-title="Canais | Notícias",[I][B][COLOR blue] BandNews[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25469
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/lyX" group-title="Canais | Alternativos",[I][B][COLOR blue] BandNews[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29423
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/WYh" group-title="Canais | Notícias",[I][B][COLOR blue] BandNews [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1893
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/vnS" group-title="Canais | Notícias",[I][B][COLOR blue] BandNews [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1894
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Alternativos",[I][B][COLOR blue] BandNews [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/30553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/3TS" group-title="Canais | Alternativos",[I][B][COLOR blue] BandNews [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2210
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/iVF" group-title="Canais | Variedades",[I][B][COLOR blue] BIS[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1952
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/hYK" group-title="Canais | Variedades",[I][B][COLOR blue] BIS[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25467
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/MrC" group-title="Canais | Alternativos",[I][B][COLOR blue] BIS[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29421
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/IKy" group-title="Canais | Variedades",[I][B][COLOR blue] BIS [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1889
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/96b" group-title="Canais | Alternativos",[I][B][COLOR blue] BIS [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2396
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Uaq" group-title="Canais | Variedades",[I][B][COLOR blue] BIS [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1890
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Pgg" group-title="Canais | Alternativos",[I][B][COLOR blue] BIS [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2121
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/t4z" group-title="Canais | Variedades",[I][B][COLOR blue] Boa Vontade TV[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25363
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/dfl" group-title="Canais | Variedades",[I][B][COLOR blue] Boa Vontade TV [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1888
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/v9i" group-title="Canais | Infantis",[I][B][COLOR blue] Boomerang[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/bIc" group-title="Canais | Infantis",[I][B][COLOR blue] Boomerang[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25466
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/txx" group-title="Canais | Alternativos",[I][B][COLOR blue] Boomerang[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29420
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Rq9" group-title="Canais | Infantis",[I][B][COLOR blue] Boomerang [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1886
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Ym6" group-title="Canais | Infantis",[I][B][COLOR blue] Boomerang [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1887
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/uM5" group-title="Canais | Alternativos",[I][B][COLOR blue] Boomerang [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2208
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Esportes",[I][B][COLOR blue] Campeonato Catarinense 1 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/33567
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Esportes",[I][B][COLOR blue] Campeonato Catarinense 2 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/33568
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Esportes",[I][B][COLOR blue] Campeonato Catarinense 3 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/33871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Esportes",[I][B][COLOR blue] Campeonato Catarinense 4 [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/33872
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/NND" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Brasil[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1920
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/3Kn" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Brasil[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25465
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/idz" group-title="Canais | Alternativos",[I][B][COLOR blue] Canal Brasil[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29402
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/m8w" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Brasil [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1884
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/sKg" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Brasil [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1885
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/3bI" group-title="Canais | Alternativos",[I][B][COLOR blue] Canal Brasil [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2115
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/bwS" group-title="Canais | Abertos",[I][B][COLOR blue] Canal do Boi [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1655
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/nw1" group-title="Canais | Alternativos",[I][B][COLOR blue] Canal do Boi [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2114
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Variedades",[I][B][COLOR blue] Canal Rural [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/35976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Variedades",[I][B][COLOR blue] Canal Rural [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/35975
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/cyY" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Sony[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2017
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/eGq" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Sony[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25464
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/723" group-title="Canais | Alternativos",[I][B][COLOR blue] Canal Sony[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/8yz" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Sony [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1882
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/KFV" group-title="Canais | Alternativos",[I][B][COLOR blue] Canal Sony [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/B49" group-title="Canais | Legendados",[I][B][COLOR blue] Canal Sony [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] [Legendado]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1495
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/vKM" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Canal Sony [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1883
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/P14" group-title="Canais | Alternativos",[I][B][COLOR blue] Canal Sony [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2207
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/qCc" group-title="Canais | Legendados",[I][B][COLOR blue] Canal Sony [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] [Legendado]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1494
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/tZV" group-title="Canais | Abertos",[I][B][COLOR blue] Cancao Nova [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1881
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/5gn" group-title="Canais | Alternativos",[I][B][COLOR blue] Cancao Nova [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2107
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/dej" group-title="Canais | 4K",[I][B][COLOR blue] Cartoon Network  4k [Alter] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/28662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/D7m" group-title="Canais | Infantis",[I][B][COLOR blue] Cartoon Network[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2016
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/Ra4" group-title="Canais | Infantis",[I][B][COLOR blue] Cartoon Network[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/DKY" group-title="Canais | Alternativos",[I][B][COLOR blue] Cartoon Network[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/aQa" group-title="Canais | Infantis",[I][B][COLOR blue] Cartoon Network [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1879
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/ZYG" group-title="Canais | Alternativos",[I][B][COLOR blue] Cartoon Network [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2394
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/1Pk" group-title="Canais | Infantis",[I][B][COLOR blue] Cartoon Network [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1880
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/5Ib" group-title="Canais | Alternativos",[I][B][COLOR blue] Cartoon Network [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2112
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"" group-title="Canais | Cameras Ao Vivo",[I][B][COLOR blue] Chicago [Camera][Camera] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2425
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/2B7" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Cinemax[COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/2015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/U19" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Cinemax[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/25462
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/rgO" group-title="Canais | Alternativos",[I][B][COLOR blue] Cinemax[H265] [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/29478
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/pUK" group-title="Canais | Filmes e Séries",[I][B][COLOR blue] Cinemax [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][I][B] Pikachu[COLOR lime] P2p[COLOR white] Vipremium[/B][/I][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/AV6pb0dUr3/fireurl.co/1877
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r47VWW6.png"http://iv.pe/i8x" group-title="Canais | Alternativos",[I][B][COLOR blue] Cinemax [COLOR yellow] Pikachu[COLOR lime] [ P2P ] [COLOR white] VIP PREMIUM[/B][/I][/COLOR]
