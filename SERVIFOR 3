@@ -1,758 +1,804 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Espn Extra HD
-http://193.200.164.155:8080/orlando1/1orlando/2107
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/CNN-Brasil.png" group-title="CANAIS: FULLHD",  KING BR -CNN BRASIL FULLHD
+http://bragroup-title="CANAISsiltv.pro:8080/jonathan/jonathan123/26660
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Espn Extra
-http://193.200.164.155:8080/orlando1/1orlando/2106
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Animal_Planet.png" group-title="CANAIS: FULLHD",  KING BR -ANIMAL PLANET FHD H265 DUALAUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5159
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Extra Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1310
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: FULLHD",  KING BR -AXN FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5332
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Plus Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1312
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/band-news.png" group-title="CANAIS: FULLHD",  KING BR -BAND NEWS FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5394
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN 2 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1131
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Band_Sports.png" group-title="CANAIS: FULLHD",  KING BR -BAND SPORTS FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5351
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - EI Plus HD
-http://193.200.164.155:8080/orlando1/1orlando/2300
+#EXTINF:-1 tvg-logo="https://danceparadise.com.br/wp-content/uploads/2019/02/logo-bis-300.png" group-title="CANAIS: FULLHD",  KING BR -BIS FHD H265 DUAL AUDIO 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5233
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - EI Plus
-http://193.200.164.155:8080/orlando1/1orlando/2301
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Boomerang.png" group-title="CANAIS: FULLHD",  KING BR -BOOMERANG FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5283
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate FHD
-http://193.200.164.155:8080/orlando1/1orlando/1880
+#EXTINF:-1 tvg-logo="http://abre.ai/Xr1" group-title="CANAIS: FULLHD",  KING BR -CANAL BRASIL FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5452
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate HD
-http://193.200.164.155:8080/orlando1/1orlando/2076
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Canal_Sony.png" group-title="CANAIS: FULLHD",  KING BR -CANAL SONY FHD DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5329
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate
-http://193.200.164.155:8080/orlando1/1orlando/2075
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cartoon_Network.png" group-title="CANAIS: FULLHD",  KING BR -CARTOON NETWORK FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5282
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1291
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cinemax.png" group-title="CANAIS: FULLHD",  KING BR -CINEMAX FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5149
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1186
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/CNN-Brasil.png" group-title="CANAIS: NOTICIAS",  KING BR -CNN BRASIL FHD[2]
+http://brasiltv.pro:8080/jonathan/jonathan123/27363
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports FHD
-http://193.200.164.155:8080/orlando1/1orlando/1812
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Combate.png" group-title="CANAIS: FULLHD",  KING BR -COMBATE FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5354
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports HD
-http://193.200.164.155:8080/orlando1/1orlando/2060
+#EXTINF:-1 tvg-logo="http://abre.ai/UOS" group-title="CANAIS: FULLHD",  KING BR -COMEDY CENTRAL FHD H265 DUAL AUDIO 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5234
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports
-http://193.200.164.155:8080/orlando1/1orlando/2059
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Channel.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY CHANNEL FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5168
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1289
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Home_Health.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY HOME & HEALTH FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5170
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1180
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Kids.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY KIDS FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5254
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 1 HD
-http://193.200.164.155:8080/orlando1/1orlando/2303
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Science.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY SCIENCE FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5171
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 1 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1406
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_World.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY WORLD FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5174
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 1 Alternativo` HD
-http://193.200.164.155:8080/orlando1/1orlando/20932
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-R5m9NefAYEw/WnQljhKSqdI/AAAAAAAAINs/Fu5xciCMCt8OKh9EVNdjToxfotQcdT98wCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="CANAIS: FULLHD",  KING BR -DISNEY JUNIOR FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5281
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 2 HD
-http://193.200.164.155:8080/orlando1/1orlando/2304
+#EXTINF:-1 tvg-logo="http://abre.ai/URx" group-title="CANAIS: FULLHD",  KING BR -E! FHD H265 DUAL AUDIO 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5235
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 2 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/11617
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/ESPN_2.png" group-title="CANAIS: FULLHD",  KING BR -ESPN 2 FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5369
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 3 HD
-http://193.200.164.155:8080/orlando1/1orlando/20617
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/ESPN_Extra.png" group-title="CANAIS: FULLHD",  KING BR -ESPN EXTRA FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5367
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 3 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/11618
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/ESPN.png" group-title="CANAIS: FULLHD",  KING BR -ESPN FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5368
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 4 HD
-http://193.200.164.155:8080/orlando1/1orlando/20618
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/fishtv.png" group-title="CANAIS: FULLHD",  KING BR -FISH TV FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5374
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 4 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/11619
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Sports.png" group-title="CANAIS: FULLHD",  KING BR -FOX SPORTS FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5357
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 5 HD
-http://193.200.164.155:8080/orlando1/1orlando/20619
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/FX.png" group-title="CANAIS: FULLHD",  KING BR -FX FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5325
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DAZN 6 HD
-http://193.200.164.155:8080/orlando1/1orlando/20620
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Gloob.png" group-title="CANAIS: FULLHD",  KING BR -GLOOB FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5279
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 1
-http://193.200.164.155:8080/orlando1/1orlando/19849
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/661px-GNT_logo-roxo.svg.png" group-title="CANAIS: FULLHD",  KING BR -GNT FHD H265 DUAL AUDIO 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5237
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 1 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/20725
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/H2.png" group-title="CANAIS: FULLHD",  KING BR -H2 FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5163
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste Alternativo 1
-http://193.200.164.155:8080/orlando1/1orlando/19887
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Family.png" group-title="CANAIS: FULLHD",  KING BR -HBO FAMILLY FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5132
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 2
-http://193.200.164.155:8080/orlando1/1orlando/19850
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO.png" group-title="CANAIS: FULLHD",  KING BR -HBO FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5133
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 2 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/20726
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Plus.png" group-title="CANAIS: FULLHD",  KING BR -HBO PLUS FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5134
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 3
-http://193.200.164.155:8080/orlando1/1orlando/19851
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Hbo_Signature.png" group-title="CANAIS: FULLHD",  KING BR -HBO SIGNATURE FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5135
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 3 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/20727
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/ID_Investigacao_Discovery.png" group-title="CANAIS: FULLHD",  KING BR -ID - INVESTIGACÃO DISCOVERY FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5175
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Copa Nordeste 4
-http://193.200.164.155:8080/orlando1/1orlando/20728
+#EXTINF:-1 tvg-logo="http://abre.ai/UNO" group-title="CANAIS: FULLHD",  KING BR -LIFETIME FHD H265 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5238
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Catarinense 1
-http://193.200.164.155:8080/orlando1/1orlando/19852
+#EXTINF:-1 tvg-logo="http://abre.ai/URe" group-title="CANAIS: FULLHD",  KING BR -MAISGLOBOSAT FHD H265 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5239
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Catarinense 2
-http://193.200.164.155:8080/orlando1/1orlando/19853
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9SgIbyE-WH8/Ux98igqHkKI/AAAAAAAAhpw/SRANZWWWhwE/s1600/Max_logo.png" group-title="CANAIS: FULLHD",  KING BR -MAX FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5150
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Facebook - Copa Libertadores
-http://193.200.164.155:8080/orlando1/1orlando/2302
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="CANAIS: FULLHD",  KING BR -MAX UP FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5152
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Globoesporte.com
-http://193.200.164.155:8080/orlando1/1orlando/21399
+#EXTINF:-1 tvg-logo="http://abre.ai/UNT" group-title="CANAIS: FULLHD",  KING BR -MTV FHD H265 DUAL AUDIO 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5240
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Champions League 01
-http://193.200.164.155:8080/orlando1/1orlando/10897
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS: FULLHD",  KING BR -MULTISHOW FHD H265 DUAL AUDIO 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5241
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Champions League 02
-http://193.200.164.155:8080/orlando1/1orlando/10898
+#EXTINF:-1 tvg-logo="http://abre.ai/XtR" group-title="CANAIS: FULLHD",  KING BR -NATGEO FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5183
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Champions League 03
-http://193.200.164.155:8080/orlando1/1orlando/10899
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Natgeo_Wild.png" group-title="CANAIS: FULLHD",  KING BR -NATGEO WILD FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5185
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Champions League 04
-http://193.200.164.155:8080/orlando1/1orlando/10900
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Nat_Geo_Kids.png" group-title="CANAIS: FULLHD",  KING BR -NATGEOKIDS FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5276
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Champions League 05
-http://193.200.164.155:8080/orlando1/1orlando/10901
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Nick_Jr.png" group-title="CANAIS: FULLHD",  KING BR -NICK JR FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5278
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Champions League 06
-http://193.200.164.155:8080/orlando1/1orlando/10902
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Nickelodeon.png" group-title="CANAIS: FULLHD",  KING BR -NICKELODEON FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5277
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Brasil FHD
-http://193.200.164.155:8080/orlando1/1orlando/13084
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Canal_Off.png" group-title="CANAIS: FULLHD",  KING BR -OFF FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5376
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Brasil HD
-http://193.200.164.155:8080/orlando1/1orlando/13085
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Paramount.png" group-title="CANAIS: FULLHD",  KING BR -PARAMOUNT FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5323
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Brasil
-http://193.200.164.155:8080/orlando1/1orlando/13086
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Premiere.png" group-title="CANAIS: FULLHD",  KING BR -PREMIERE CLUBES FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5560
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN FHD
-http://193.200.164.155:8080/orlando1/1orlando/13087
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Record.png" group-title="CANAIS: FULLHD",  KING BR -RECORD TV GOIANIA FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5463
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN HD
-http://193.200.164.155:8080/orlando1/1orlando/13088
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/09/Space-ao-vivo.png" group-title="CANAIS: FULLHD",  KING BR -SPACE FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5317
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN
-http://193.200.164.155:8080/orlando1/1orlando/13089
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/SporTV_2.png" group-title="CANAIS: FULLHD",  KING BR -SPORTV 2 FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5342
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN 2 FHD
-http://193.200.164.155:8080/orlando1/1orlando/13090
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/SporTV_3.png" group-title="CANAIS: FULLHD",  KING BR -SPORTV 3 FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5343
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN 2 HD
-http://193.200.164.155:8080/orlando1/1orlando/13091
+#EXTINF:-1 tvg-logo="https://img.miptv.ws/Syfy.png" group-title="CANAIS: FULLHD",  KING BR -SYFY FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5315
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN 2
-http://193.200.164.155:8080/orlando1/1orlando/13092
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/12/tbs-logo.png" group-title="CANAIS: FULLHD",  KING BR -TBS FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5316
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Extra FHD
-http://193.200.164.155:8080/orlando1/1orlando/13093
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: FULLHD",  KING BR -TELECINE ACTION FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5099
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Extra HD
-http://193.200.164.155:8080/orlando1/1orlando/13094
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: FULLHD",  KING BR -TELECINE FUN FHD H265 DUALAUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5101
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Extra
-http://193.200.164.155:8080/orlando1/1orlando/13102
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/s1600/telecine_pipoca.png" group-title="CANAIS: FULLHD",  KING BR -TELECINE PIPOCA FHD H265 DUALAUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5102
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate FHD
-http://193.200.164.155:8080/orlando1/1orlando/13095
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: FULLHD",  KING BR -TELECINE PREMIUM FHD H265 DUALAUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5103
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate HD
-http://193.200.164.155:8080/orlando1/1orlando/13096
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="CANAIS: FULLHD",  KING BR -TLC FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5311
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate
-http://193.200.164.155:8080/orlando1/1orlando/13097
+#EXTINF:-1 tvg-logo="http://abre.ai/Xt6" group-title="CANAIS: FULLHD",  KING BR -TNT FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5312
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports FHD
-http://193.200.164.155:8080/orlando1/1orlando/13099
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: FULLHD",  KING BR -TV ANHAGUERA FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5460
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports HD
-http://193.200.164.155:8080/orlando1/1orlando/13100
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: FULLHD",  KING BR -TV GOIANIA (Band) FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5461
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports
-http://193.200.164.155:8080/orlando1/1orlando/13101
+#EXTINF:-1 tvg-logo="http://abre.ai/XrM" group-title="CANAIS: FULLHD",  KING BR -TV TRIBUNA ES FHD
+http://brasiltv.pro:8080/jonathan/jonathan123/5454
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere Clubes FHD
-http://193.200.164.155:8080/orlando1/1orlando/1898
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsh" group-title="CANAIS: FULLHD",  KING BR -TV VITORIA ES FHD
+http://brasiltv.pro:8080/jonathan/jonathan123/5457
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere Clubes HD
-http://193.200.164.155:8080/orlando1/1orlando/2199
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Universal_Channel.png" group-title="CANAIS: FULLHD",  KING BR -UNIVERSAL  CHANNEL FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5310
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere Clubes
-http://193.200.164.155:8080/orlando1/1orlando/2198
+#EXTINF:-1 tvg-logo="http://abre.ai/Xud" group-title="CANAIS: FULLHD",  KING BR -WARNER FHD H265 DUAL AUDIO
+http://brasiltv.pro:8080/jonathan/jonathan123/5309
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere Clubes Alternativo FHD
-http://193.200.164.155:8080/orlando1/1orlando/12820
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Woohoo.png" group-title="CANAIS: FULLHD",  KING BR -WOOHOO FHD H265
+http://brasiltv.pro:8080/jonathan/jonathan123/5379
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere Clubes Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1277
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -BRASILEIRINHAS: AMIGAS DA MINHA IRMA
+http://brasiltv.pro:8080/jonathan/jonathan123/12685
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere Clubes Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1163
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -BRASILEIRINHAS: FAZENDO SACANAGEM
+http://brasiltv.pro:8080/jonathan/jonathan123/12692
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - PFC Internacional
-http://193.200.164.155:8080/orlando1/1orlando/1605
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX PASSION
+http://brasiltv.pro:8080/jonathan/jonathan123/33226
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - PFC Internacional Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/18589
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX PENTHOUSE BLACK
+http://brasiltv.pro:8080/jonathan/jonathan123/33227
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 2 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1892
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX PLAYBOY HD
+http://brasiltv.pro:8080/jonathan/jonathan123/33230
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 2 HD
-http://193.200.164.155:8080/orlando1/1orlando/2187
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX REDLIGHT
+http://brasiltv.pro:8080/jonathan/jonathan123/33232
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 2
-http://193.200.164.155:8080/orlando1/1orlando/2186
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX SEXT6SENSO
+http://brasiltv.pro:8080/jonathan/jonathan123/33235
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 2 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1273
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX VENUS
+http://brasiltv.pro:8080/jonathan/jonathan123/33238
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 2 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1157
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX VIVID RED
+http://brasiltv.pro:8080/jonathan/jonathan123/33239
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 3 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1893
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -XXX Video 10
+http://brasiltv.pro:8080/jonathan/jonathan123/33244
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 3 HD
-http://193.200.164.155:8080/orlando1/1orlando/2189
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -Adultos: JASMIN
+http://brasiltv.pro:8080/jonathan/jonathan123/33262
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 3
-http://193.200.164.155:8080/orlando1/1orlando/2188
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -Adultos: SUPER ONE [2K]
+http://brasiltv.pro:8080/jonathan/jonathan123/33264
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 3 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1274
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: ADULTOS",  KING BR -Adultos: VIVID  RED [2K]
+http://brasiltv.pro:8080/jonathan/jonathan123/33272
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 3 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1158
+#EXTINF:-1 tvg-logo="http://brasiltv.pro:8080/images/f561aaf6ef0bf14d4208bb46a4ccb3ad.jpg" group-title="CANAIS: ADULTOS",  KING BR -AssTraffic [Anal xvideos TOP]
+http://brasiltv.pro:8080/jonathan/jonathan123/44076
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 4 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1894
+#EXTINF:-1 tvg-logo="http://brasiltv.pro:8080/images/f561aaf6ef0bf14d4208bb46a4ccb3ad.jpg" group-title="CANAIS: ADULTOS",  KING BR -PerfectGonzo [Anal xvideos TOP]
+http://brasiltv.pro:8080/jonathan/jonathan123/44081
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 4 HD
-http://193.200.164.155:8080/orlando1/1orlando/2191
+#EXTINF:-1 tvg-logo="http://brasiltv.pro:8080/images/f561aaf6ef0bf14d4208bb46a4ccb3ad.jpg" group-title="CANAIS: ADULTOS",  KING BR -PervCity [Anal xvideos TOP]
+http://brasiltv.pro:8080/jonathan/jonathan123/44082
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 4
-http://193.200.164.155:8080/orlando1/1orlando/2190
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/GV_v2_dT4iL-y6LZmIoPrjzOkaM=/fit-in/210x312/smart/media/movies/covers/2015/09/a-grande-familia-6a-temporada_t122895.jpg" group-title="CANAIS: SÉRIES 24HS",  KING BR -A GRANDE FAMILIA
+http://brasiltv.pro:8080/jonathan/jonathan123/26627
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 4 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1275
+#EXTINF:-1 tvg-logo="https://capas-g.wmixvideo.com.br/cx182367.jpg" group-title="CANAIS: DESENHOS 24HS",  KING BR -A PANTERA COR DE ROSA
+http://brasiltv.pro:8080/jonathan/jonathan123/26626
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 4 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1214
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/A%26E.png" group-title="CANAIS: FULLHD",  KING BR -A&E FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23286
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 5 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1895
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/A%26E.png" group-title="CANAIS: FILMES E SERIES",  KING BR -A&E HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5306
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 5 HD
-http://193.200.164.155:8080/orlando1/1orlando/2193
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/A%26E.png" group-title="CANAIS: FILMES E SERIES",  KING BR -A&E HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23287
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 5
-http://193.200.164.155:8080/orlando1/1orlando/2192
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AMC.png" group-title="CANAIS: FULLHD",  KING BR -AMC FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23289
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 5 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1276
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AMC.png" group-title="CANAIS: FILMES E SERIES",  KING BR -AMC HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5307
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 5 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1159
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AMC.png" group-title="CANAIS: FILMES E SERIES",  KING BR -AMC HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23290
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 6 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1896
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AMC.png" group-title="CANAIS: FILMES E SERIES",  KING BR -AMC SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5287
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 6 HD
-http://193.200.164.155:8080/orlando1/1orlando/2195
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Animal_Planet.png" group-title="CANAIS: FULLHD",  KING BR -ANIMAL PLANET FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22978
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 6
-http://193.200.164.155:8080/orlando1/1orlando/2194
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Animal_Planet.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -ANIMAL PLANET HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5160
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 6 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/7945
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Animal_Planet.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -ANIMAL PLANET HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22979
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 6 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1160
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Animal_Planet.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -ANIMAL PLANET SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5207
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 7 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1897
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/2075FMBjRRRq2Vb9y2kSa6Ml8Pc=/fit-in/290x478/smart/media/movies/covers/2017/05/1497893_10151817046261644_872204241_o_aDWfSeJ.jpg" group-title="CANAIS: DESENHOS 24HS",  KING BR -ANIMANIACS
+http://brasiltv.pro:8080/jonathan/jonathan123/26614
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 7 HD
-http://193.200.164.155:8080/orlando1/1orlando/2197
+#EXTINF:-1 tvg-logo="http://abre.ai/UO5" group-title="CANAIS: FULLHD",  KING BR -ARTE 1 FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23359
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 7
-http://193.200.164.155:8080/orlando1/1orlando/2196
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AXN.png" group-title="CANAIS: FULLHD",  KING BR -AXN FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23292
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 7 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/7946
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AXN.png" group-title="CANAIS: FILMES E SERIES",  KING BR -AXN HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5308
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 7 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1161
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AXN.png" group-title="CANAIS: FILMES E SERIES",  KING BR -AXN HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23293
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 8
-http://193.200.164.155:8080/orlando1/1orlando/1162
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/AXN.png" group-title="CANAIS: FILMES E SERIES",  KING BR -AXN SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5288
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 8 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/7948
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Baby_TV.png" group-title="CANAIS: INFANTIS",  KING BR -BABY TV HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23033
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Premiere 9
-http://193.200.164.155:8080/orlando1/1orlando/7947
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Baby_TV.png" group-title="CANAIS: INFANTIS",  KING BR -BABY TV SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23034
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Premium FHD
-http://193.200.164.155:8080/orlando1/1orlando/1904
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND BAHIA SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5439
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Premium HD
-http://193.200.164.155:8080/orlando1/1orlando/2235
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND BSB HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5433
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Premium
-http://193.200.164.155:8080/orlando1/1orlando/2234
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND CAMPINAS HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5434
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Premium Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1282
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND CAMPINAS SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23244
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Premium Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1230
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/band-news.png" group-title="CANAIS: NOTICIAS",  KING BR -BAND NEWS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23246
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Action FHD
-http://193.200.164.155:8080/orlando1/1orlando/1901
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND RS HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5436
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Action HD
-http://193.200.164.155:8080/orlando1/1orlando/2227
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND SERGIPE HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5437
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Action
-http://193.200.164.155:8080/orlando1/1orlando/2226
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND SP HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5438
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Action Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1279
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BAND SP HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23250
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Action Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1225
+#EXTINF:-1 tvg-logo="http://abre.ai/Xsp" group-title="CANAIS: ABERTOS",  KING BR -BANDEIRANTES SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5440
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Touch FHD
-http://193.200.164.155:8080/orlando1/1orlando/1905
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Boomerang.png" group-title="CANAIS: INFANTIS",  KING BR -BOOMERANG SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23037
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Touch HD
-http://193.200.164.155:8080/orlando1/1orlando/2237
+#EXTINF:-1 tvg-logo="http://abre.ai/Xr1" group-title="CANAIS: ABERTOS",  KING BR -CANAL BRASIL SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5442
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Touch
-http://193.200.164.155:8080/orlando1/1orlando/2236
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS: ABERTOS",  KING BR -CANAL BRASIL SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23252
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Touch Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1326
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Canal_Sony.png" group-title="CANAIS: FILMES E SERIES",  KING BR -CANAL SONY HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5305
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Touch Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1231
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Canal_Sony.png" group-title="CANAIS: FILMES E SERIES",  KING BR -CANAL SONY SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5289
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Pipoca FHD
-http://193.200.164.155:8080/orlando1/1orlando/1903
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cartoon_Network.png" group-title="CANAIS: INFANTIS",  KING BR -CARTOON NETWORK HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23039
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Pipoca HD
-http://193.200.164.155:8080/orlando1/1orlando/2233
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cartoon_Network.png" group-title="CANAIS: INFANTIS",  KING BR -CARTOON NETWORK SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5275
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Pipoca
-http://193.200.164.155:8080/orlando1/1orlando/2232
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cartoon_Network.png" group-title="CANAIS: INFANTIS",  KING BR -CARTOON NETWORK SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23040
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Pipoca Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1281
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/iTcZz3jLEQVvfy0ro0gJ1CwmOMk=/195x289/smart/media/movies/covers/2010/01/ae29d514be77f161a1cedbcc4bbd3ec0.jpg" group-title="CANAIS: SÉRIES 24HS",  KING BR -CHANGEMAN
+http://brasiltv.pro:8080/jonathan/jonathan123/26555
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Pipoca Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1229
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DvXQp1wwL._SY445_.jpg" group-title="CANAIS: SÉRIES 24HS",  KING BR -CHAPOLIN COLORADO
+http://brasiltv.pro:8080/jonathan/jonathan123/26524
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Fun FHD
-http://193.200.164.155:8080/orlando1/1orlando/1902
+#EXTINF:-1 tvg-logo="https://capas-m2.wmixvideo.com.br/cr111862.jpg" group-title="CANAIS: SÉRIES 24HS",  KING BR -CHAVES
+http://brasiltv.pro:8080/jonathan/jonathan123/26523
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Fun HD
-http://193.200.164.155:8080/orlando1/1orlando/2231
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cinemax.png" group-title="CANAIS: FULLHD",  KING BR -CINEMAX FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23295
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Fun
-http://193.200.164.155:8080/orlando1/1orlando/2230
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cinemax.png" group-title="CANAIS: FILMES E SERIES",  KING BR -CINEMAX HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5147
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Fun Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1280
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Cinemax.png" group-title="CANAIS: FILMES E SERIES",  KING BR -CINEMAX HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23296
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Fun Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1227
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/CNN-Brasil.png" group-title="CANAIS: NOTICIAS",  KING BR -CNN BRASIL HD
+http://brasiltv.pro:8080/jonathan/jonathan123/27689
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Cult FHD
-http://193.200.164.155:8080/orlando1/1orlando/1866
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/CNN-Brasil.png" group-title="CANAIS: NOTICIAS",  KING BR -CNN BRASIL HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/26659
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Cult HD
-http://193.200.164.155:8080/orlando1/1orlando/2229
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/CNN-Brasil.png" group-title="CANAIS: NOTICIAS",  KING BR -CNN BRASIL SD[2]
+http://brasiltv.pro:8080/jonathan/jonathan123/27362
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Cult
-http://193.200.164.155:8080/orlando1/1orlando/2228
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Combate.png" group-title="CANAIS: FULLHD",  KING BR -COMBATE FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23092
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Telecine Alternativo Cult HD
-http://193.200.164.155:8080/orlando1/1orlando/1347
+#EXTINF:-1 tvg-logo="http://abre.ai/UOS" group-title="CANAIS: FULLHD",  KING BR -COMEDY CENTRAL FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23365
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - TC Cult Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1226
+#EXTINF:-1 tvg-logo="http://abre.ai/UOS" group-title="CANAIS: VARIEDADES",  KING BR -COMEDY CENTRAL HD 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5244
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Megapix FHD
-http://193.200.164.155:8080/orlando1/1orlando/1848
+#EXTINF:-1 tvg-logo="http://abre.ai/XsO" group-title="CANAIS: VARIEDADES",  KING BR -CURTA! HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23369
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Megapix HD
-http://193.200.164.155:8080/orlando1/1orlando/2164
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/DAZN.png" group-title="CANAIS: ESPORTES",  KING BR -DAZN 03 HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5383
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Megapix
-http://193.200.164.155:8080/orlando1/1orlando/2163
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/DAZN.png" group-title="CANAIS: ESPORTES",  KING BR -DAZN 3 HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23283
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - MegaPix Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1321
+#EXTINF:-1 tvg-logo="https://www.animeserie.com/product_images/h/499/Desenhos_B%EDblicos__45960_zoom.jpg" group-title="CANAIS: DESENHOS 24HS",  KING BR -DESENHOS BIBLICOS
+http://brasiltv.pro:8080/jonathan/jonathan123/26579
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - MegaPix Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1205
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Channel.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY CHANNEL FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22981
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Studio Universal FHD
-http://193.200.164.155:8080/orlando1/1orlando/1863
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Channel.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY CHANNEL HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5176
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Studio Universal HD
-http://193.200.164.155:8080/orlando1/1orlando/2222
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Channel.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY CHANNEL HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22982
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Studio Universal
-http://193.200.164.155:8080/orlando1/1orlando/2221
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Channel.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY CHANNEL SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5210
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Studio Universal Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1266
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Channel.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY CHANNEL SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22983
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Studio Universal Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1222
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Civilization.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY CIVILIZATION HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5177
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Syfy FHD
-http://193.200.164.155:8080/orlando1/1orlando/1864
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Civilization.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY CIVILIZATION SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22986
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Syfy HD
-http://193.200.164.155:8080/orlando1/1orlando/2215
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Home_Health.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY HOME & HEALTH SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5402
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Syfy
-http://193.200.164.155:8080/orlando1/1orlando/2214
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Home_Health.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY HOME & HEALTH FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22987
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - SyFy Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1267
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Home_Health.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY HOME & HEALTH HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5178
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Syfy Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1223
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Home_Health.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY HOME & HEALTH HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22988
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Brasil FHD
-http://193.200.164.155:8080/orlando1/1orlando/1908
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Home_Health.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY HOME & HEALTH SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22989
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Brasil HD
-http://193.200.164.155:8080/orlando1/1orlando/2067
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Kids.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY KIDS FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23041
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Brasil
-http://193.200.164.155:8080/orlando1/1orlando/2066
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Kids.png" group-title="CANAIS: INFANTIS",  KING BR -DISCOVERY KIDS HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5255
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Brasil Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1331
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Kids.png" group-title="CANAIS: INFANTIS",  KING BR -DISCOVERY KIDS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23042
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Brasil Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1123
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Kids.png" group-title="CANAIS: INFANTIS",  KING BR -DISCOVERY KIDS SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23043
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO FHD
-http://193.200.164.155:8080/orlando1/1orlando/1891
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Science.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY SCIENCE FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22990
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO HD
-http://193.200.164.155:8080/orlando1/1orlando/2144
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Science.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY SCIENCE HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5179
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO
-http://193.200.164.155:8080/orlando1/1orlando/2139
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Science.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY SCIENCE HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22991
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1271
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Science.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY SCIENCE SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22992
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1140
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Theater.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY THEATER FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22993
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO 2 FHD
-http://193.200.164.155:8080/orlando1/1orlando/1890
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Theater.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY THEATER HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5180
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO 2 HD
-http://193.200.164.155:8080/orlando1/1orlando/2141
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Theater.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY THEATER SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22995
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO 2
-http://193.200.164.155:8080/orlando1/1orlando/2140
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_TLC.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY TLC HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23127
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO 2 Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1405
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Turbo.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY TURBO HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5181
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO 2 Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1141
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Turbo.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY TURBO HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23130
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Plus FHD
-http://193.200.164.155:8080/orlando1/1orlando/1840
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_Turbo.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY TURBO SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23131
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Plus HD
-http://193.200.164.155:8080/orlando1/1orlando/2146
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_World.png" group-title="CANAIS: FULLHD",  KING BR -DISCOVERY WORLD FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23132
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Plus
-http://193.200.164.155:8080/orlando1/1orlando/2145
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_World.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY WORLD HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5182
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Plus Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1318
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_World.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY WORLD HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23133
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Plus Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1142
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Discovery_World.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -DISCOVERY WORLD SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23134
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Family FHD
-http://193.200.164.155:8080/orlando1/1orlando/1839
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Disney_Channel.png" group-title="CANAIS: FULLHD",  KING BR -DISNEY CHANNEL FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23047
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Family HD
-http://193.200.164.155:8080/orlando1/1orlando/2143
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Disney_Channel.png" group-title="CANAIS: INFANTIS",  KING BR -DISNEY CHANNEL HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5268
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Family
-http://193.200.164.155:8080/orlando1/1orlando/2142
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Disney_Channel.png" group-title="CANAIS: INFANTIS",  KING BR -DISNEY CHANNEL HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23048
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Family Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1317
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Disney_Channel.png" group-title="CANAIS: INFANTIS",  KING BR -DISNEY CHANNEL SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23049
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Family Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1198
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Disney_Junior.png" group-title="CANAIS: INFANTIS",  KING BR -DISNEY JR SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23052
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Signature FHD
-http://193.200.164.155:8080/orlando1/1orlando/1841
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-R5m9NefAYEw/WnQljhKSqdI/AAAAAAAAINs/Fu5xciCMCt8OKh9EVNdjToxfotQcdT98wCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="CANAIS: INFANTIS",  KING BR -DISNEY JR HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5269
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Signature HD
-http://193.200.164.155:8080/orlando1/1orlando/2148
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-R5m9NefAYEw/WnQljhKSqdI/AAAAAAAAINs/Fu5xciCMCt8OKh9EVNdjToxfotQcdT98wCLcBGAs/s1600/Logo%2BDisney_Junior.png" group-title="CANAIS: INFANTIS",  KING BR -DISNEY JR SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5262
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Signature
-http://193.200.164.155:8080/orlando1/1orlando/2147
+#EXTINF:-1 tvg-logo="https://capas-m2.wmixvideo.com.br/cr135763.jpg" group-title="CANAIS: SÉRIES 24HS",  KING BR -DOIS HOMENS E MEIO
+http://brasiltv.pro:8080/jonathan/jonathan123/26526
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Signature Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1319
+#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/1622_ducktales.jpg" group-title="CANAIS: DESENHOS 24HS",  KING BR -DUCKTALES
+http://brasiltv.pro:8080/jonathan/jonathan123/26580
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Signature Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1143
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/EI_Plus.png" group-title="CANAIS: ESPORTES",  KING BR -EI PLUS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23373
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Mundi HD
-http://193.200.164.155:8080/orlando1/1orlando/2158
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -EPTV CAMPINAS SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5450
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Mundi
-http://193.200.164.155:8080/orlando1/1orlando/2157
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -EPTV RIBEIRAO PRETO SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5451
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Mundi Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1477
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -EPTV SAO CARLOS SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5449
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Mundi
-http://193.200.164.155:8080/orlando1/1orlando/1202
+#EXTINF:-1 tvg-logo="http://abre.ai/U8k" group-title="CANAIS: FULLHD",  KING BR -ESPN  FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23095
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO POP FHD
-http://193.200.164.155:8080/orlando1/1orlando/1847
+#EXTINF:-1 tvg-logo="http://abre.ai/UO8" group-title="CANAIS: VARIEDADES",  KING BR -FOOD NETWORK 1 SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5213
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO POP HD
-http://193.200.164.155:8080/orlando1/1orlando/2162
+#EXTINF:-1 tvg-logo="http://abre.ai/UO8" group-title="CANAIS: FULLHD",  KING BR -FOOD NETWORK FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23374
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO POP
-http://193.200.164.155:8080/orlando1/1orlando/2161
+#EXTINF:-1 tvg-logo="http://abre.ai/UO8" group-title="CANAIS: VARIEDADES",  KING BR -FOOD NETWORK HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23375
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO POP Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1478
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/FOX.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5301
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO POP Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1149
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Life.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX LIFE HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5302
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Xtreme FHD
-http://193.200.164.155:8080/orlando1/1orlando/1846
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Life.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX LIFE HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23301
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Xtreme HD
-http://193.200.164.155:8080/orlando1/1orlando/2160
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Life.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX LIFE SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23302
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - HBO Xtreme
-http://193.200.164.155:8080/orlando1/1orlando/2159
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Premium_1.png" group-title="CANAIS: FULLHD",  KING BR -FOX PREMIUM 1 FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23303
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Filmes", Prey
-http://ceuci.lhmtv.gq/filmes/Prey 2020.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Premium_1.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX PREMIUM 1 HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5303
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Filmes", 1918 - A Batalja de Kruty
-http://ceuci.lhmtv.gq/filmes/1918%20%E2%80%93%20A%20Batalha%20de%20Kruty.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Premium_1.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX PREMIUM 1 HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23304
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Filmes", Ameaca Profunda
-http://ceuci.lhmtv.gq/filmes/Amea%C3%A7a.Profunda.2020.720p.BluRay.6CH.x264.DUBLADO-LAPUMiA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Premium_1.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX PREMIUM 1 SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23305
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AMC H265
-http://193.200.164.155:8080/orlando1/1orlando/6579
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/FOX.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FOX SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5321
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AMC HD
-http://193.200.164.155:8080/orlando1/1orlando/2048
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Fox_Sports.png" group-title="CANAIS: FULLHD",  KING BR -FOX SPORTS FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23120
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Animal Planet H265
-http://193.200.164.155:8080/orlando1/1orlando/6535
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest/scale-to-width-down/310?cb=20190209220424" group-title="CANAIS: ABERTOS",  KING BR -FUTURA SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5482
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Animação 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11716
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/FX.png" group-title="CANAIS: FULLHD",  KING BR -FX FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23309
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN
-http://193.200.164.155:8080/orlando1/1orlando/2053
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/FX.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FX HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5300
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1119
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/FX.png" group-title="CANAIS: FILMES E SERIES",  KING BR -FX SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23311
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1308
+#EXTINF:-1 tvg-logo="http://abre.ai/ZVr" group-title="CANAIS: ABERTOS",  KING BR -GAZETA HD SP
+http://brasiltv.pro:8080/jonathan/jonathan123/5465
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN FHD
-http://193.200.164.155:8080/orlando1/1orlando/1810
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO AMAZONAS SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22838
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN H265
-http://193.200.164.155:8080/orlando1/1orlando/6536
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO BRASILIA SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5117
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN HD
-http://193.200.164.155:8080/orlando1/1orlando/2054
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO BSB HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5124
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN FHD LEG
-http://193.200.164.155:8080/orlando1/1orlando/24778
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO CUIABA SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22840
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN HD LEG
-http://193.200.164.155:8080/orlando1/1orlando/2335
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO EPTV CAMPINAS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22841
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - AXN LEG
-http://193.200.164.155:8080/orlando1/1orlando/2336
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO EPTV CAMPINAS SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22842
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Ação 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11622
+#EXTINF:-1 tvg-logo="http://abre.ai/Xrf" group-title="CANAIS: FULLHD",  KING BR -GLOBO EPTV RIBEIRAO PRETO FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22843
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band News H265
-http://193.200.164.155:8080/orlando1/1orlando/6580
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO EPTV SAO CARLOS SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22844
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Band Sports H265
-http://193.200.164.155:8080/orlando1/1orlando/6537
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO GAZETA SUL ES
+http://brasiltv.pro:8080/jonathan/jonathan123/5125
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - BIS H265
-http://193.200.164.155:8080/orlando1/1orlando/6581
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO GAZETA SUL ES HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22845
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Boomerang H265
-http://193.200.164.155:8080/orlando1/1orlando/6613
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO INTERNACIONAL HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5128
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Brasil H265
-http://193.200.164.155:8080/orlando1/1orlando/6582
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO MINAS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22847
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Canal Sony H265
-http://193.200.164.155:8080/orlando1/1orlando/6612
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Globo-News.png" group-title="CANAIS: NOTICIAS",  KING BR -GLOBO NEWS HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5391
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Cartoon Network H265
-http://193.200.164.155:8080/orlando1/1orlando/6583
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Globo-News.png" group-title="CANAIS: NOTICIAS",  KING BR -GLOBO NEWS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22849
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Cinemax
-http://193.200.164.155:8080/orlando1/1orlando/2073
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Globo-News.png" group-title="CANAIS: NOTICIAS",  KING BR -GLOBO NEWS SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22850
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Cinemax Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1185
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO NORDESTE SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5119
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Cinemax FHD
-http://193.200.164.155:8080/orlando1/1orlando/1816
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO NORDESTE SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22851
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Cinemax H265
-http://193.200.164.155:8080/orlando1/1orlando/6584
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO RBS PORTO ALEGRE SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22855
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Cinemax HD
-http://193.200.164.155:8080/orlando1/1orlando/2074
+#EXTINF:-1 tvg-logo="http://abre.ai/Xrf" group-title="CANAIS: FULLHD",  KING BR -GLOBO RJ FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22857
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Combate H265
-http://193.200.164.155:8080/orlando1/1orlando/6585
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO RJ HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5129
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Comédia 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11625
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO RJ HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22858
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - DC Comics 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11717
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO RJ SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5120
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovert Turbo H265
-http://193.200.164.155:8080/orlando1/1orlando/6539
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO RJ SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22859
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery Channel H265
-http://193.200.164.155:8080/orlando1/1orlando/6543
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO SP HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22864
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery Civilization H265
-http://193.200.164.155:8080/orlando1/1orlando/6586
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO SP SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5121
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery Home & Health H265
-http://193.200.164.155:8080/orlando1/1orlando/6544
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO SP SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22865
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery Kids H265
-http://193.200.164.155:8080/orlando1/1orlando/6587
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO TV BAHIA SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22866
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery Science H265
-http://193.200.164.155:8080/orlando1/1orlando/6588
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO TV BELEM SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22867
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery Theater H265
-http://193.200.164.155:8080/orlando1/1orlando/6538
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/globo.png" group-title="CANAIS: GLOBO",  KING BR -GLOBO TV VERDES MARES FORTALEZA SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/22871
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Discovery World H265
-http://193.200.164.155:8080/orlando1/1orlando/6540
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_gpruv6m5DY/Vll81jkc2_I/AAAAAAAAebs/GfRZSRzGMOk/s1600/%252Bglobosat.png" group-title="CANAIS: VARIEDADES",  KING BR -GLOBOSAT HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23377
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Disney Channel H265
-http://193.200.164.155:8080/orlando1/1orlando/6589
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Gloob.png" group-title="CANAIS: FULLHD",  KING BR -GLOOB FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23056
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Disney Jr H265
-http://193.200.164.155:8080/orlando1/1orlando/6590
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Gloob.png" group-title="CANAIS: INFANTIS",  KING BR -GLOOB HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5267
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Drama 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11626
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Gloob.png" group-title="CANAIS: INFANTIS",  KING BR -GLOOB SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5271
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - E! H265
-http://193.200.164.155:8080/orlando1/1orlando/6591
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Gloob.png" group-title="CANAIS: INFANTIS",  KING BR -GLOOB SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23058
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN 2 H265
-http://193.200.164.155:8080/orlando1/1orlando/6576
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/661px-GNT_logo-roxo.svg.png" group-title="CANAIS: VARIEDADES",  KING BR -GNT HD 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5248
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Brasil H265
-http://193.200.164.155:8080/orlando1/1orlando/6541
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/661px-GNT_logo-roxo.svg.png" group-title="CANAIS: VARIEDADES",  KING BR -GNT HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23379
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN Extra H265
-http://193.200.164.155:8080/orlando1/1orlando/6542
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/661px-GNT_logo-roxo.svg.png" group-title="CANAIS: VARIEDADES",  KING BR -GNT SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23380
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - ESPN H265
-http://193.200.164.155:8080/orlando1/1orlando/6592
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/H2.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -H2 1
+http://brasiltv.pro:8080/jonathan/jonathan123/5165
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Fantasia 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11627
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/H2.png" group-title="CANAIS: FULLHD",  KING BR -H2 FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23003
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Faroeste 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11651
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/H2.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -H2 HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5164
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Ficção 24Hs
-http://193.200.164.155:8080/orlando1/1orlando/11628
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/H2.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -H2 HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23004
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Film & Art Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1194
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_2.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO 2 HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5137
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Film & Arts
-http://193.200.164.155:8080/orlando1/1orlando/2280
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_2.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO 2 HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23013
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Food Network H265
-http://193.200.164.155:8080/orlando1/1orlando/6593
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_2.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO 2 SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5146
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Fox
-http://193.200.164.155:8080/orlando1/1orlando/2113
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Family.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO FAMILY HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5138
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Fox Alternativo
-http://193.200.164.155:8080/orlando1/1orlando/1133
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Family.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO FAMILY HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23015
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - FOX Alternativo HD
-http://193.200.164.155:8080/orlando1/1orlando/1313
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Family.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO FAMILY SD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23016
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Fox FHD
-http://193.200.164.155:8080/orlando1/1orlando/1885
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO.png" group-title="CANAIS: FULLHD",  KING BR -HBO FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23017
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Fox H265
-http://193.200.164.155:8080/orlando1/1orlando/6594
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO HD 2
+http://brasiltv.pro:8080/jonathan/jonathan123/5139
 
-#EXTINF:-1 tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="CANAIS",  KING BR  - Fox HD
-http://193.200.164.155:8080/orlando1/1orlando/2114
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Mundi.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO MUNDI HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23026
 
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Mundi.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO MUNDI SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5156
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Plus.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO PLUS HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5140
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Plus.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO PLUS HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23020
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Plus.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO PLUS SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5144
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Pop.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO POP HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5155
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Pop.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO POP HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23031
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5142
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Hbo_Signature.png" group-title="CANAIS: FULLHD",  KING BR -HBO SIGNATURE FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23023
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Hbo_Signature.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO SIGNATURE HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5141
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Hbo_Signature.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO SIGNATURE HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23024
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/Hbo_Signature.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO SIGNATURE SD
+http://brasiltv.pro:8080/jonathan/jonathan123/5145
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/HBO_Xtreme.png" group-title="CANAIS: FILMES E SERIES",  KING BR -HBO XTREME HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23029
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/History_Channel.png" group-title="CANAIS: FULLHD",  KING BR -HISTORY CHANNEL FHD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23000
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/History_Channel.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -HISTORY CHANNEL HD [2]
+http://brasiltv.pro:8080/jonathan/jonathan123/23001
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/History_Channel.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -HISTORY CHANNEL HD
+http://brasiltv.pro:8080/jonathan/jonathan123/5162
+
+#EXTINF:-1 tvg-logo="https://brasiltv.store/capas_canais/ID_Investigacao_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",  KING BR -ID - INVESTIGACÃO DISCOVERY
