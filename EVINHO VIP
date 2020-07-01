@@ -1,4 +1,38 @@
 #EXTM3U
+
+
+
+
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61690
+#EXTINF:-1,Animal Planet [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61841
+#EXTINF:-1,Cartoon Network [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61843
+#EXTINF:-1,Discovery Channel [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61838
+#EXTINF:-1,FoxSports 2 [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61847
+#EXTINF:-1,MegaPix 4K
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61844
+#EXTINF:-1,Multishow [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61842
+#EXTINF:-1,National Geographic [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61846
+#EXTINF:-1,RecordTV [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61836
+#EXTINF:-1,RedeTV! [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61837
+#EXTINF:-1,SBT [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61840
+#EXTINF:-1,TNT [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61839
+#EXTINF:-1,TNT Séries [4K]
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61845
+#EXTINF:-1,Esporte Interativo HD
+http://tv.minhalista.me:80/Teste002020/t1n4vml75qe/61879
+
+
+
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Filmes e Series",A&E
 http://tv.minhalista.me:80/live/Teste002020/t1n4vml75qe/37130.m3u8
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",A&E FHD
