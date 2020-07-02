@@ -1,29 +1,29 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yl8nVlp.jpg" group-title="ANIMAÇÃO", Sahara (2017)
-https://ia601500.us.archive.org/35/items/luaSaara/luaSaara.MP4
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="AÇÃO",88 (2015)
-https://lh3.googleusercontent.com/CETgH_NlZNrU6q6iYUZPFBeiqARrj6WqOlzqpPFGp_oFpdlVc7SjOaEa1Wpq-q_IuYCQ3HCd6cQ=m18
-#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FICÇÃO CIENTÍFICA",A Conquista do Planeta dos Macacos (1972)
-https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A%20Conquista%20do%20Planeta%20dos%20Macacos%20(1972)%20BluRay%201080p%20Dual%20%C3%81udio.mp4?&LYSTANALDYNHO
+﻿
+<channels> </channels><channel> <name>[B] A HISTORIA DE ESTER  [/B] -  KING BR </name>****************** <item> <title>[B][COLOR lime]BAIXE O ELEMENTUM PARA RODAR AS NOVELAS[/B][COLOR yellow][B][/COLOR][/B]</title> <link>https://</link> <thumbnail>https://i.imgur.com/QvIAL52.jpg</thumbnail> <fanart>https://i.imgur.com/QvIAL52.jpg</fanart> <info>[ BY EVERSON SANTOS ]
 
 
-#EXTINF:-1<item><title>[B] O Irlandes [/B] - KING BR</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m9A6Nzw2XNn6o8--KIxefvanYWL_oo9M/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FwYM9UqVtJiEDp8kZRNG51qJvt.jpg</thumbnail></item>
+     [B]NOVELAS SEM TRAVAMENTO[/B]
+          
+         Boas batalhas contra o mal foram travadas nesta épica história bíblica de heroísmo. Essa narrativa apresenta Mardoqueu (Robert Miano), um honesto judeu, e Hamã (Thaao Penghlis), um perverso primeiro-ministro que foge completamente ao controle do jovem rei persa Xerxes. Hamã é o segundo em autoridade depois do rei persa e quer ser venerado por todos. Mas Mardoqueu não se curva diante dele. Tal atitude aumenta a ira de Hamã e o faz criar planos terríveis contra esse líder judeu e seu povo.                  </info>
+</item>  
+<item>
+<title>[B]A HISTORIA DE ESTER  - [COLOR yellow](NOVELAS - KING BR)[/COLOR] - [COLOR lime](720p)[/COLOR] - KING BR[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1775a44c7cb38e9c6fb3a5c6c5702b95f00553bd&dn=A+Hist%26oacute%3Bria+de+Ester+%282013%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.imgur.com/QvIAL52.jpg</thumbnail>
+<fanart>https://i.imgur.com/QvIAL52.jpg</fanart>
+<info>[ BY EVERSON SANTOS ]
 
 
+     [B]NOVELAS SEM TRAVAMENTO[/B]
 
-
-#EXTINF:-1<item><title>[B] O Herdeiro Das Drogas     [/B] - KING BR</title><link>https://f000.backblazeb2.com/file/filmetube/O.Herdeiro.das.Drogas.2020.1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdI8mVnAMt2V8xUmsFxfMVYfCEe.jpg</thumbnail></item>
-
-
-
-
-#EXTINF:-1<item><title>[B] Artico     [/B] - KING BR</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z4gCQU0TYhrjKOofSRFvmkDatkrBELIF/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPuhXR5rYiHf5soWL8jZSw6AqGr.jpg</thumbnail></item>
-
-
+                    </info>
+<genre></genre>
+</item>
 
 
 
 
 
 
+
+ <channels> </channels>
