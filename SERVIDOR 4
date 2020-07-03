@@ -1,662 +1,535 @@
 #EXTM3U
 
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68839
-#EXTINF:-1,Baby HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69031
-#EXTINF:-1,Band HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68729
-#EXTINF:-1,Band News HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69071
-#EXTINF:-1,Band Sports HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69109
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69151
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69034
-#EXTINF:-1,Canal Brasil HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69155
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69037
-#EXTINF:-1,Chef TV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69158
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68842
-#EXTINF:-1,CNN Espanhol HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69074
-#EXTINF:-1,CNN Internacional HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69077
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69113
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69161
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69164
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68792
-#EXTINF:-1,Discovery Civilization HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68795
-#EXTINF:-1,Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68798
-#EXTINF:-1,Discovery ID HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68801
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69040
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68807
-#EXTINF:-1,Discovery Theather HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68810
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68813
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68816
-#EXTINF:-1,Disney Channel HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69043
-#EXTINF:-1,Disney JR HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69046
-#EXTINF:-1,Disney XD HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69049
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69168
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69116
-#EXTINF:-1,ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69119
-#EXTINF:-1,ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69121
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69124
-#EXTINF:-1,Fish TV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69171
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69174
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68845
-#EXTINF:-1,Fox Life HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68847
-#EXTINF:-1,Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68850
-#EXTINF:-1,Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68852
-#EXTINF:-1,Fox Sport HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69126
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69128
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68855
-#EXTINF:-1,Globo Centro America HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68910
-#EXTINF:-1,Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68912
-#EXTINF:-1,Globo SP HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68933
-#EXTINF:-1,Globo News HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69081
-#EXTINF:-1,Globo NSC Florianopolis HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68945
-#EXTINF:-1,Globo RPC Paranaense HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68961
-#EXTINF:-1,Globo TV Bahia HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68976
-#EXTINF:-1,Globo TV Belem HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68980
-#EXTINF:-1,Globo TV Mirante HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68990
-#EXTINF:-1,Globo TV Morena HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68992
-#EXTINF:-1,Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69011
-#EXTINF:-1,GloboTV Anhanguera HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69014
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69052
-#EXTINF:-1,Gloobinho HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69055
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69178
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68820
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69019
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69022
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69024
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69028
-#EXTINF:-1,i SAT HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69181
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69185
-#EXTINF:-1,Mais Globosat HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69188
-#EXTINF:-1,MAX HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68859
-#EXTINF:-1,Max Prime HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68861
-#EXTINF:-1,Max UP HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68865
-#EXTINF:-1,Megapix HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68868
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69191
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69194
-#EXTINF:-1,Music Box Brasil HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69197
-#EXTINF:-1,Natgeo HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68823
-#EXTINF:-1,Natgeo Kids HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69058
-#EXTINF:-1,Natgeo Wild HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68826
-#EXTINF:-1,Nick HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69061
-#EXTINF:-1,Nick JR HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69063
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69203
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69206
-#EXTINF:-1,Play TV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69209
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69087
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69090
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69093
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69096
-#EXTINF:-1,Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69099
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69102
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69106
-#EXTINF:-1,Prime Box Brasil HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69213
-#EXTINF:-1,Record News HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69084
-#EXTINF:-1,Rede TV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68762
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68766
-#EXTINF:-1,Sony HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68871
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68874
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69139
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69142
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69145
-#EXTINF:-1,Studio Universal HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68877
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68880
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68883
-#EXTINF:-1,TC Action HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68710
-#EXTINF:-1,TC Cult HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68713
-#EXTINF:-1,TC Fun HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68716
-#EXTINF:-1,TC Pipoca HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68719
-#EXTINF:-1,TC Premium HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68722
-#EXTINF:-1,TC Touch HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68725
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68886
-#EXTINF:-1,The History HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68829
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68889
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68892
-#EXTINF:-1,TNT Series HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68895
-#EXTINF:-1,Tooncast HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69067
-#EXTINF:-1,True TV HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68832
-#EXTINF:-1,TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68784
-#EXTINF:-1,Universal Channel HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68899
-#EXTINF:-1,VH1 Mega Hits HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69228
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69231
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68902
-#EXTINF:-1,Record  HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68744
-#EXTINF:-1,Globo Minas HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68929
-#EXTINF:-1,Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68940
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68948
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69016
-#EXTINF:-1,DAZN1 HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71806
-#EXTINF:-1,LIBERTADORES HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71819
-#EXTINF:-1,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72752
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72755
-#EXTINF:-1,TV RIO SUL HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72757
-#EXTINF:-1,A&E FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68834
-#EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68788
-#EXTINF:-1,Arte 1 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69147
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68838
-#EXTINF:-1,Baby FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69030
-#EXTINF:-1,Band FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68728
-#EXTINF:-1,Band News FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69070
-#EXTINF:-1,Band Sports FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69108
-#EXTINF:-1,BIS FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69150
-#EXTINF:-1,Boomerang FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69033
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69154
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69036
-#EXTINF:-1,Chef TV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69157
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68841
-#EXTINF:-1,CNN Espanhol FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69073
-#EXTINF:-1,CNN Internacional FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69076
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69112
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69160
-#EXTINF:-1,Curta! FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69163
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68791
-#EXTINF:-1,Discovery Civilization FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68794
-#EXTINF:-1,Discovery Home & Health FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68797
-#EXTINF:-1,Discovery ID FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68800
-#EXTINF:-1,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69039
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68806
-#EXTINF:-1,Discovery Theather FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68809
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68812
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68815
-#EXTINF:-1,Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69042
-#EXTINF:-1,Disney JR FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69045
-#EXTINF:-1,Disney XD FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69048
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69167
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69115
-#EXTINF:-1,ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69118
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69123
-#EXTINF:-1,Fish TV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69170
-#EXTINF:-1,Food Network FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69173
-#EXTINF:-1,FOX FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68844
-#EXTINF:-1,Fox Life FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68846
-#EXTINF:-1,Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68849
-#EXTINF:-1,Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68851
-#EXTINF:-1,Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69127
-#EXTINF:-1,Fox Sports FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69130
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68854
-#EXTINF:-1,Globo Centro America FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68909
-#EXTINF:-1,Globo EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68911
-#EXTINF:-1,Globo Minas FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68927
-#EXTINF:-1,Globo SP FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68932
-#EXTINF:-1,Globo News FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68934
-#EXTINF:-1,Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68937
-#EXTINF:-1,Globo NSC Florianopolis FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68944
-#EXTINF:-1,GLOBO RBS TV POA FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68950
-#EXTINF:-1,Globo TV Bahia FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68975
-#EXTINF:-1,GLOBO TV LIBERAL FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68987
-#EXTINF:-1,Globo TV Mirante FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68989
-#EXTINF:-1,Globo TV Morena FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68991
-#EXTINF:-1,Globo TV Verdes Mares FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69009
-#EXTINF:-1,GloboTV Anhanguera FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69013
-#EXTINF:-1,Gloob FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69051
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69177
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68819
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69015
-#EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69021
-#EXTINF:-1,HBO Plus FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69023
-#EXTINF:-1,HBO Signature FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69027
-#EXTINF:-1,i SAT FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69180
-#EXTINF:-1,Lifetime FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69184
-#EXTINF:-1,Mais Globosat FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69187
-#EXTINF:-1,MAX FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68857
-#EXTINF:-1,Max Prime FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68860
-#EXTINF:-1,Max UP FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68864
-#EXTINF:-1,Megapix FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68867
-#EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69190
-#EXTINF:-1,Multishow FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69193
-#EXTINF:-1,Music Box Brasil FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69196
-#EXTINF:-1,Natgeo FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68822
-#EXTINF:-1,Natgeo Kids FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69057
-#EXTINF:-1,Natgeo Wild FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68825
-#EXTINF:-1,Nick FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69060
-#EXTINF:-1,Nick JR FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69062
-#EXTINF:-1,OFF FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69202
-#EXTINF:-1,Paramount Channel FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69205
-#EXTINF:-1,Play TV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69208
-#EXTINF:-1,Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69086
-#EXTINF:-1,Premiere 3 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69089
-#EXTINF:-1,Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69092
-#EXTINF:-1,Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69095
-#EXTINF:-1,Premiere 6 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69098
-#EXTINF:-1,Premiere 7 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69101
-#EXTINF:-1,Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69105
-#EXTINF:-1,Prime Box Brasil FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69212
-#EXTINF:-1,Record  FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68743
-#EXTINF:-1,Record News FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69083
-#EXTINF:-1,Rede TV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68761
-#EXTINF:-1,SBT FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68765
-#EXTINF:-1,Sony FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68870
-#EXTINF:-1,Space FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68873
-#EXTINF:-1,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69138
-#EXTINF:-1,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69141
-#EXTINF:-1,SporTV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69144
-#EXTINF:-1,Studio Universal FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68876
-#EXTINF:-1,SYFY FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68879
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68882
-#EXTINF:-1,TC ACTION FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68709
-#EXTINF:-1,TC Cult FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68712
-#EXTINF:-1,TC Fun FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68715
-#EXTINF:-1,TC Pipoca FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68718
-#EXTINF:-1,TC Premium FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68721
-#EXTINF:-1,TC Touch FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68724
-#EXTINF:-1,TCM FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68885
-#EXTINF:-1,The History FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68828
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68888
-#EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68891
-#EXTINF:-1,TNT Series FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68894
-#EXTINF:-1,Tooncast FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69066
-#EXTINF:-1,True TV FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68831
-#EXTINF:-1,TV Ra Tim Bum FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68783
-#EXTINF:-1,Universal Channel FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68898
-#EXTINF:-1,VH1 Mega Hits FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69227
-#EXTINF:-1,Viva FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69230
-#EXTINF:-1,Warner Channel FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/68901
-#EXTINF:-1,DAZN1 FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71549
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71809
-#EXTINF:-1,LIBERTADORES FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71810
-#EXTINF:-1,RECORD RJ HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71811
-#EXTINF:-1,RECORD DF HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71812
-#EXTINF:-1,RECORD BH HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71813
-#EXTINF:-1,RECORD BA HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71814
-#EXTINF:-1,RECORD PA HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71815
-#EXTINF:-1,RECORD GO HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71816
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71817
-#EXTINF:-1,RECORD ES HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71818
-#EXTINF:-1,### TABELA JOGOS ###
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71820
-#EXTINF:-1,CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71821
-#EXTINF:-1,JASMIN TV
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71909
-#EXTINF:-1,TV CAMARA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71910
-#EXTINF:-1,TV APARECIDA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71911
-#EXTINF:-1,TV NOVO TEMPO
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71912
-#EXTINF:-1,TV GIDEOES
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71913
-#EXTINF:-1,REDE VIDA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71914
-#EXTINF:-1,CANCAO NOVA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71915
-#EXTINF:-1,TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71916
-#EXTINF:-1,TV FAAP
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71919
-#EXTINF:-1,TERRA VIVA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71920
-#EXTINF:-1,TV JUSTICA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71921
-#EXTINF:-1,TV SENADO
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71922
-#EXTINF:-1,TOP TV
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71923
-#EXTINF:-1,TV CARIOCA
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71924
-#EXTINF:-1,GOSPEL CARTOON
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71925
-#EXTINF:-1,TV PAI ETERNO
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71926
-#EXTINF:-1,RBATV (BAND PA)
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71927
-#EXTINF:-1,TV J.SID
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71928
-#EXTINF:-1,TV DIARIO DO SERTAO
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71929
-#EXTINF:-1,TV UNIAO DE NATAL
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71930
-#EXTINF:-1,TV METROPOLE
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71931
-#EXTINF:-1,TV CAPITAL 77
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71932
-#EXTINF:-1,TV DIGITAL BIRIGUI
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71933
-#EXTINF:-1,TV BAIANA (CULTURA BA)
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71934
-#EXTINF:-1,SUMMER TV
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71935
-#EXTINF:-1,TV PADRE CICERO
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/71936
-#EXTINF:-1,PLAY KIDS HD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72079
-#EXTINF:-1,GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72754
-#EXTINF:-1,TV RIO SUL FHD
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72756
-#EXTINF:-1,A&E FHD (BR2)
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/72766
-#EXTINF:-1,[24H] A Casa do Mickey
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69248
-#EXTINF:-1,[24H] As Aventuras de Jackie Chan
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69249
-#EXTINF:-1,[24h] A Turma da Monica
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69250
-#EXTINF:-1,[24H] Dragon Ball GT
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69251
-#EXTINF:-1,[24H] A Escolinha do  Professor Raimundo
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69252
-#EXTINF:-1,[24H] Dragon Ball Kai
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69253
-#EXTINF:-1,[24H] Dragon Ball
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69254
-#EXTINF:-1,[24H] Dragon Ball Super
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69255
-#EXTINF:-1,[24H] Dragon Ball Z - Saga de Cell
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69256
-#EXTINF:-1,[24H] Dragon Ball Z - Saga de Freeza
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69257
-#EXTINF:-1,[24H] Dragon Ball Z - Saga de Garlic Jr
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69258
-#EXTINF:-1,[24H] Dragon Ball Z - Saga de Majin Boo
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69259
-#EXTINF:-1,[24H] Dragon Ball Z - Saga de Androids
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69260
-#EXTINF:-1,[24H] Dragon Ball Z - Saga de Sayajins
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69261
-#EXTINF:-1,[24H] Dragon Ball Z - Saga Torneio do outro Mundo
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69262
-#EXTINF:-1,[24H] Os Trapalhoes
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69263
-#EXTINF:-1,[24H] Sakura Card Captors
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69265
-#EXTINF:-1,[24H] Samurai Warriors
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69266
-#EXTINF:-1,[24H] Shaman King
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69267
-#EXTINF:-1,[24H] Shinzo
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69268
-#EXTINF:-1,[24H] Shurato
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69269
-#EXTINF:-1,[24H] Silvarhawks
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69270
-#EXTINF:-1,[24H] Speed Racer a Nova Geracao
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69271
-#EXTINF:-1,[24H] Super Mario Bros 3
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69272
-#EXTINF:-1,[24H] Team Galaxy
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69273
-#EXTINF:-1,[24H] Timao e Pumba
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69274
-#EXTINF:-1,[24H] Tom e Jerry
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69275
-#EXTINF:-1,[24H] Tubarao
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69276
-#EXTINF:-1,[24H] Ultramen
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69277
-#EXTINF:-1,[24H] Wally Gator
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69278
-#EXTINF:-1,[24H] Xuxa so para Baixinhos
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69279
-#EXTINF:-1,[24H] Zatch Bell
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69280
-#EXTINF:-1,[24H] Ze Buscape
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69281
-#EXTINF:-1,[24H] A Turma do Charlie Brown e Snoopy
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69282
-#EXTINF:-1,[24H] Ben 10
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69283
-#EXTINF:-1,[24H] Bob Esponja
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69284
-#EXTINF:-1,[24H] Caverna do Dragao
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69285
-#EXTINF:-1,[24H] Corrida Maluca
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69286
-#EXTINF:-1,[24H] Patati Patata
-plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=url=http://tvaz.top:80/ricardo/123456/69264
+
+#EXTINF:-1,A&E SD 
+http://fhr.ddns.net:25461/333333/333333/63436
+#EXTINF:-1,A&E SD 
+http://fhr.ddns.net:25461/333333/333333/63437
+#EXTINF:-1,AMC FHD 
+http://fhr.ddns.net:25461/333333/333333/63438
+#EXTINF:-1,AMC HD 
+http://fhr.ddns.net:25461/333333/333333/63439
+#EXTINF:-1,AMC SD 
+http://fhr.ddns.net:25461/333333/333333/63440
+#EXTINF:-1,AXN FHD 
+http://fhr.ddns.net:25461/333333/333333/63442
+#EXTINF:-1,AXN HD 
+http://fhr.ddns.net:25461/333333/333333/63444
+#EXTINF:-1,AXN HD 
+http://fhr.ddns.net:25461/333333/333333/63445
+#EXTINF:-1,AXN SD 
+http://fhr.ddns.net:25461/333333/333333/63446
+#EXTINF:-1,CINE SKY 01 HD 
+http://fhr.ddns.net:25461/333333/333333/63448
+#EXTINF:-1,CINE SKY 02 HD 
+http://fhr.ddns.net:25461/333333/333333/63449
+#EXTINF:-1,CINE SKY 03 HD 
+http://fhr.ddns.net:25461/333333/333333/63450
+#EXTINF:-1,CINE SKY 04 HD 
+http://fhr.ddns.net:25461/333333/333333/63451
+#EXTINF:-1,CINE SKY 05 HD 
+http://fhr.ddns.net:25461/333333/333333/63452
+#EXTINF:-1,CINE SKY 06 HD 
+http://fhr.ddns.net:25461/333333/333333/63453
+#EXTINF:-1,CINE SKY 07 HD 
+http://fhr.ddns.net:25461/333333/333333/63454
+#EXTINF:-1,CINE SKY 08 HD 
+http://fhr.ddns.net:25461/333333/333333/63455
+#EXTINF:-1,CINE SKY 09 HD 
+http://fhr.ddns.net:25461/333333/333333/63456
+#EXTINF:-1,CINE SKY 10 HD 
+http://fhr.ddns.net:25461/333333/333333/63457
+#EXTINF:-1,WARNER CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/63459
+#EXTINF:-1,WARNER CHANNEL HD 
+http://fhr.ddns.net:25461/333333/333333/63460
+#EXTINF:-1,WARNER CHANNEL SD 
+http://fhr.ddns.net:25461/333333/333333/63461
+#EXTINF:-1,TNT S
+http://fhr.ddns.net:25461/333333/333333/63463
+#EXTINF:-1,TNT S
+http://fhr.ddns.net:25461/333333/333333/63464
+#EXTINF:-1,UNIVERSAL CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/63468
+#EXTINF:-1,UNIVERSAL CHANNEL HD 
+http://fhr.ddns.net:25461/333333/333333/63469
+#EXTINF:-1,UNIVERSAL CHANNEL SD 
+http://fhr.ddns.net:25461/333333/333333/63470
+#EXTINF:-1,BAND NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/63472
+#EXTINF:-1,BAND NEWS HD 
+http://fhr.ddns.net:25461/333333/333333/63473
+#EXTINF:-1,BAND NEWS SD 
+http://fhr.ddns.net:25461/333333/333333/63474
+#EXTINF:-1,CNN BRASIL FHD 
+http://fhr.ddns.net:25461/333333/333333/63475
+#EXTINF:-1,CNN BRASIL FHD 
+http://fhr.ddns.net:25461/333333/333333/63476
+#EXTINF:-1,CNN BRASIL HD 
+http://fhr.ddns.net:25461/333333/333333/63477
+#EXTINF:-1,CNN BRASIL SD 
+http://fhr.ddns.net:25461/333333/333333/63478
+#EXTINF:-1,CNN ESPANHOL SD 
+http://fhr.ddns.net:25461/333333/333333/63479
+#EXTINF:-1,CNN INTERNACIONAL SD 
+http://fhr.ddns.net:25461/333333/333333/63480
+#EXTINF:-1,MAPA CORONA-VIRUS TP HD 
+http://fhr.ddns.net:25461/333333/333333/63481
+#EXTINF:-1,GLOBO NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/63482
+#EXTINF:-1,GLOBO NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/63483
+#EXTINF:-1,GLOBO NEWS HD 
+http://fhr.ddns.net:25461/333333/333333/63484
+#EXTINF:-1,GLOBO NEWS HD 
+http://fhr.ddns.net:25461/333333/333333/63485
+#EXTINF:-1,GLOBO NEWS SD 
+http://fhr.ddns.net:25461/333333/333333/63486
+#EXTINF:-1,GLOBO NEWS SD 
+http://fhr.ddns.net:25461/333333/333333/63487
+#EXTINF:-1,RECORD NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/63488
+#EXTINF:-1,RECORD NEWS HD 
+http://fhr.ddns.net:25461/333333/333333/63489
+#EXTINF:-1,RECORD NEWS SD 
+http://fhr.ddns.net:25461/333333/333333/63490
+#EXTINF:-1,RECORD NEWS SD 
+http://fhr.ddns.net:25461/333333/333333/63491
+#EXTINF:-1,ESPN BRASIL FHD 
+http://fhr.ddns.net:25461/333333/333333/63492
+#EXTINF:-1,ESPN BRASIL HD 
+http://fhr.ddns.net:25461/333333/333333/63493
+#EXTINF:-1,ESPN BRASIL HD 
+http://fhr.ddns.net:25461/333333/333333/63494
+#EXTINF:-1,ESPN BRASIL SD 
+http://fhr.ddns.net:25461/333333/333333/63495
+#EXTINF:-1,ESPN BRASIL SD 
+http://fhr.ddns.net:25461/333333/333333/63496
+#EXTINF:-1,ESPN EXTRA FHD 
+http://fhr.ddns.net:25461/333333/333333/63497
+#EXTINF:-1,ESPN EXTRA FHD 
+http://fhr.ddns.net:25461/333333/333333/63498
+#EXTINF:-1,BAND SPORTS SD 
+http://fhr.ddns.net:25461/333333/333333/63512
+#EXTINF:-1,COMBATE HD 
+http://fhr.ddns.net:25461/333333/333333/63513
+#EXTINF:-1,COMBATE SD 
+http://fhr.ddns.net:25461/333333/333333/63515
+#EXTINF:-1,ESPN EXTRA HD 
+http://fhr.ddns.net:25461/333333/333333/63523
+#EXTINF:-1,ESPN EXTRA HD 
+http://fhr.ddns.net:25461/333333/333333/63524
+#EXTINF:-1,ESPN EXTRA SD 
+http://fhr.ddns.net:25461/333333/333333/63525
+#EXTINF:-1,ESPN EXTRA SD 
+http://fhr.ddns.net:25461/333333/333333/63526
+#EXTINF:-1,ESPN FHD 
+http://fhr.ddns.net:25461/333333/333333/63527
+#EXTINF:-1,ESPN HD 
+http://fhr.ddns.net:25461/333333/333333/63528
+#EXTINF:-1,ESPN HD 
+http://fhr.ddns.net:25461/333333/333333/63529
+#EXTINF:-1,ESPN SD 
+http://fhr.ddns.net:25461/333333/333333/63530
+#EXTINF:-1,FLAMENGO TV FHD
+http://fhr.ddns.net:25461/333333/333333/63532
+#EXTINF:-1,FLAMENGO TV FHD
+http://fhr.ddns.net:25461/333333/333333/63533
+#EXTINF:-1,FOX SPORTS 2 FHD 
+http://fhr.ddns.net:25461/333333/333333/63535
+#EXTINF:-1,FOX SPORTS 2 HD 
+http://fhr.ddns.net:25461/333333/333333/63536
+#EXTINF:-1,FOX SPORTS 2 SD 
+http://fhr.ddns.net:25461/333333/333333/63537
+#EXTINF:-1,FOX SPORTS FHD 
+http://fhr.ddns.net:25461/333333/333333/63538
+#EXTINF:-1,FOX SPORTS HD  
+http://fhr.ddns.net:25461/333333/333333/63539
+#EXTINF:-1,FOX SPORTS SD 
+http://fhr.ddns.net:25461/333333/333333/63540
+#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP 
+http://fhr.ddns.net:25461/333333/333333/63541
+#EXTINF:-1,LIVE ESPORTE INTERATIVO 
+http://fhr.ddns.net:25461/333333/333333/63542
+#EXTINF:-1,AXN - HD
+http://fhr.ddns.net:25461/333333/333333/66884
+#EXTINF:-1,AXN - HD
+http://fhr.ddns.net:25461/333333/333333/66885
+#EXTINF:-1,AXN - SD
+http://fhr.ddns.net:25461/333333/333333/66886
+#EXTINF:-1,MEGAPIX - HD
+http://fhr.ddns.net:25461/333333/333333/66889
+#EXTINF:-1,MEGAPIX - SD
+http://fhr.ddns.net:25461/333333/333333/66891
+#EXTINF:-1,DAZN FHD 
+http://fhr.ddns.net:25461/333333/333333/74701
+#EXTINF:-1,DAZN HD 
+http://fhr.ddns.net:25461/333333/333333/74702
+#EXTINF:-1,DAZN SD 
+http://fhr.ddns.net:25461/333333/333333/74703
+#EXTINF:-1,EI PLUS 1 HD 
+http://fhr.ddns.net:25461/333333/333333/74704
+#EXTINF:-1,EI PLUS 1 SD 
+http://fhr.ddns.net:25461/333333/333333/74705
+#EXTINF:-1,EI PLUS 2 HD 
+http://fhr.ddns.net:25461/333333/333333/74706
+#EXTINF:-1,EI PLUS 2 SD 
+http://fhr.ddns.net:25461/333333/333333/74707
+#EXTINF:-1,EI PLUS 3 HD 
+http://fhr.ddns.net:25461/333333/333333/74708
+#EXTINF:-1,EI PLUS 3 SD 
+http://fhr.ddns.net:25461/333333/333333/74709
+#EXTINF:-1,EI PLUS 4 HD 
+http://fhr.ddns.net:25461/333333/333333/74710
+#EXTINF:-1,EI PLUS 4 SD 
+http://fhr.ddns.net:25461/333333/333333/74711
+#EXTINF:-1,EI PLUS 5 HD 
+http://fhr.ddns.net:25461/333333/333333/74712
+#EXTINF:-1,EI PLUS 5 SD 
+http://fhr.ddns.net:25461/333333/333333/74713
+#EXTINF:-1,EI PLUS 6 HD 
+http://fhr.ddns.net:25461/333333/333333/74714
+#EXTINF:-1,EI PLUS 6 SD 
+http://fhr.ddns.net:25461/333333/333333/74715
+#EXTINF:-1,PREMIERE CLUBES HD 
+http://fhr.ddns.net:25461/333333/333333/74943
+#EXTINF:-1,PREMIERE CLUBES HD 
+http://fhr.ddns.net:25461/333333/333333/74944
+#EXTINF:-1,PREMIERE 3 HD 
+http://fhr.ddns.net:25461/333333/333333/74945
+#EXTINF:-1,PREMIERE 4 HD 
+http://fhr.ddns.net:25461/333333/333333/74946
+#EXTINF:-1,PREMIERE 4 SD 
+http://fhr.ddns.net:25461/333333/333333/74947
+#EXTINF:-1,PREMIERE 5 HD 
+http://fhr.ddns.net:25461/333333/333333/74948
+#EXTINF:-1,PREMIERE 6 HD 
+http://fhr.ddns.net:25461/333333/333333/74949
+#EXTINF:-1,PREMIERE 7 HD 
+http://fhr.ddns.net:25461/333333/333333/74950
+#EXTINF:-1,PREMIERE CLUBES SD 
+http://fhr.ddns.net:25461/333333/333333/74951
+#EXTINF:-1,PREMIERE 2 SD 
+http://fhr.ddns.net:25461/333333/333333/74952
+#EXTINF:-1,PREMIERE 3 SD 
+http://fhr.ddns.net:25461/333333/333333/74953
+#EXTINF:-1,PREMIERE 4 SD 
+http://fhr.ddns.net:25461/333333/333333/74954
+#EXTINF:-1,PREMIERE 5 SD 
+http://fhr.ddns.net:25461/333333/333333/74955
+#EXTINF:-1,PREMIERE 6 SD 
+http://fhr.ddns.net:25461/333333/333333/74956
+#EXTINF:-1,PREMIERE 7 SD 
+http://fhr.ddns.net:25461/333333/333333/74957
+#EXTINF:-1,PREMIERE 8 SD 
+http://fhr.ddns.net:25461/333333/333333/74958
+#EXTINF:-1,CINEMAX FHD 
+http://fhr.ddns.net:25461/333333/333333/74560
+#EXTINF:-1,CINEMAX FHD 
+http://fhr.ddns.net:25461/333333/333333/74561
+#EXTINF:-1,TELECINE ACTION FHD 
+http://fhr.ddns.net:25461/333333/333333/74668
+#EXTINF:-1,TELECINE ACTION FHD 
+http://fhr.ddns.net:25461/333333/333333/74669
+#EXTINF:-1,TELECINE CULT FHD 
+http://fhr.ddns.net:25461/333333/333333/74670
+#EXTINF:-1,TELECINE FUN FHD 
+http://fhr.ddns.net:25461/333333/333333/74671
+#EXTINF:-1,TELECINE PIPOCA FHD 
+http://fhr.ddns.net:25461/333333/333333/74672
+#EXTINF:-1,TELECINE PREMIUM FHD 
+http://fhr.ddns.net:25461/333333/333333/74673
+#EXTINF:-1,TELECINE PREMIUM FHD 
+http://fhr.ddns.net:25461/333333/333333/74674
+#EXTINF:-1,TELECINE TOUCH FHD 
+http://fhr.ddns.net:25461/333333/333333/74675
+#EXTINF:-1,TELECINE TOUCH FHD 
+http://fhr.ddns.net:25461/333333/333333/74676
+#EXTINF:-1,TELECINE PREMIUM 4K 
+http://fhr.ddns.net:25461/333333/333333/74735
+#EXTINF:-1,TELECINE ACTION H.265 
+http://fhr.ddns.net:25461/333333/333333/74790
+#EXTINF:-1,TELECINE FUN H.265 
+http://fhr.ddns.net:25461/333333/333333/74791
+#EXTINF:-1,TELECINE PIPOCA H.265 
+http://fhr.ddns.net:25461/333333/333333/74792
+#EXTINF:-1,TELECINE PREMIUM H.265 
+http://fhr.ddns.net:25461/333333/333333/74793
+#EXTINF:-1,TELECINE TOUCH H.265 
+http://fhr.ddns.net:25461/333333/333333/74794
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD 
+http://fhr.ddns.net:25461/333333/333333/74601
+#EXTINF:-1,GLOBO MATO GROSSO FHD 
+http://fhr.ddns.net:25461/333333/333333/74602
+#EXTINF:-1,GLOBO NORDESTE FHD  
+http://fhr.ddns.net:25461/333333/333333/74606
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FHD 
+http://fhr.ddns.net:25461/333333/333333/74607
+#EXTINF:-1,GLOBO RPC MARING
+http://fhr.ddns.net:25461/333333/333333/74608
+#EXTINF:-1,GLOBO SERGIPE FHD 
+http://fhr.ddns.net:25461/333333/333333/74609
+#EXTINF:-1,GLOBO SP  FHD 
+http://fhr.ddns.net:25461/333333/333333/74610
+#EXTINF:-1,GLOBO TV GAZETA AL FHD 
+http://fhr.ddns.net:25461/333333/333333/74611
+#EXTINF:-1,GLOBO TV GAZETA SUL FHD  
+http://fhr.ddns.net:25461/333333/333333/74612
+#EXTINF:-1,GLOBO TV LIBERAL FHD 
+http://fhr.ddns.net:25461/333333/333333/74613
+#EXTINF:-1,GLOBO SP 4K 
+http://fhr.ddns.net:25461/333333/333333/74724
+#EXTINF:-1,GLOBO NEWS H.265 
+http://fhr.ddns.net:25461/333333/333333/74754
+#EXTINF:-1,GLOBO EPTV CAMPINAS H.265 
+http://fhr.ddns.net:25461/333333/333333/74755
+#EXTINF:-1,GLOBO EPTV SUL MINAS H.265 
+http://fhr.ddns.net:25461/333333/333333/74756
+#EXTINF:-1,GLOBO INTER TV DOS VALES H.265 
+http://fhr.ddns.net:25461/333333/333333/74757
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS H.265 
+http://fhr.ddns.net:25461/333333/333333/74758
+#EXTINF:-1,GLOBO NORDESTE  H.265 
+http://fhr.ddns.net:25461/333333/333333/74759
+#EXTINF:-1,GLOBO NSC BLUMENAL H.265 
+http://fhr.ddns.net:25461/333333/333333/74760
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS H.265 
+http://fhr.ddns.net:25461/333333/333333/74761
+#EXTINF:-1,GLOBO RBS TV POA H.265 
+http://fhr.ddns.net:25461/333333/333333/74762
+#EXTINF:-1,GLOBO RJ H.265 
+http://fhr.ddns.net:25461/333333/333333/74763
+#EXTINF:-1,GLOBO RPC CURITIBA H.265 
+http://fhr.ddns.net:25461/333333/333333/74764
+#EXTINF:-1,GLOBO S
+http://fhr.ddns.net:25461/333333/333333/74765
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA H.265
+http://fhr.ddns.net:25461/333333/333333/74766
+#EXTINF:-1,GLOBO TV BAHIA H.265 
+http://fhr.ddns.net:25461/333333/333333/74767
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA H.265 
+http://fhr.ddns.net:25461/333333/333333/74768
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS H.265 
+http://fhr.ddns.net:25461/333333/333333/74769
+#EXTINF:-1,GLOBO TV LIBERAL H.265 
+http://fhr.ddns.net:25461/333333/333333/74770
+#EXTINF:-1,GLOBO TV MIRANTE H.265 
+http://fhr.ddns.net:25461/333333/333333/74771
+#EXTINF:-1,GLOBO TV MORENA H.265 
+http://fhr.ddns.net:25461/333333/333333/74772
+#EXTINF:-1,GLOBO TV SANTA CRUZ H.265 
+http://fhr.ddns.net:25461/333333/333333/74773
+#EXTINF:-1,GLOBO TV SERGIPE H.265 
+http://fhr.ddns.net:25461/333333/333333/74774
+#EXTINF:-1,GLOBO TV VERDES MARES H.265 
+http://fhr.ddns.net:25461/333333/333333/74775
+#EXTINF:-1,A&E FHD 
+http://fhr.ddns.net:25461/333333/333333/74537
+#EXTINF:-1,AMC FHD 
+http://fhr.ddns.net:25461/333333/333333/74538
+#EXTINF:-1,ARTE 1 FHD 
+http://fhr.ddns.net:25461/333333/333333/74541
+#EXTINF:-1,AXN FHD 
+http://fhr.ddns.net:25461/333333/333333/74542
+#EXTINF:-1,FILM & ARTS FHD 
+http://fhr.ddns.net:25461/333333/333333/74590
+#EXTINF:-1,FX FHD 
+http://fhr.ddns.net:25461/333333/333333/74599
+#EXTINF:-1,MEGAPIX FHD 
+http://fhr.ddns.net:25461/333333/333333/74642
+#EXTINF:-1,MAIS GLOBOSAT FHD 
+http://fhr.ddns.net:25461/333333/333333/74639
+#EXTINF:-1,PARAMOUNT  CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74653
+#EXTINF:-1,SPACE FHD 
+http://fhr.ddns.net:25461/333333/333333/74663
+#EXTINF:-1,STUDIO UNIVERSAL FHD 
+http://fhr.ddns.net:25461/333333/333333/74664
+#EXTINF:-1,SYFY FHD 
+http://fhr.ddns.net:25461/333333/333333/74665
+#EXTINF:-1,TBS FHD 
+http://fhr.ddns.net:25461/333333/333333/74667
+#EXTINF:-1,UNIVERSAL CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74687
+#EXTINF:-1,WARNER CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74689
+#EXTINF:-1,TNT FHD 
+http://fhr.ddns.net:25461/333333/333333/74678
+#EXTINF:-1,TNT S
+http://fhr.ddns.net:25461/333333/333333/74680
+#EXTINF:-1,DISCOVERY CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74568
+#EXTINF:-1,DISCOVERY H&H FHD 
+http://fhr.ddns.net:25461/333333/333333/74569
+#EXTINF:-1,DISCOVERY KIDS FHD 
+http://fhr.ddns.net:25461/333333/333333/74570
+#EXTINF:-1,DISCOVERY SCIENCE FHD 
+http://fhr.ddns.net:25461/333333/333333/74573
+#EXTINF:-1,DISCOVERY THEATER FHD 
+http://fhr.ddns.net:25461/333333/333333/74575
+#EXTINF:-1,DISCOVERY TURBO FHD 
+http://fhr.ddns.net:25461/333333/333333/74578
+#EXTINF:-1,DISCOVERY WORLD FHD 
+http://fhr.ddns.net:25461/333333/333333/74580
+#EXTINF:-1,DISNEY CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74581
+#EXTINF:-1,DISNEY JUNIOR FHD 
+http://fhr.ddns.net:25461/333333/333333/74584
+#EXTINF:-1,DISNEY XD FHD 
+http://fhr.ddns.net:25461/333333/333333/74585
+#EXTINF:-1,DOG TV FHD 
+http://fhr.ddns.net:25461/333333/333333/74587
+#EXTINF:-1,HBO 2 FHD 
+http://fhr.ddns.net:25461/333333/333333/74619
+#EXTINF:-1,HBO 2 FHD 
+http://fhr.ddns.net:25461/333333/333333/74620
+#EXTINF:-1,HBO FAMILY FHD 
+http://fhr.ddns.net:25461/333333/333333/74621
+#EXTINF:-1,HBO FAMILY FHD 
+http://fhr.ddns.net:25461/333333/333333/74622
+#EXTINF:-1,HBO FHD 
+http://fhr.ddns.net:25461/333333/333333/74623
+#EXTINF:-1,HBO MUNDI FHD 
+http://fhr.ddns.net:25461/333333/333333/74624
+#EXTINF:-1,HBO PLUS FHD 
+http://fhr.ddns.net:25461/333333/333333/74625
+#EXTINF:-1,HBO POP FHD 
+http://fhr.ddns.net:25461/333333/333333/74626
+#EXTINF:-1,HBO POP FHD 
+http://fhr.ddns.net:25461/333333/333333/74627
+#EXTINF:-1,HBO SIGNATURE FHD 
+http://fhr.ddns.net:25461/333333/333333/74628
+#EXTINF:-1,HBO XTREME FHD 
+http://fhr.ddns.net:25461/333333/333333/74629
+#EXTINF:-1,HBO XTREME FHD 
+http://fhr.ddns.net:25461/333333/333333/74630
+#EXTINF:-1,FOX CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74592
+#EXTINF:-1,FOX CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74593
+#EXTINF:-1,FOX LIFE FHD 
+http://fhr.ddns.net:25461/333333/333333/74594
+#EXTINF:-1,FOX LIFE FHD 
+http://fhr.ddns.net:25461/333333/333333/74595
+#EXTINF:-1,FOX PREMIUM 1 FHD 
+http://fhr.ddns.net:25461/333333/333333/74596
+#EXTINF:-1,FOX PREMIUM 1 FHD 
+http://fhr.ddns.net:25461/333333/333333/74597
+#EXTINF:-1,FOX PREMIUM 2 FHD 
+http://fhr.ddns.net:25461/333333/333333/74598
+#EXTINF:-1,DAZN FHD 
+http://fhr.ddns.net:25461/333333/333333/74695
+#EXTINF:-1,DAZN FHD 
+http://fhr.ddns.net:25461/333333/333333/74694
+#EXTINF:-1,TOONCAST FHD 
+http://fhr.ddns.net:25461/333333/333333/74700
+#EXTINF:-1,BABY TV FHD 
+http://fhr.ddns.net:25461/333333/333333/74699
+#EXTINF:-1,WOOHOO FHD 
+http://fhr.ddns.net:25461/333333/333333/74691
+#EXTINF:-1,TV RATIMBUM FHD 
+http://fhr.ddns.net:25461/333333/333333/74685
+#EXTINF:-1,NICKELODEON FHD 
+http://fhr.ddns.net:25461/333333/333333/74652
+#EXTINF:-1,NICK JR FHD 
+http://fhr.ddns.net:25461/333333/333333/74651
+#EXTINF:-1,NATGEO KIDS FHD 
+http://fhr.ddns.net:25461/333333/333333/74646
+#EXTINF:-1,GLOOB FHD 
+http://fhr.ddns.net:25461/333333/333333/74615
+#EXTINF:-1,CARTOON NETWORK FHD 
+http://fhr.ddns.net:25461/333333/333333/74557
+#EXTINF:-1,BOOMERANG FHD 
+http://fhr.ddns.net:25461/333333/333333/74550
+#EXTINF:-1,ANIMAL PLANET FHD 
+http://fhr.ddns.net:25461/333333/333333/74539
+#EXTINF:-1,HISTORY CHANNEL FHD 
+http://fhr.ddns.net:25461/333333/333333/74633
+#EXTINF:-1,NATGEO WILD FHD 
+http://fhr.ddns.net:25461/333333/333333/74648
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD 
+http://fhr.ddns.net:25461/333333/333333/74649
+#EXTINF:-1,TLC FHD 
+http://fhr.ddns.net:25461/333333/333333/74677
+#EXTINF:-1,CNN BRASIL FHD 
+http://fhr.ddns.net:25461/333333/333333/74562
+#EXTINF:-1,CNN BRASIL FHD 
+http://fhr.ddns.net:25461/333333/333333/74563
+#EXTINF:-1,BAND NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/74544
+#EXTINF:-1,GLOBO NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/74605
+#EXTINF:-1,GLOBO NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/74604
+#EXTINF:-1,GLOBO MINAS FHD 
+http://fhr.ddns.net:25461/333333/333333/74603
+#EXTINF:-1,RECORD NEWS FHD 
+http://fhr.ddns.net:25461/333333/333333/74657
+#EXTINF:-1,INVESTIGA
+http://fhr.ddns.net:25461/333333/333333/74637
+#EXTINF:-1,INVESTIGA
+http://fhr.ddns.net:25461/333333/333333/74636
+#EXTINF:-1,COMBATE FHD 
+http://fhr.ddns.net:25461/333333/333333/74564
+#EXTINF:-1,BANDEIRANTES HD 
+http://fhr.ddns.net:25461/333333/333333/75111
+#EXTINF:-1,BANDEIRANTES HD 
+http://fhr.ddns.net:25461/333333/333333/75112
+#EXTINF:-1,BANDEIRANTES SD 
+http://fhr.ddns.net:25461/333333/333333/75113
+#EXTINF:-1,RECORD BAHIA SD 
+http://fhr.ddns.net:25461/333333/333333/75114
+#EXTINF:-1,RECORD BEL
+http://fhr.ddns.net:25461/333333/333333/75115
+#EXTINF:-1,RECORD BEL
+http://fhr.ddns.net:25461/333333/333333/75116
+#EXTINF:-1,RECORD BRASILIA HD 
+http://fhr.ddns.net:25461/333333/333333/75117
+#EXTINF:-1,RECORD BRASILIA SD 
+http://fhr.ddns.net:25461/333333/333333/75118
+#EXTINF:-1,RECORD FHD 
+http://fhr.ddns.net:25461/333333/333333/75119
+#EXTINF:-1,RECORD GOIAS SD 
+http://fhr.ddns.net:25461/333333/333333/75120
+#EXTINF:-1,RECORD HD 
+http://fhr.ddns.net:25461/333333/333333/75121
+#EXTINF:-1,RECORD HD 
+http://fhr.ddns.net:25461/333333/333333/75122
+#EXTINF:-1,RECORD MANAUS HD 
+http://fhr.ddns.net:25461/333333/333333/75123
+#EXTINF:-1,RECORD PARANA HD 
+http://fhr.ddns.net:25461/333333/333333/75124
+#EXTINF:-1,RECORD RICTV MARING
+http://fhr.ddns.net:25461/333333/333333/75125
+#EXTINF:-1,RECORD RJ HD 
+http://fhr.ddns.net:25461/333333/333333/75126
+#EXTINF:-1,RECORD RJ HD 
+http://fhr.ddns.net:25461/333333/333333/75127
+#EXTINF:-1,RECORD RS HD 
+http://fhr.ddns.net:25461/333333/333333/75128
+#EXTINF:-1,RECORD RS SD 
+http://fhr.ddns.net:25461/333333/333333/75129
+#EXTINF:-1,RECORD SP HD 
+http://fhr.ddns.net:25461/333333/333333/75130
+#EXTINF:-1,RECORD SP SD 
+http://fhr.ddns.net:25461/333333/333333/75131
+#EXTINF:-1,RECORD SP SD 
+http://fhr.ddns.net:25461/333333/333333/75132
+#EXTINF:-1,REDE TV HD 
+http://fhr.ddns.net:25461/333333/333333/75133
+#EXTINF:-1,REDE TV HD 
+http://fhr.ddns.net:25461/333333/333333/75134
+#EXTINF:-1,SBT HD 
+http://fhr.ddns.net:25461/333333/333333/75135
+#EXTINF:-1,SBT PARAN
+http://fhr.ddns.net:25461/333333/333333/75136
+#EXTINF:-1,SBT SD 
+http://fhr.ddns.net:25461/333333/333333/75137
+#EXTINF:-1,SBT S
+http://fhr.ddns.net:25461/333333/333333/75138
+#EXTINF:-1,SBT S
+http://fhr.ddns.net:25461/333333/333333/75139
+#EXTINF:-1,TV GAZETA HD 
+http://fhr.ddns.net:25461/333333/333333/75140
+#EXTINF:-1,BAND RBA BEL
+http://fhr.ddns.net:25461/333333/333333/75141
