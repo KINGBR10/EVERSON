@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1,FISH TV
 plugin://plugin.video.f4mTester/?name=  &streamtype=TSDOWNLOADER&amp;url=http://sv1.iptvcasa.online:8080/Ayrlles/Ayrlles/6476
