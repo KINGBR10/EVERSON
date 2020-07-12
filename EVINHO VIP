@@ -7,3 +7,387 @@ http://sv1.myiptv4k.top:8080/Plano654/Plano654/6311
 http://sv1.myiptv4k.top:8080/Plano654/Plano654/6303
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RECORD GOIAS" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD GOIAS
 http://sv1.myiptv4k.top:8080/Plano654/Plano654/6293
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",Globo RJ
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5047
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO RJ 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3349
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO RJ HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5046
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO RPC CURITIBA HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/7066
+#EXTINF:-1 tvg-id="Globo TV Sergipe" tvg-name="GLOBO SERGIPE SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO SERGIPE SD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6879
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO SP
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5030
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO SP 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3350
+#EXTINF:-1 tvg-id="Globo SP [Alter]" tvg-name="GLOBO SP HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO SP HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5029
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="GLOBO CEARA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO CEARA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5032
+#EXTINF:-1 tvg-id="Globo Centro America Cuiaba" tvg-name="GLOBO TV CENTRO AM ( ALTERNATIVO )" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV CENTRO AM ( ALTERNATIVO )
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6139
+#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="GLOBO TV LIBERAL BELEM " tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV LIBERAL BELEM 
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5034
+#EXTINF:-1 tvg-id="TV Morena" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV MORENA HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/7076
+#EXTINF:-1 tvg-id="Globo Bauru" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV TEM BAURU
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6885
+#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV TEM SOROCABA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3751
+#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5036
+#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="GLOBO TV VANGUARDA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV VANGUARDA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5037
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5038
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dccc890c8fc4c07991d826add5a0.png" group-title="INFANTIS",Gloob
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3617
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dccc890c8fc4c07991d826add5a0.png" group-title="INFANTIS",GLOOB 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6892
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dccc890c8fc4c07991d826add5a0.png" group-title="INFANTIS",GLOOB HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3616
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3614
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3613
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3757
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 4K" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3352
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3612
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4037
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4033
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 4K" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3353
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4039
+#EXTINF:-1 tvg-id="HBO [Alter]" tvg-name="HBO 4K" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3354
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4041
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4035
+#EXTINF:-1 tvg-id="bopluse.br" tvg-name="HBO PLUS*E" tvg-logo="http://floriu.com/imagem/hnoplus2.png" group-title="REDE HBO",HBO PLUS*E
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3759
+#EXTINF:-1 tvg-id="bopluse.br" tvg-name="HBO PLUS*E  HD" tvg-logo="http://floriu.com/imagem/hnoplus2.png" group-title="REDE HBO",HBO PLUS*E  HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4043
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS 4K" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3355
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS HD" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4042
+#EXTINF:-1 tvg-id="HBO Plus [Alter]" tvg-name="HBO Plus HD ( ALTERNATIVO )" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO Plus HD ( ALTERNATIVO )
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6170
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4038
+#EXTINF:-1 tvg-id="HBO Signature [Alter]" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3356
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE HD" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4044
+#EXTINF:-1 tvg-id="" tvg-name="(24H) HELLO KITTY" tvg-logo="http://iptvclub.com.br/icones-canais-24/helokitty.jpg" group-title="24 HORAS",(24H) HELLO KITTY
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8678
+#EXTINF:-1 tvg-id="The History Channel" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3790
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3761
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY 4k" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY 4k
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3358
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3791
+#EXTINF:-1 tvg-id="" tvg-name="(24H) INSPETOR BUGIGANGA" tvg-logo="http://iptvclub.com.br/icones-canais-24/inspetor.jpg" group-title="24 HORAS",(24H) INSPETOR BUGIGANGA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8679
+#EXTINF:-1 tvg-id="" tvg-name="(24H) KENAN E KEL" tvg-logo="http://floriu.com/imagem/KENANEKEL.jpg" group-title="24 HORAS",(24H) KENAN E KEL
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6663
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME 4K" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6182
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3592
+#EXTINF:-1 tvg-id="" tvg-name="(24H) LIGA DA JUSTICA" tvg-logo="https://iptvclub.com.br//icones-canais-24/liga-da-justica.jpg" group-title="24 HORAS",(24H) LIGA DA JUSTICA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8681
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT" tvg-logo="http://floriu.com/imagem/globosat.png" group-title="FILMES E SERIES",MAIS GLOBOSAT
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3756
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://floriu.com/imagem/globosat.png" group-title="FILMES E SERIES",MAIS GLOBOSAT HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3788
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://floriu.com/imagem/max.png" group-title="FILMES E SERIES",MAX
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4047
+#EXTINF:-1 tvg-id="MAX HD" tvg-name="MAX FHD 4K" tvg-logo="http://floriu.com/imagem/max.png" group-title="FILMES E SERIES",MAX FHD 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6190
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD" tvg-logo="http://floriu.com/imagem/max.png" group-title="FILMES E SERIES",MAX HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4049
+#EXTINF:-1 tvg-id="MAX Prime" tvg-name="MAX PRIME" tvg-logo="http://floriu.com/imagem/maxprime.png" group-title="FILMES E SERIES",MAX PRIME
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4045
+#EXTINF:-1 tvg-id="MAX Prime" tvg-name="MAX PRIME 4K" tvg-logo="http://floriu.com/imagem/maxprime.png" group-title="FILMES E SERIES",MAX PRIME 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3359
+#EXTINF:-1 tvg-id="MAX Prime" tvg-name="MAX PRIME HD" tvg-logo="http://floriu.com/imagem/maxprime.png" group-title="FILMES E SERIES",MAX PRIME HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4050
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX UP" tvg-logo="http://floriu.com/imagem/maxup.png" group-title="FILMES E SERIES",MAX UP
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4048
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP FHD 4K" tvg-logo="http://floriu.com/imagem/maxup.png" group-title="FILMES E SERIES",MAX UP FHD 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6198
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD" tvg-logo="http://floriu.com/imagem/maxup.png" group-title="FILMES E SERIES",MAX UP HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4052
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGAHITS" tvg-logo="http://floriu.com/imagem/VH1MEGAHITS.png" group-title="MUSICAS E VARIEDADE",VH1 MEGAHITS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6635
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MegaPix
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3583
+#EXTINF:-1 tvg-id="Megapix 4K" tvg-name="MEGAPIX 4K" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3360
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6531
+#EXTINF:-1 tvg-id="" tvg-name="(24H) MICKEY MOUSE" tvg-logo="http://iptvclub.com.br/icones-canais-24/mickey.jpg" group-title="24 HORAS",(24H) MICKEY MOUSE
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8682
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5085
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV 4K" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6206
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3793
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV LIVE HD" tvg-logo="http://floriu.com/imagem/mtvlive.png" group-title="MUSICAS E VARIEDADE",MTV LIVE HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6934
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",Multishow
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3579
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW 4K" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3363
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3578
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="INFANTIS",NatGeo Kids
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3575
+#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NATGEO KIDS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="INFANTIS",NATGEO KIDS HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3574
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NatGeo Wild
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3573
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD 4K" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3366
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD HD" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3572
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ngc.png" group-title="DOCUMENTARIO",National Geographic HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3367
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hhkjapan.jpg" group-title="INTERNACIONAL",NHK
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6229
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD " tvg-logo="http://iptvclub.com.br/iptvhd-capas/hhkjapan.jpg" group-title="INTERNACIONAL",NHK HD 
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6228
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK WORLD HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nhk1.jpg" group-title="INTERNACIONAL",NHK WORLD HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6230
+#EXTINF:-1 tvg-id="Nick Jr [Alter]" tvg-name="Nick Jr" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="INFANTIS",Nick Jr
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3567
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICK JR 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="INFANTIS",NICK JR 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3368
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="INFANTIS",NICK JR HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3566
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://iptvclub.com.br/iptvhd-capas/818.png" group-title="INFANTIS",Nickelodeon
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3565
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/818.png" group-title="INFANTIS",NICKELODEON HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3564
+#EXTINF:-1 tvg-id="NovoTempo" tvg-name="NOVO TEMPO" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3763
+#EXTINF:-1 tvg-id="" tvg-name="(24H) O MARINHEIRO POPAYE" tvg-logo="http://iptvclub.com.br/icones-canais-24/popaye.jpg" group-title="24 HORAS",(24H) O MARINHEIRO POPAYE
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8683
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3562
+#EXTINF:-1 tvg-id="" tvg-name="(24H) OS SIMPSONS" tvg-logo="https://iptvclub.com.br//icones-canais-24/os-simpsons.jpg" group-title="24 HORAS",(24H) OS SIMPSONS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8684
+#EXTINF:-1 tvg-id="" tvg-name="(24H) OS SMURFS " tvg-logo="https://iptvclub.com.br/icones-canais-24/smorfs.jpg" group-title="24 HORAS",(24H) OS SMURFS 
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8685
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="PAI ETERNO" tvg-logo="http://floriu.com/imagem/paieterno.png" group-title="RELIGIOSOS",PAI ETERNO
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6551
+#EXTINF:-1 tvg-id="" tvg-name="PAPA L" tvg-logo="https://iptvclub.com.br//icones-canais-24/papaleguas.jpg" group-title="24 HORAS",PAPA L
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8686
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",Paramount
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3561
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="PARAMOUNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3560
+#EXTINF:-1 tvg-id="" tvg-name="(24H) PATATI E PATATA" tvg-logo="http://iptvclub.com.br/icones-canais-24/patati.jpg" group-title="24 HORAS",(24H) PATATI E PATATA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8687
+#EXTINF:-1 tvg-id="" tvg-name="(24H) PEPPA PIG" tvg-logo="http://floriu.com/imagem/pepapig.jpg" group-title="24 HORAS",(24H) PEPPA PIG
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8688
+#EXTINF:-1 tvg-id="" tvg-name="(24H) PERNALONGA" tvg-logo="http://iptvclub.com.br/icones-canais-24/pernalongas.jpg" group-title="24 HORAS",(24H) PERNALONGA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8689
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3313
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="Playboy TV" tvg-logo="http://iptvclub.com.br/iptvhd-capas/playbopy.png" group-title="XX + 18 XX",Playboy TV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3720
+#EXTINF:-1 tvg-id="Play TV" tvg-name="PLAYTV" tvg-logo="http://iptvclub.com.br/iptvhd-capas/253cb0602df3d6e7682c6179911514d587b0630a_hq.jpg" group-title="MUSICAS E VARIEDADE",PLAYTV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6248
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4059
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 4K" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6960
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4053
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4060
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 4K" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6254
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4054
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4061
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4055
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4062
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6563
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4063
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6565
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4064
+#EXTINF:-1 tvg-id="Premiere 7 [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7 HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6567
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE",PREMIERE 8
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6569
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="PREMIERE",PREMIERE CLUBES HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3537
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://iptvclub.com.br/iptvhd-capas/primeboxbrazil.png" group-title="MUSICAS E VARIEDADE",Prime Box Brazil
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6288
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/primeboxbrazil.png" group-title="MUSICAS E VARIEDADE",Prime Box Brazil HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6287
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://floriu.com/imagem/fox.png" group-title="FILMES E SERIES",FOX
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3648
+#EXTINF:-1 tvg-id="Record SP HD [Alter]" tvg-name="RECORD 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6292
+#EXTINF:-1 tvg-id="Record 4K" tvg-name="RECORD BRASILIA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD BRASILIA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6291
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD BRASILIA 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD BRASILIA 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6290
+#EXTINF:-1 tvg-id="Record MG HD [Alter]" tvg-name="RECORD MINAS" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD MINAS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6299
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="NOTICIAS",Record News
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3527
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="NOTICIAS",RECORD NEWS 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3377
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="NOTICIAS",RECORD NEWS HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3526
+#EXTINF:-1 tvg-id="Record RS SD [Alter]" tvg-name="RECORD RS" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD RS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6305
+#EXTINF:-1 tvg-id="Record SP HD [Alter]" tvg-name="RECORD SP HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD SP HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3523
+#EXTINF:-1 tvg-id="Record SP FHD H.265" tvg-name="RECORDTV" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORDTV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3522
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK 4K" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",FOOD NETWORK 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3338
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",FOOD NETWORK HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3649
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",Food Network
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3650
+#EXTINF:-1 tvg-id="Cartoon Network 4K" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/territoriotpa-cn.jpg" group-title="INFANTIS",CARTOON NETWORK 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3319
+#EXTINF:-1 tvg-id="Rede TV 4K" tvg-name="Rede TV" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redetv.png" group-title="CANAIS ABERTOS",Rede TV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3520
+#EXTINF:-1 tvg-id="Rede TV 4K" tvg-name="REDE TV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redetv.png" group-title="CANAIS ABERTOS",REDE TV HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6577
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://floriu.com/imagem/redevida.png" group-title="RELIGIOSOS",Rede Vida
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3518
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA HD" tvg-logo="http://floriu.com/imagem/redevida.png" group-title="RELIGIOSOS",REDE VIDA HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6583
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://floriu.com/imagem/SBT.jpg" group-title="CANAIS ABERTOS",SBT
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3515
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT 4K" tvg-logo="http://floriu.com/imagem/SBT.jpg" group-title="CANAIS ABERTOS",SBT 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3378
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://floriu.com/imagem/SBT.jpg" group-title="CANAIS ABERTOS",SBT HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3513
+#EXTINF:-1 tvg-id="" tvg-name="(24H) LADY NIGHT" tvg-logo="http://iptvclub.com.br/icones-canais-24/lady.jpg" group-title="24 HORAS",(24H) LADY NIGHT
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8680
+#EXTINF:-1 tvg-id="Space 4K" tvg-name="SPACE 4K" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3381
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3510
+#EXTINF:-1 tvg-id="SporTV [Alter]" tvg-name="SporTV" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SporTV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3509
+#EXTINF:-1 tvg-id="SporTV 2 [Alter]" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3382
+#EXTINF:-1 tvg-id="Sportv 3 FHD" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3383
+#EXTINF:-1 tvg-id="SporTV [Alter]" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3384
+#EXTINF:-1 tvg-id="" tvg-name="(24H) STAND UP COMEDY" tvg-logo="http://iptvclub.com.br/icones-canais-24/standup.jpg" group-title="24 HORAS",(24H) STAND UP COMEDY
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8692
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3385
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY 4K" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3386
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="FILMES E SERIES",TNT SERIES
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3774
+#EXTINF:-1 tvg-id="" tvg-name="(24H) Sitio Do Pica Pau Amarelo" tvg-logo="http://floriu.com/imagem/picapauamarelo.jpg" group-title="24 HORAS",(24H) Sitio Do Pica Pau Amarelo
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/11248
+#EXTINF:-1 tvg-id="" tvg-name="(24H) TARTARUGAS NINJAS" tvg-logo="http://iptvclub.com.br/icones-canais-24/astartarugasninjas.jpg" group-title="24 HORAS",(24H) TARTARUGAS NINJAS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8693
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION 4K" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3387
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE ACTION HD" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4027
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE CULT 4K" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3388
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT HD" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4028
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4023
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN 4K" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3389
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN HD" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4029
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4024
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3390
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4030
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4025
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3391
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4031
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4026
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3392
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH HD" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/4032
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6522
+#EXTINF:-1 tvg-id="" tvg-name="(24H) THE LOUD HOUSE" tvg-logo="http://iptvclub.com.br/icones-canais-24/theloudshouse.jpg" group-title="24 HORAS",(24H) THE LOUD HOUSE
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8694
+#EXTINF:-1 tvg-id="" tvg-name="(24H) THUNDERCATS" tvg-logo="http://iptvclub.com.br/icones-canais-24/tandercats.jpg" group-title="24 HORAS",(24H) THUNDERCATS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8695
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="FILMES E SERIES",TNT 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3393
+#EXTINF:-1 tvg-id="TNT Series 4K" tvg-name="TNT SERIES 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="FILMES E SERIES",TNT SERIES 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3394
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="FILMES E SERIES",TNT SERIES HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3802
+#EXTINF:-1 tvg-id="" tvg-name="(24H) TODO MUNDO ODEIA O CHRIS" tvg-logo="http://floriu.com/imagem/odeiacris.jpg" group-title="24 HORAS",(24H) TODO MUNDO ODEIA O CHRIS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8696
+#EXTINF:-1 tvg-id="" tvg-name="(24H) TOM E JERRY" tvg-logo="http://floriu.com/imagem/tomejerry.jpg" group-title="24 HORAS",(24H) TOM E JERRY
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8697
+#EXTINF:-1 tvg-id="Tooncast HD [Alter]" tvg-name="Tooncast HD" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6389
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV" tvg-logo="http://floriu.com/imagem/TRUTV.png" group-title="MUSICAS E VARIEDADE",TRUTV
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6623
+#EXTINF:-1 tvg-id="" tvg-name="(24H) TURMA DA MONICA" tvg-logo="https://iptvclub.com.br//icones-canais-24/turma-da-monica.jpg" group-title="24 HORAS",(24H) TURMA DA MONICA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8698
+#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV Aparecida" tvg-logo="http://floriu.com/imagem/aparecida.png" group-title="RELIGIOSOS",TV Aparecida
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6392
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL" tvg-logo="http://floriu.com/imagem/TVBRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6628
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tvcultura.jpg" group-title="CANAIS ABERTOS",TV Cultura
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6005
+#EXTINF:-1 tvg-id="Tv Gazeta SP HD" tvg-name="TV GAZETA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/EwRD_yZf_400x400.jpg" group-title="CANAIS ABERTOS",TV GAZETA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3775
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="GLOBO RPC TV CURITIBA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="GLOBO",GLOBO RPC TV CURITIBA SD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/5025
+#EXTINF:-1 tvg-id="" tvg-name="(24H) A GRANDE FAMILIA" tvg-logo="http://iptvclub.com.br/icones-canais-24/agrandefamilia.jpg" group-title="24 HORAS",(24H) A GRANDE FAMILIA
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8701
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3395
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3714
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/3713
+#EXTINF:-1 tvg-id="" tvg-name="(24H) URSINHOS CARINHOSOS" tvg-logo="http://iptvclub.com.br/icones-canais-24/ursinhos.jpg" group-title="24 HORAS",(24H) URSINHOS CARINHOSOS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/8699
