@@ -1,26 +1,9 @@
-
-
-
-<item>
-<title>[B] VIS A VIS    4 - [COLOR yellow](KING BR)[/COLOR] - [COLOR lime](720p)[/COLOR] - KING BR[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:175509ccb9b08e268a9407db8ffcb138ada62d74&dn=COMANDOTORRENTSHD.NET.iCarly%20-%201%20%20a%20%205%20%20Temporada%20Completa%20[Dublado]&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:6969&tr=udp://open.demonii.com:1337</link>
-<thumbnail>https://ondeeubaixo.org/capas/vis-a-vis-el-oasis-1-temporada-completa-legendada-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://ondeeubaixo.org/capas/vis-a-vis-el-oasis-1-temporada-completa-legendada-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<subtitle>https://legendei.to/downlo/141175/</subtitle>
-<info>[ BY EVERSON SANTOS ]
-
-
-     [B]SERIE SEM TRAVAMENTO[/B]
-
-                    </info>
-<genre></genre>
-</item>
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="NATGEO KIDS 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="",NATGEO KIDS 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6216
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redetv.png" group-title="",REDE TV 4K
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6311
+#EXTINF:-1 tvg-id="RecordTV Rio" tvg-name="RECORD RIO" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD RIO
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6303
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RECORD GOIAS" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD GOIAS
+http://sv1.myiptv4k.top:8080/Plano654/Plano654/6293
