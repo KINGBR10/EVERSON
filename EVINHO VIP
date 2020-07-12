@@ -169,38 +169,6 @@ http://sv1.myiptv4k.top:8080/Plano654/Plano654/3313
 http://sv1.myiptv4k.top:8080/Plano654/Plano654/3720
 #EXTINF:-1 tvg-id="Play TV" tvg-name="PLAYTV" tvg-logo="http://iptvclub.com.br/iptvhd-capas/253cb0602df3d6e7682c6179911514d587b0630a_hq.jpg" group-title="MUSICAS E VARIEDADE",PLAYTV
 http://sv1.myiptv4k.top:8080/Plano654/Plano654/6248
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4059
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 4K" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 4K
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/6960
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4053
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4060
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 4K" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 4K
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/6254
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4054
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4061
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4 HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4055
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4062
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5 HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/6563
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4063
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6 HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/6565
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/4064
-#EXTINF:-1 tvg-id="Premiere 7 [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7 HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/6567
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE",PREMIERE 8
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/6569
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="PREMIERE",PREMIERE CLUBES HD
-http://sv1.myiptv4k.top:8080/Plano654/Plano654/3537
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://iptvclub.com.br/iptvhd-capas/primeboxbrazil.png" group-title="MUSICAS E VARIEDADE",Prime Box Brazil
 http://sv1.myiptv4k.top:8080/Plano654/Plano654/6288
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/primeboxbrazil.png" group-title="MUSICAS E VARIEDADE",Prime Box Brazil HD
