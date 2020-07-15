@@ -1,1 +1,449 @@
-Nsk
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" 24H CAVERNA DO DRAGÃ" tvg-logo="" group-title="CANAIS 24HRS", 24H CAVERNA DO DRAGÃ
+http://srv.tvprodigital.net:80/Teste761/Teste761/60786
+#EXTINF:-1 tvg-id="" tvg-name="24H 9-1-1" tvg-logo="https://i.imgur.com/Dlt9qBx.jpg?1" group-title="CANAIS 24HRS",24H 9-1-1
+http://srv.tvprodigital.net:80/Teste761/Teste761/51791
+#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA COMO ELA É" tvg-logo="https://e.tvproweb.com/NUs" group-title="CANAIS 24HRS",24H A VIDA COMO ELA É
+http://srv.tvprodigital.net:80/Teste761/Teste761/58588
+#EXTINF:-1 tvg-id="" tvg-name="24H AS NOIVAS DE COPACABANA" tvg-logo="" group-title="CANAIS 24HRS",24H AS NOIVAS DE COPACABANA
+http://srv.tvprodigital.net:80/Teste761/Teste761/58590
+#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265" tvg-logo="" group-title="CANAIS 24HRS",24H AVATAR A LENDA DE KORA H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/58591
+#EXTINF:-1 tvg-id="" tvg-name="24H BLACK KAMEN RIDER" tvg-logo="" group-title="CANAIS 24HRS",24H BLACK KAMEN RIDER
+http://srv.tvprodigital.net:80/Teste761/Teste761/60788
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA" tvg-logo="" group-title="CANAIS 24HRS",24H BOB ESPONJA
+http://srv.tvprodigital.net:80/Teste761/Teste761/60778
+#EXTINF:-1 tvg-id="" tvg-name="24H BUBU E AS CORUJINHAS" tvg-logo="" group-title="CANAIS 24HRS",24H BUBU E AS CORUJINHAS
+http://srv.tvprodigital.net:80/Teste761/Teste761/58592
+#EXTINF:-1 tvg-id="" tvg-name="24H CANÇÕES DE NINAR" tvg-logo="" group-title="CANAIS 24HRS",24H CANÇÕES DE NINAR
+http://srv.tvprodigital.net:80/Teste761/Teste761/58593
+#EXTINF:-1 tvg-id="" tvg-name="24H CHANGEMAN" tvg-logo="" group-title="CANAIS 24HRS",24H CHANGEMAN
+http://srv.tvprodigital.net:80/Teste761/Teste761/60783
+#EXTINF:-1 tvg-id="" tvg-name="24H DANIEL TIGRE" tvg-logo="" group-title="CANAIS 24HRS",24H DANIEL TIGRE
+http://srv.tvprodigital.net:80/Teste761/Teste761/58594
+#EXTINF:-1 tvg-id="" tvg-name="24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90" tvg-logo="" group-title="CANAIS 24HRS",24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+http://srv.tvprodigital.net:80/Teste761/Teste761/60784
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA" tvg-logo="" group-title="CANAIS 24HRS",24H GALINHA PINTADINHA
+http://srv.tvprodigital.net:80/Teste761/Teste761/58595
+#EXTINF:-1 tvg-id="" tvg-name="24H HOUSE OF CARDS" tvg-logo="" group-title="CANAIS 24HRS",24H HOUSE OF CARDS
+http://srv.tvprodigital.net:80/Teste761/Teste761/60791
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMÃO DO JOREL" tvg-logo="" group-title="CANAIS 24HRS",24H IRMÃO DO JOREL
+http://srv.tvprodigital.net:80/Teste761/Teste761/60787
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMÃOS A OBRA" tvg-logo="" group-title="CANAIS 24HRS",24H IRMÃOS A OBRA
+http://srv.tvprodigital.net:80/Teste761/Teste761/60790
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA" tvg-logo="" group-title="CANAIS 24HRS",24H MUNDO BITA
+http://srv.tvprodigital.net:80/Teste761/Teste761/60604
+#EXTINF:-1 tvg-id="" tvg-name="24H OS HERCULÓIDES" tvg-logo="" group-title="CANAIS 24HRS",24H OS HERCULÓIDES
+http://srv.tvprodigital.net:80/Teste761/Teste761/60792
+#EXTINF:-1 tvg-id="" tvg-name="24H OS SIMPSON 2000/2010" tvg-logo="" group-title="CANAIS 24HRS",24H OS SIMPSON 2000/2010
+http://srv.tvprodigital.net:80/Teste761/Teste761/60785
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T01" tvg-logo="" group-title="CANAIS 24HRS",24H PATRULHA CANINA T01
+http://srv.tvprodigital.net:80/Teste761/Teste761/60779
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T02" tvg-logo="" group-title="CANAIS 24HRS",24H PATRULHA CANINA T02
+http://srv.tvprodigital.net:80/Teste761/Teste761/60780
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T03" tvg-logo="" group-title="CANAIS 24HRS",24H PATRULHA CANINA T03
+http://srv.tvprodigital.net:80/Teste761/Teste761/60781
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T04" tvg-logo="" group-title="CANAIS 24HRS",24H PATRULHA CANINA T04
+http://srv.tvprodigital.net:80/Teste761/Teste761/60782
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/9344
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61196
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60935
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/8139
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60934
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4404
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png" group-title="CANAIS ABERTOS",AGRO CANAL SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/5983
+#EXTINF:-1 tvg-id="" tvg-name="ALEXANDRE PIRES #FIQUE EM CASA" tvg-logo="" group-title="LIVE #FIQUE EM CASA",ALEXANDRE PIRES #FIQUE EM CASA
+http://srv.tvprodigital.net:80/Teste761/Teste761/58493
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD ²" tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" group-title="CANAIS ESPORTE",ALL SPORTS HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61026
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV DF ²" tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" group-title="CANAIS ESPORTE",All Sports TV DF ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61069
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/9343
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61194
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60933
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC HD²
+http://srv.tvprodigital.net:80/Teste761/Teste761/20890
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/7691
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60932
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC SD*
+http://srv.tvprodigital.net:80/Teste761/Teste761/20891
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES E SERIES",AMC SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/7448
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/13205
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61229
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61073
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6142
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61072
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4403
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS 24Hors" tvg-logo="" group-title="CANAIS 24HRS",ANIMANIACS 24Hors
+http://srv.tvprodigital.net:80/Teste761/Teste761/60731
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS ENTRETENIMENTO",ARTE 1 FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11308
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 Full_HD H265  ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS ENTRETENIMENTO",ARTE 1 Full_HD H265  ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61195
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS ENTRETENIMENTO",ARTE 1 HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60931
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS ENTRETENIMENTO",ARTE 1 SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60930
+#EXTINF:-1 tvg-id="" tvg-name="AVATAR A LENDA DE KORA H265 24Hors" tvg-logo="" group-title="CANAIS 24HRS",AVATAR A LENDA DE KORA H265 24Hors
+http://srv.tvprodigital.net:80/Teste761/Teste761/60725
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES E SERIES",AXN FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/13212
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES E SERIES",AXN Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61197
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD (LEGENDADOS)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES E SERIES",AXN HD (LEGENDADOS)
+http://srv.tvprodigital.net:80/Teste761/Teste761/58509
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES E SERIES",AXN HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60937
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES E SERIES",AXN HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6140
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD ²" tvg-logo="" group-title="CANAIS FILMES E SERIES",AXN SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60936
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES E SERIES",AXN SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4402
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61100
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61099
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4401
+#EXTINF:-1 tvg-id="Band Aracaju" tvg-name="BAND ARACAJU HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND ARACAJU HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/24752
+#EXTINF:-1 tvg-id="Band Bahia" tvg-name="BAND BAHIA SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND BAHIA SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/30427
+#EXTINF:-1 tvg-id="Band Brasília" tvg-name="BAND BRASILIA HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND BRASILIA HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/33274
+#EXTINF:-1 tvg-id="EPTVCampinas" tvg-name="BAND CAMPINAS HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60866
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/33280
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61314
+#EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA FHD  H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND GOIANIA FHD  H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/30438
+#EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND GOIANIA HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/25019
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/60862
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6882
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIA",BAND NEWS FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11536
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS Full_HD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND NEWS Full_HD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/61281
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND NEWS HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61135
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND NEWS SD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61134
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIA",BAND NEWS SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4399
+#EXTINF:-1 tvg-id="" tvg-name="BAND PARANA SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND PARANA SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/24927
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ Full_HD 265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND RJ Full_HD 265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61315
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND RJ HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60864
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND RJ HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/25542
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND RJ SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60863
+#EXTINF:-1 tvg-id="Band RS" tvg-name="BAND RS HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND RS HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/25018
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60861
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4400
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND SP HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60865
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTE",BAND SPORTS FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11535
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS Full_HD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ESPORTE",BAND SPORTS Full_HD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/61254
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ESPORTE",BAND SPORTS HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61027
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTE",BAND SPORTS HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6138
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS ESPORTE",BAND SPORTS SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4398
+#EXTINF:-1 tvg-id="" tvg-name="BAND TV TAROBA PARANA HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTOS",BAND TV TAROBA PARANA HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/24924
+#EXTINF:-1 tvg-id="" tvg-name="BELO #FIQUE EM CASA" tvg-logo="https://i.ytimg.com/vi/Pv8oNp1JC2I/maxresdefault.jpg" group-title="LIVE #FIQUE EM CASA",BELO #FIQUE EM CASA
+http://srv.tvprodigital.net:80/Teste761/Teste761/58495
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICA",BIS FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11547
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICA",BIS Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61274
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICA",BIS HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61159
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICA",BIS HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6881
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICA",BIS SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61158
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICA",BIS SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6964
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11534
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61242
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61102
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61101
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4396
+#EXTINF:-1 tvg-id="" tvg-name="BRUNO E MARRONE #FIQUE EM CASA" tvg-logo="https://i1.wp.com/tabelaesportiva.com/wp-content/uploads/2020/04/Bruno-e-Marrone.jpeg" group-title="LIVE #FIQUE EM CASA",BRUNO E MARRONE #FIQUE EM CASA
+http://srv.tvprodigital.net:80/Teste761/Teste761/58496
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/5a3654860a74e27b56f5619b5aad.png" group-title="CANAIS ABERTOS",CANAL BRASIL SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6963
+#EXTINF:-1 tvg-id="CanaldoBoi" tvg-name="CANAL DO BOI SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS ABERTOS",CANAL DO BOI SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/11287
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES E SERIES",CANAL SONY FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/13202
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sony-hd-png-open-2000.png" group-title="CANAIS FILMES E SERIES",CANAL SONY HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6961
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png" group-title="CANAIS FILMES E SERIES",CANAL SONY SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4395
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SVM HD" tvg-logo="" group-title="CANAIS RELIGIOSO",CANAL SVM HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61148
+#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova HD" tvg-logo="" group-title="CANAIS RELIGIOSO",Cancao Nova HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61156
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS RELIGIOSO",CANCAO NOVA SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6173
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="CANCAO NOVA SD¹" tvg-logo="" group-title="CANAIS RELIGIOSO",CANCAO NOVA SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/30662
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/13210
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61243
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61104
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/7817
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61103
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4394
+#EXTINF:-1 tvg-id="" tvg-name="CEAK TV ESRITA SP" tvg-logo="" group-title="CANAIS RELIGIOSO",CEAK TV ESRITA SP
+http://srv.tvprodigital.net:80/Teste761/Teste761/61152
+#EXTINF:-1 tvg-id="" tvg-name="CEAK TV  SD (ESPRITA)" tvg-logo="" group-title="CANAIS RELIGIOSO",CEAK TV  SD (ESPRITA)
+http://srv.tvprodigital.net:80/Teste761/Teste761/61154
+#EXTINF:-1 tvg-id="" tvg-name="CHERNOBYL 24HRS" tvg-logo="" group-title="CANAIS 24HRS",CHERNOBYL 24HRS
+http://srv.tvprodigital.net:80/Teste761/Teste761/60771
+#EXTINF:-1 tvg-id="" tvg-name="CHOICE HD" tvg-logo="" group-title="CANAIS ABERTOS",CHOICE HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/60913
+#EXTINF:-1 tvg-id="" tvg-name="CINE 01 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 01 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60951
+#EXTINF:-1 tvg-id="" tvg-name="CINE 02 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 02 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60952
+#EXTINF:-1 tvg-id="" tvg-name="CINE 03 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 03 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60953
+#EXTINF:-1 tvg-id="" tvg-name="CINE 04 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 04 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60954
+#EXTINF:-1 tvg-id="" tvg-name="CINE 05 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 05 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60955
+#EXTINF:-1 tvg-id="" tvg-name="CINE 06 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 06 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61025
+#EXTINF:-1 tvg-id="" tvg-name="CINE 07 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 07 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60956
+#EXTINF:-1 tvg-id="" tvg-name="CINE 08 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 08 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60957
+#EXTINF:-1 tvg-id="" tvg-name="CINE 09 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 09 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60958
+#EXTINF:-1 tvg-id="" tvg-name="CINE 10 ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE 10 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60959
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CANAIS 24HRS",CINE MARVEL
+http://srv.tvprodigital.net:80/Teste761/Teste761/60789
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL VS DC" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE MARVEL VS DC
+http://srv.tvprodigital.net:80/Teste761/Teste761/60960
+#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE 24HRS" tvg-logo="" group-title="CANAIS 24HRS",CINE SESSÃO DA TARDE 24HRS
+http://srv.tvprodigital.net:80/Teste761/Teste761/60777
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 (CH281) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 01 (CH281) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60940
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 01 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/58175
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 (CH282) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 02 (CH282) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60941
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 02 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/58176
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 (CH283) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 03 (CH283) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60942
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 03 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/58177
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 (CH284) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 04 (CH284) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60943
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 04 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/58178
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 (CH285) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 05 (CH285) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60944
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 05 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/58179
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 (CH286) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 06 (CH286) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60945
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 (CH287) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 07 (CH287) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60946
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 (CH288) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 08 (CH288) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60947
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08(CH288) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 08(CH288) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60948
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 (CH289) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 09 (CH289) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60949
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 (CH290) ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY 10 (CH290) ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60950
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 06" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY HD 06
+http://srv.tvprodigital.net:80/Teste761/Teste761/58206
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 07" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY HD 07
+http://srv.tvprodigital.net:80/Teste761/Teste761/58207
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 08" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY HD 08
+http://srv.tvprodigital.net:80/Teste761/Teste761/58208
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 09" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY HD 09
+http://srv.tvprodigital.net:80/Teste761/Teste761/58209
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 10" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE SKY HD 10
+http://srv.tvprodigital.net:80/Teste761/Teste761/58210
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky¹  1 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",Cine Sky¹  1 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/59966
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky¹ 2 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",Cine Sky¹ 2 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/59967
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky¹ 3 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",Cine Sky¹ 3 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/59968
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky¹ 4 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",Cine Sky¹ 4 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/59969
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky¹ 5 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",Cine Sky¹ 5 HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/59970
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR ²" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="CINE SKY",CINE TERROR ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60961
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES E SERIES",CINEMAX FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/10993
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES E SERIES",CINEMAX Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61198
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES E SERIES",CINEMAX HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60939
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES E SERIES",CINEMAX HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/7802
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="CANAIS FILMES E SERIES",CINEMAX SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/60938
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Cinemax_LA.png" group-title="CANAIS FILMES E SERIES",CINEMAX SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4393
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN Brasil FHD
+http://srv.tvprodigital.net:80/Teste761/Teste761/44724
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL Full_HD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN BRASIL Full_HD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/61286
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN BRASIL HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61147
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD [ALTER]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN BRASIL HD [ALTER]
+http://srv.tvprodigital.net:80/Teste761/Teste761/50569
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN Brasil HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/44723
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN BRASIL SD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61146
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD [ALTER]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN BRASIL SD [ALTER]
+http://srv.tvprodigital.net:80/Teste761/Teste761/57528
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN ESPANHOL SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61136
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN INTERNACIONAL SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61137
+#EXTINF:-1 tvg-id="CNNInternacional" tvg-name="CNN INTERNACIONAL SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="CANAIS NOTICIA",CNN INTERNACIONAL SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/20506
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate-1.png" group-title="CANAIS ESPORTE",COMBATE FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/8152
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTE",COMBATE Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61255
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTE",COMBATE HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61029
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTE",COMBATE HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6172
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTE",COMBATE SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61030
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTE",COMBATE SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4392
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/24920
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="COMEDY CENTRAL Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61244
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61106
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/10292
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61105
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png" group-title="CANAIS FILMES E SERIES",COMEDY CENTRAL SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4391
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 HD²" tvg-logo="http://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg" group-title="CAMPEONATO CATARINENSE",COPA CATARINENSE 2 HD²
+http://srv.tvprodigital.net:80/Teste761/Teste761/39275
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD²" tvg-logo="http://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg" group-title="CAMPEONATO CATARINENSE",COPA CATARINENSE HD²
+http://srv.tvprodigital.net:80/Teste761/Teste761/39274
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD²" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="COPA DO NORDESTE",COPA DO NORDESTE 2 HD²
+http://srv.tvprodigital.net:80/Teste761/Teste761/39276
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD²" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="COPA DO NORDESTE",COPA DO NORDESTE HD²
+http://srv.tvprodigital.net:80/Teste761/Teste761/39273
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CANAIS ENTRETENIMENTO",Curta! HD
+http://srv.tvprodigital.net:80/Teste761/Teste761/61192
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CANAIS ENTRETENIMENTO",CURTA! SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/10291
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="" group-title="CANAIS ESPORTE",DAZN
+http://srv.tvprodigital.net:80/Teste761/Teste761/61070
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD¹" tvg-logo="https://www.msriparazioni.it/wp-content/uploads/2018/08/DAZN.png" group-title="DAZN",DAZN HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/30422
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD¹ 2" tvg-logo="https://www.msriparazioni.it/wp-content/uploads/2018/08/DAZN.png" group-title="DAZN",DAZN HD¹ 2
+http://srv.tvprodigital.net:80/Teste761/Teste761/33638
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD¹ 3" tvg-logo="https://www.msriparazioni.it/wp-content/uploads/2018/08/DAZN.png" group-title="DAZN",DAZN HD¹ 3
+http://srv.tvprodigital.net:80/Teste761/Teste761/33639
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD¹ 4" tvg-logo="https://www.msriparazioni.it/wp-content/uploads/2018/08/DAZN.png" group-title="DAZN",DAZN HD¹ 4
+http://srv.tvprodigital.net:80/Teste761/Teste761/33640
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11548
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel FHD² H265" tvg-logo="" group-title="CANAIS FHD² ",Discovery Channel FHD² H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/39331
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61230
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61075
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6132
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY CHANNEL SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61074
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4390
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H Full_HD H265 ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY H&H Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61231
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY H&H HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY H&H HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61081
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY H&H SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY H&H SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61080
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11533
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/6131
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0040_discovery_hh.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4389
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD H265
+http://srv.tvprodigital.net:80/Teste761/Teste761/11532
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS Full_HD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS Full_HD H265 ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61245
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61108
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/7538
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS SD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD ²
+http://srv.tvprodigital.net:80/Teste761/Teste761/61107
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD¹
+http://srv.tvprodigital.net:80/Teste761/Teste761/4388
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD  H265" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY SCIENCE FHD  H265
