@@ -1,492 +1,770 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="AeE" tvg-logo="http://grupobrtv.com/logos/aandehd.png" group-title="FILMES E SERIES",AeE
-http://cdnbr.xyz:8080/2226724/4072696/145407
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="AeE FHD H265" tvg-logo="http://grupobrtv.com/logos/aandehd.png" group-title="FILMES E SERIES",AeE FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145230
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="AeE HD" tvg-logo="http://grupobrtv.com/logos/aandehd.png" group-title="FILMES E SERIES",AeE HD
-http://cdnbr.xyz:8080/2226724/4072696/145115
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://2.bp.blogspot.com/-wsgQyCPyJRU/Wgtazl_ad_I/AAAAAAABBPk/NLX8Pa9mDc0E09RGzXYLXoiba23DHIgnQCLcBGAs/s640/AMC_logo_2013.png" group-title="FILMES E SERIES",AMC
-http://cdnbr.xyz:8080/2226724/4072696/145408
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="https://2.bp.blogspot.com/-wsgQyCPyJRU/Wgtazl_ad_I/AAAAAAABBPk/NLX8Pa9mDc0E09RGzXYLXoiba23DHIgnQCLcBGAs/s640/AMC_logo_2013.png" group-title="FILMES E SERIES",AMC FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145231
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://2.bp.blogspot.com/-wsgQyCPyJRU/Wgtazl_ad_I/AAAAAAABBPk/NLX8Pa9mDc0E09RGzXYLXoiba23DHIgnQCLcBGAs/s640/AMC_logo_2013.png" group-title="FILMES E SERIES",AMC HD
-http://cdnbr.xyz:8080/2226724/4072696/145116
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://cdnbr.xyz:8080/2226724/4072696/145409
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145232
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://cdnbr.xyz:8080/2226724/4072696/145117
-#EXTINF:-1 tvg-id="" tvg-name="AXE FOLIA" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",AXE FOLIA
-http://cdnbr.xyz:8080/2226724/4072696/165800
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES E SERIES",AXN
-http://cdnbr.xyz:8080/2226724/4072696/145410
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD (LEG)" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES LEGENDADOS",AXN FHD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187495
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES E SERIES",AXN FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145233
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES E SERIES",AXN HD
-http://cdnbr.xyz:8080/2226724/4072696/145118
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD (LEG)" tvg-logo="http://grupobrtv.com/logos/axnhd.png" group-title="FILMES LEGENDADOS",AXN HD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187496
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV" tvg-logo="http://grupobrtv.com/logos/babytv.png" group-title="INFANTIL",BABY TV
-http://cdnbr.xyz:8080/2226724/4072696/145411
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BAHIA" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND BAHIA
-http://cdnbr.xyz:8080/2226724/4072696/145412
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND BSB HD
-http://cdnbr.xyz:8080/2226724/4072696/145327
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
-http://cdnbr.xyz:8080/2226724/4072696/145328
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GO FHD H265" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND GO FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145319
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GO HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND GO HD
-http://cdnbr.xyz:8080/2226724/4072696/145201
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="http://grupobrtv.com/logos/bandnews.png" group-title="NOTICIAS",BAND NEWS
-http://cdnbr.xyz:8080/2226724/4072696/145414
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="http://grupobrtv.com/logos/bandnews.png" group-title="NOTICIAS",BAND NEWS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145234
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PARANA" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND PARANA
-http://cdnbr.xyz:8080/2226724/4072696/145386
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND RJ HD
-http://cdnbr.xyz:8080/2226724/4072696/145329
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND RS HD
-http://cdnbr.xyz:8080/2226724/4072696/145330
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND SERGIPE HD
-http://cdnbr.xyz:8080/2226724/4072696/145331
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://cdnbr.xyz:8080/2226724/4072696/145332
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://grupobrtv.com/logos/bandsportshd.png" group-title="ESPORTES",BAND SPORTS
-http://cdnbr.xyz:8080/2226724/4072696/145415
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="http://grupobrtv.com/logos/bandsportshd.png" group-title="ESPORTES",BAND SPORTS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145235
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://grupobrtv.com/logos/bandsportshd.png" group-title="ESPORTES",BAND SPORTS HD
-http://cdnbr.xyz:8080/2226724/4072696/145119
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS ABERTOS",BANDEIRANTES
-http://cdnbr.xyz:8080/2226724/4072696/145413
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS" tvg-logo="http://grupobrtv.com/logos/bishd.png" group-title="VARIEDADES",BIS
-http://cdnbr.xyz:8080/2226724/4072696/145416
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265" tvg-logo="http://grupobrtv.com/logos/bishd.png" group-title="VARIEDADES",BIS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145236
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://grupobrtv.com/logos/bishd.png" group-title="VARIEDADES",BIS HD
-http://cdnbr.xyz:8080/2226724/4072696/145120
-#EXTINF:-1 tvg-id="" tvg-name="BOLEROS EM SERESTA" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",BOLEROS EM SERESTA
-http://cdnbr.xyz:8080/2226724/4072696/165801
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-logo="http://grupobrtv.com/logos/boomerang.png" group-title="INFANTIL",BOOMERANG
-http://cdnbr.xyz:8080/2226724/4072696/145417
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265" tvg-logo="http://grupobrtv.com/logos/boomerang.png" group-title="INFANTIL",BOOMERANG FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145237
-#EXTINF:-1 tvg-id="" tvg-name="BREGA HITS" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",BREGA HITS
-http://cdnbr.xyz:8080/2226724/4072696/165802
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="https://www.ogol.com.br/img/logos/associacoes/46_santa_catarina_imgbank.png" group-title="ESPORTE ONDEMAND",CAMPEONATO CATARINENSE (JOGO 1)
-http://cdnbr.xyz:8080/2226724/4072696/145223
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="https://www.ogol.com.br/img/logos/associacoes/46_santa_catarina_imgbank.png" group-title="ESPORTE ONDEMAND",CAMPEONATO CATARINENSE (JOGO2)
-http://cdnbr.xyz:8080/2226724/4072696/145222
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="https://www.ogol.com.br/img/logos/associacoes/46_santa_catarina_imgbank.png" group-title="ESPORTE ONDEMAND",CAMPEONATO CATARINENSE (JOGO3)
-http://cdnbr.xyz:8080/2226724/4072696/145224
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="https://www.ogol.com.br/img/logos/associacoes/46_santa_catarina_imgbank.png" group-title="ESPORTE ONDEMAND",CAMPEONATO CATARINENSE (JOGO4)
-http://cdnbr.xyz:8080/2226724/4072696/145225
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="http://grupobrtv.com/logos/canalbrasilhd.png" group-title="FILMES E SERIES",CANAL BRASIL
-http://cdnbr.xyz:8080/2226724/4072696/145418
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="http://grupobrtv.com/logos/canalbrasilhd.png" group-title="FILMES E SERIES",CANAL BRASIL FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145238
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS ABERTOS",CANAL DO BOI
-http://cdnbr.xyz:8080/2226724/4072696/145419
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA" tvg-logo="http://grupobrtv.com/logos/cancaonova.png" group-title="RELIGIOSO",CANCAO NOVA
-http://cdnbr.xyz:8080/2226724/4072696/145421
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="" group-title="RELIGIOSO",CANCAO NOVA HD
-http://cdnbr.xyz:8080/2226724/4072696/165835
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="http://grupobrtv.com/logos/cartoonhd.png" group-title="INFANTIL",CARTOON NETWORK
-http://cdnbr.xyz:8080/2226724/4072696/145422
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="http://grupobrtv.com/logos/cartoonhd.png" group-title="INFANTIL",CARTOON NETWORK FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145240
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://grupobrtv.com/logos/cartoonhd.png" group-title="INFANTIL",CARTOON NETWORK HD
-http://cdnbr.xyz:8080/2226724/4072696/145122
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="http://grupobrtv.com/logos/cinemaxhd.png" group-title="FILMES E SERIES",CINEMAX
-http://cdnbr.xyz:8080/2226724/4072696/145423
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="http://grupobrtv.com/logos/cinemaxhd.png" group-title="FILMES E SERIES",CINEMAX FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145241
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://grupobrtv.com/logos/cinemaxhd.png" group-title="FILMES E SERIES",CINEMAX HD
-http://cdnbr.xyz:8080/2226724/4072696/145123
-#EXTINF:-1 tvg-id="" tvg-name="CLUBE DA CRIANCA" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",CLUBE DA CRIANCA
-http://cdnbr.xyz:8080/2226724/4072696/165803
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL
-http://cdnbr.xyz:8080/2226724/4072696/165834
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL FHD
-http://cdnbr.xyz:8080/2226724/4072696/145326
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL HD
-http://cdnbr.xyz:8080/2226724/4072696/145229
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://grupobrtv.com/logos/combatehd.png" group-title="ESPORTES",COMBATE
-http://cdnbr.xyz:8080/2226724/4072696/145424
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="http://grupobrtv.com/logos/combatehd.png" group-title="ESPORTES",COMBATE FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145242
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://grupobrtv.com/logos/combatehd.png" group-title="ESPORTES",COMBATE HD
-http://cdnbr.xyz:8080/2226724/4072696/145124
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://grupobrtv.com/logos/comedycentral.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://cdnbr.xyz:8080/2226724/4072696/145425
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://grupobrtv.com/logos/comedycentral.png" group-title="VARIEDADES",COMEDY CENTRAL FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145243
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://grupobrtv.com/logos/comedycentral.png" group-title="VARIEDADES",COMEDY CENTRAL HD
-http://cdnbr.xyz:8080/2226724/4072696/145125
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",COPA DO NORDESTE 2020 (JOGO 2)
-http://cdnbr.xyz:8080/2226724/4072696/145226
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 3)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",COPA DO NORDESTE 2020 (JOGO 3)
-http://cdnbr.xyz:8080/2226724/4072696/145227
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 4)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",COPA DO NORDESTE 2020 (JOGO 4)
-http://cdnbr.xyz:8080/2226724/4072696/145228
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO1)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",COPA DO NORDESTE 2020 (JOGO1)
-http://cdnbr.xyz:8080/2226724/4072696/145220
-#EXTINF:-1 tvg-id="" tvg-name="COUNTRY" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",COUNTRY
-http://cdnbr.xyz:8080/2226724/4072696/165804
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA!" tvg-logo="http://grupobrtv.com/logos/curta.png" group-title="VARIEDADES",CURTA!
-http://cdnbr.xyz:8080/2226724/4072696/145426
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="https://s3.amazonaws.com/gt7sp-prod/decal/00/08/31/5836673917528310800_1.png" group-title="ESPORTE ONDEMAND",DAZN 01 HD
-http://cdnbr.xyz:8080/2226724/4072696/145333
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="https://s3.amazonaws.com/gt7sp-prod/decal/00/08/31/5836673917528310800_1.png" group-title="ESPORTE ONDEMAND",DAZN 02 HD
-http://cdnbr.xyz:8080/2226724/4072696/145334
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://s3.amazonaws.com/gt7sp-prod/decal/00/08/31/5836673917528310800_1.png" group-title="ESPORTE ONDEMAND",DAZN 04 HD
-http://cdnbr.xyz:8080/2226724/4072696/145336
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD²" tvg-logo="https://s3.amazonaws.com/gt7sp-prod/decal/00/08/31/5836673917528310800_1.png" group-title="ESPORTE ONDEMAND",DAZN 04 HD²
-http://cdnbr.xyz:8080/2226724/4072696/193229
-#EXTINF:-1 tvg-id="" tvg-name="DISCOTECA ANOS 70" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",DISCOTECA ANOS 70
-http://cdnbr.xyz:8080/2226724/4072696/165798
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://grupobrtv.com/logos/discoverychannelhd.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://cdnbr.xyz:8080/2226724/4072696/145427
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="http://grupobrtv.com/logos/discoverychannelhd.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145244
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://grupobrtv.com/logos/discoverychannelhd.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://cdnbr.xyz:8080/2226724/4072696/145126
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME HEALTH " tvg-logo="http://grupobrtv.com/logos/discoveryhandhhd.png" group-title="DOCUMENTARIOS",DISCOVERY HOME HEALTH 
-http://cdnbr.xyz:8080/2226724/4072696/145428
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME HEALTH  FHD H265" tvg-logo="http://grupobrtv.com/logos/discoveryhandhhd.png" group-title="DOCUMENTARIOS",DISCOVERY HOME HEALTH  FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145246
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME HEALTH HD" tvg-logo="http://grupobrtv.com/logos/discoveryhandhhd.png" group-title="DOCUMENTARIOS",DISCOVERY HOME HEALTH HD
-http://cdnbr.xyz:8080/2226724/4072696/145128
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://grupobrtv.com/logos/discoverykidshd.png" group-title="INFANTIL",DISCOVERY KIDS
-http://cdnbr.xyz:8080/2226724/4072696/145429
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="http://grupobrtv.com/logos/discoverykidshd.png" group-title="INFANTIL",DISCOVERY KIDS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145247
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://grupobrtv.com/logos/discoverykidshd.png" group-title="INFANTIL",DISCOVERY KIDS HD
-http://cdnbr.xyz:8080/2226724/4072696/145129
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="http://grupobrtv.com/logos/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145248
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://grupobrtv.com/logos/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://cdnbr.xyz:8080/2226724/4072696/145130
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="http://grupobrtv.com/logos/discoverytheaterhd.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145249
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://grupobrtv.com/logos/discoverytheaterhd.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://cdnbr.xyz:8080/2226724/4072696/145131
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC" tvg-logo="http://grupobrtv.com/logos/tlchd.png" group-title="DOCUMENTARIOS",DISCOVERY TLC
-http://cdnbr.xyz:8080/2226724/4072696/145520
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD H265" tvg-logo="http://grupobrtv.com/logos/tlchd.png" group-title="DOCUMENTARIOS",DISCOVERY TLC FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145315
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO" tvg-logo="http://grupobrtv.com/logos/discoveryturbohd.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://cdnbr.xyz:8080/2226724/4072696/145430
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="http://grupobrtv.com/logos/discoveryturbohd.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145250
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://grupobrtv.com/logos/discoveryturbohd.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
-http://cdnbr.xyz:8080/2226724/4072696/145132
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD H265" tvg-logo="http://grupobrtv.com/logos/discoveryworldhd.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145251
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://grupobrtv.com/logos/discoveryworldhd.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-http://cdnbr.xyz:8080/2226724/4072696/145133
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY" tvg-logo="http://grupobrtv.com/logos/disneychannelhd.png" group-title="INFANTIL",DISNEY
-http://cdnbr.xyz:8080/2226724/4072696/145431
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="http://grupobrtv.com/logos/disneychannelhd.png" group-title="INFANTIL",DISNEY CHANNEL FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145252
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://grupobrtv.com/logos/disneychannelhd.png" group-title="INFANTIL",DISNEY CHANNEL HD
-http://cdnbr.xyz:8080/2226724/4072696/145134
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR" tvg-logo="http://grupobrtv.com/logos/disneyjunior.png" group-title="INFANTIL",DISNEY JUNIOR
-http://cdnbr.xyz:8080/2226724/4072696/145432
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265" tvg-logo="http://grupobrtv.com/logos/disneyjunior.png" group-title="INFANTIL",DISNEY JUNIOR FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145253
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://grupobrtv.com/logos/disneyjunior.png" group-title="INFANTIL",DISNEY JUNIOR HD
-http://cdnbr.xyz:8080/2226724/4072696/145135
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD" tvg-logo="http://grupobrtv.com/logos/disneyxd.png" group-title="INFANTIL",DISNEY XD
-http://cdnbr.xyz:8080/2226724/4072696/145433
-#EXTINF:-1 tvg-id="" tvg-name="DUBSTEP" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",DUBSTEP
-http://cdnbr.xyz:8080/2226724/4072696/165805
-#EXTINF:-1 tvg-id="E.br" tvg-name="E!" tvg-logo="http://grupobrtv.com/logos/ehd.png" group-title="VARIEDADES",E!
-http://cdnbr.xyz:8080/2226724/4072696/145434
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265" tvg-logo="http://grupobrtv.com/logos/ehd.png" group-title="VARIEDADES",E! FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145254
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://grupobrtv.com/logos/ehd.png" group-title="VARIEDADES",E! HD
-http://cdnbr.xyz:8080/2226724/4072696/145136
-#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS01" tvg-logo="https://www.esporteinterativo.com.br/__export/1569340928904/sites/esporteinterativo/arte/apps/precomposed.png_285119621.png" group-title="ESPORTE ONDEMAND",EI MAX JOGOS01
-http://cdnbr.xyz:8080/2226724/4072696/145337
-#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS02" tvg-logo="https://www.esporteinterativo.com.br/__export/1569340928904/sites/esporteinterativo/arte/apps/precomposed.png_285119621.png" group-title="ESPORTE ONDEMAND",EI MAX JOGOS02
-http://cdnbr.xyz:8080/2226724/4072696/145338
-#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS03" tvg-logo="https://www.esporteinterativo.com.br/__export/1569340928904/sites/esporteinterativo/arte/apps/precomposed.png_285119621.png" group-title="ESPORTE ONDEMAND",EI MAX JOGOS03
-http://cdnbr.xyz:8080/2226724/4072696/145339
-#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS04" tvg-logo="https://www.esporteinterativo.com.br/__export/1569340928904/sites/esporteinterativo/arte/apps/precomposed.png_285119621.png" group-title="ESPORTE ONDEMAND",EI MAX JOGOS04
-http://cdnbr.xyz:8080/2226724/4072696/145340
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS HD" tvg-logo="https://www.esporteinterativo.com.br/__export/1569340928904/sites/esporteinterativo/arte/apps/precomposed.png_285119621.png" group-title="ESPORTE ONDEMAND",EI PLUS HD
-http://cdnbr.xyz:8080/2226724/4072696/145341
-#EXTINF:-1 tvg-id="" tvg-name="ELECTRO HOUSE" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",ELECTRO HOUSE
-http://cdnbr.xyz:8080/2226724/4072696/165806
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN" tvg-logo="http://grupobrtv.com/logos/espnhd.png" group-title="ESPORTES",ESPN
-http://cdnbr.xyz:8080/2226724/4072696/145438
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD H265" tvg-logo="http://grupobrtv.com/logos/espnhd.png" group-title="ESPORTES",ESPN FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145256
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="http://grupobrtv.com/logos/espnhd.png" group-title="ESPORTES",ESPN HD
-http://cdnbr.xyz:8080/2226724/4072696/145139
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="http://grupobrtv.com/logos/espnplushd.png" group-title="ESPORTES",ESPN 2
-http://cdnbr.xyz:8080/2226724/4072696/145439
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://grupobrtv.com/logos/espnplushd.png" group-title="ESPORTES",ESPN 2 FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145257
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="http://grupobrtv.com/logos/espnplushd.png" group-title="ESPORTES",ESPN 2 HD
-http://cdnbr.xyz:8080/2226724/4072696/145137
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="http://grupobrtv.com/logos/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
-http://cdnbr.xyz:8080/2226724/4072696/205453
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://grupobrtv.com/logos/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL FHD
-http://cdnbr.xyz:8080/2226724/4072696/205454
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://grupobrtv.com/logos/espnplus.png" group-title="ESPORTES",ESPN EXTRA FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145255
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://grupobrtv.com/logos/espnplus.png" group-title="ESPORTES",ESPN EXTRA HD
-http://cdnbr.xyz:8080/2226724/4072696/145140
-#EXTINF:-1 tvg-id="" tvg-name="EURODANCE ANOS 90" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",EURODANCE ANOS 90
-http://cdnbr.xyz:8080/2226724/4072696/165807
-#EXTINF:-1 tvg-id="" tvg-name="FILM E ARTS" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="FILMES E SERIES",FILM E ARTS
-http://cdnbr.xyz:8080/2226724/4072696/145441
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV" tvg-logo="http://grupobrtv.com/logos/fishtv.png" group-title="ESPORTES",FISH TV
-http://cdnbr.xyz:8080/2226724/4072696/145442
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265" tvg-logo="http://grupobrtv.com/logos/fishtv.png" group-title="ESPORTES",FISH TV FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145259
-#EXTINF:-1 tvg-id="" tvg-name="FONTE TV" tvg-logo="" group-title="RELIGIOSO",FONTE TV
-http://cdnbr.xyz:8080/2226724/4072696/165843
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK" tvg-logo="http://grupobrtv.com/logos/foodnetworkhd.png" group-title="VARIEDADES",FOOD NETWORK
-http://cdnbr.xyz:8080/2226724/4072696/145443
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="http://grupobrtv.com/logos/foodnetworkhd.png" group-title="VARIEDADES",FOOD NETWORK FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145260
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://grupobrtv.com/logos/foodnetworkhd.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://cdnbr.xyz:8080/2226724/4072696/145141
-#EXTINF:-1 tvg-id="" tvg-name="FORRO" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",FORRO
-http://cdnbr.xyz:8080/2226724/4072696/165808
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX" tvg-logo="http://grupobrtv.com/logos/foxhd.png" group-title="FILMES E SERIES",FOX
-http://cdnbr.xyz:8080/2226724/4072696/145444
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD H265" tvg-logo="http://grupobrtv.com/logos/foxhd.png" group-title="FILMES E SERIES",FOX FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145261
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://grupobrtv.com/logos/foxhd.png" group-title="FILMES E SERIES",FOX HD
-http://cdnbr.xyz:8080/2226724/4072696/145142
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD LEG)" tvg-logo="http://grupobrtv.com/logos/foxhd.png" group-title="FILMES LEGENDADOS",FOX FHD LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187493
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD (LEG)" tvg-logo="http://grupobrtv.com/logos/foxhd.png" group-title="FILMES LEGENDADOS",FOX HD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187494
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE" tvg-logo="http://grupobrtv.com/logos/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
-http://cdnbr.xyz:8080/2226724/4072696/145445
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://grupobrtv.com/logos/foxlife.png" group-title="FILMES E SERIES",FOX LIFE HD
-http://cdnbr.xyz:8080/2226724/4072696/145143
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 FHD (LEG)" tvg-logo="http://grupobrtv.com/logos/fox1hd.png" group-title="FILMES LEGENDADOS",FOX PREMIUM 1 FHD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187497
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145262
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
-http://cdnbr.xyz:8080/2226724/4072696/145144
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="FOX PREMIUM 1 HD (LEG)" tvg-logo="http://grupobrtv.com/logos/fox1hd.png" group-title="FILMES LEGENDADOS",FOX PREMIUM 1 HD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187498
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 FHD (LEG)" tvg-logo="http://grupobrtv.com/logos/fox1hd.png" group-title="FILMES LEGENDADOS",FOX PREMIUM 2 FHD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187499
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD H265" tvg-logo="https://www.pngkit.com/png/full/220-2201778_foxpremium2-fox-premium-series-logo.png" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145263
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://www.pngkit.com/png/full/220-2201778_foxpremium2-fox-premium-series-logo.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
-http://cdnbr.xyz:8080/2226724/4072696/145145
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD (LEG)" tvg-logo="http://grupobrtv.com/logos/fox1hd.png" group-title="FILMES LEGENDADOS",FOX PREMIUM 2 HD (LEG)
-http://cdnbr.xyz:8080/2226724/4072696/187500
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS" tvg-logo="http://grupobrtv.com/logos/foxsportshd.png" group-title="ESPORTES",FOX SPORTS
-http://cdnbr.xyz:8080/2226724/4072696/145446
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://grupobrtv.com/logos/foxsports2hd.png" group-title="ESPORTES",FOX SPORTS 2
-http://cdnbr.xyz:8080/2226724/4072696/145447
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://grupobrtv.com/logos/foxsports2hd.png" group-title="ESPORTES",FOX SPORTS 2 FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145265
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://grupobrtv.com/logos/foxsports2hd.png" group-title="ESPORTES",FOX SPORTS 2 HD
-http://cdnbr.xyz:8080/2226724/4072696/145146
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="http://grupobrtv.com/logos/foxsportshd.png" group-title="ESPORTES",FOX SPORTS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145264
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://grupobrtv.com/logos/foxsportshd.png" group-title="ESPORTES",FOX SPORTS HD
-http://cdnbr.xyz:8080/2226724/4072696/145147
-#EXTINF:-1 tvg-id="" tvg-name="FUNK" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",FUNK
-http://cdnbr.xyz:8080/2226724/4072696/165809
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="http://grupobrtv.com/logos/futura.png" group-title="CANAIS ABERTOS",FUTURA
-http://cdnbr.xyz:8080/2226724/4072696/145448
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="http://grupobrtv.com/logos/fxhd.png" group-title="FILMES E SERIES",FX
-http://cdnbr.xyz:8080/2226724/4072696/145449
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="http://grupobrtv.com/logos/fxhd.png" group-title="FILMES E SERIES",FX FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145266
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://grupobrtv.com/logos/fxhd.png" group-title="FILMES E SERIES",FX HD
-http://cdnbr.xyz:8080/2226724/4072696/145148
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA HD SP" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="CANAIS ABERTOS",GAZETA HD SP
-http://cdnbr.xyz:8080/2226724/4072696/145342
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ
-http://cdnbr.xyz:8080/2226724/4072696/145707
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ FHD
-http://cdnbr.xyz:8080/2226724/4072696/145708
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ HD
-http://cdnbr.xyz:8080/2226724/4072696/147001
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ SUL HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ SUL HD
-http://cdnbr.xyz:8080/2226724/4072696/145391
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CABO FRIO HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO CABO FRIO HD
-http://cdnbr.xyz:8080/2226724/4072696/145395
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SP FHD
-http://cdnbr.xyz:8080/2226724/4072696/145405
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SP HD
-http://cdnbr.xyz:8080/2226724/4072696/145455
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SP SD
-http://cdnbr.xyz:8080/2226724/4072696/195070
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BRASILIA
-http://cdnbr.xyz:8080/2226724/4072696/145450
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BRASILIA FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145397
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BRASILIA HD
-http://cdnbr.xyz:8080/2226724/4072696/145343
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MG
-http://cdnbr.xyz:8080/2226724/4072696/145451
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MG FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145394
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MG HD
-http://cdnbr.xyz:8080/2226724/4072696/145383
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO AMAZONICA MANAUS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO AMAZONICA MANAUS
-http://cdnbr.xyz:8080/2226724/4072696/145499
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MANAUS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MANAUS HD
-http://cdnbr.xyz:8080/2226724/4072696/145389
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BAHIA HD
-http://cdnbr.xyz:8080/2226724/4072696/145704
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA HD²" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BAHIA HD²
-http://cdnbr.xyz:8080/2226724/4072696/145705
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FLORIANOPOLIS FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO FLORIANOPOLIS FHD
-http://cdnbr.xyz:8080/2226724/4072696/145392
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO FLORIANOPOLIS HD
-http://cdnbr.xyz:8080/2226724/4072696/147064
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA ALAGOAS FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO GAZETA ALAGOAS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193930
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA SUL ES" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO GAZETA SUL ES
-http://cdnbr.xyz:8080/2226724/4072696/145344
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA SUL ES FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO GAZETA SUL ES FHD
-http://cdnbr.xyz:8080/2226724/4072696/145345
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA SUL ES HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO GAZETA SUL ES HD
-http://cdnbr.xyz:8080/2226724/4072696/145346
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GO HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO GO HD
-http://cdnbr.xyz:8080/2226724/4072696/145200
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO CAMPINAS FHD
-http://cdnbr.xyz:8080/2226724/4072696/145399
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO CAMPINAS HD
-http://cdnbr.xyz:8080/2226724/4072696/145398
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CARUARU PE" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO CARUARU PE
-http://cdnbr.xyz:8080/2226724/4072696/145404
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CENTRO AMERICA CUIABA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO CENTRO AMERICA CUIABA
-http://cdnbr.xyz:8080/2226724/4072696/145530
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO EPTV CAMPINAS
-http://cdnbr.xyz:8080/2226724/4072696/145436
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO EPTV RIBEIRAO PRETO
-http://cdnbr.xyz:8080/2226724/4072696/145437
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO EPTV SAO CARLOS
-http://cdnbr.xyz:8080/2226724/4072696/145435
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ANHANGUERA GOIANIA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO ANHANGUERA GOIANIA
-http://cdnbr.xyz:8080/2226724/4072696/145526
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GRANDE MINAS FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO GRANDE MINAS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193925
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO INTER TV CABUGI
-http://cdnbr.xyz:8080/2226724/4072696/145465
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO LIBERAL BELEM" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO LIBERAL BELEM
-http://cdnbr.xyz:8080/2226724/4072696/145533
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO LIBERAL BELEM HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO LIBERAL BELEM HD
-http://cdnbr.xyz:8080/2226724/4072696/145401
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MIRANTE MA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MIRANTE MA
-http://cdnbr.xyz:8080/2226724/4072696/145390
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MORENA FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MORENA FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193931
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MORENA PP HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MORENA PP HD
-http://cdnbr.xyz:8080/2226724/4072696/145706
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NACIONAL" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NACIONAL
-http://cdnbr.xyz:8080/2226724/4072696/193932
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NEWS" tvg-logo="http://grupobrtv.com/logos/globonews.png" group-title="NOTICIAS",GLOBO NEWS
-http://cdnbr.xyz:8080/2226724/4072696/145452
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="http://grupobrtv.com/logos/globonews.png" group-title="NOTICIAS",GLOBO NEWS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145267
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://grupobrtv.com/logos/globonews.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://cdnbr.xyz:8080/2226724/4072696/145149
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NORDESTE
-http://cdnbr.xyz:8080/2226724/4072696/145453
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NORDESTE FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193928
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PARAIBA HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO PARAIBA HD
-http://cdnbr.xyz:8080/2226724/4072696/145400
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PORTO VELHO" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO PORTO VELHO
-http://cdnbr.xyz:8080/2226724/4072696/193929
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RBS
-http://cdnbr.xyz:8080/2226724/4072696/145496
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RBS HD
-http://cdnbr.xyz:8080/2226724/4072696/145351
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS POA FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RBS POA FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193935
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RPC TV CURITIBA
-http://cdnbr.xyz:8080/2226724/4072696/145503
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SANTA CRUZ FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SANTA CRUZ FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193933
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SERGIPE HD
-http://cdnbr.xyz:8080/2226724/4072696/145349
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO SUL DE MINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBOS",GLOBO SUL DE MINAS FHD
-http://cdnbr.xyz:8080/2226724/4072696/192102
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GLOBO SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="GLOBOS",GLOBO SUL DE MINAS HD
-http://cdnbr.xyz:8080/2226724/4072696/192103
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SUL MINAS FHD H265" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SUL MINAS FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/193924
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TEM BAURU" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TEM BAURU
-http://cdnbr.xyz:8080/2226724/4072696/145536
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TEM SAO JOSE DO RIO PRETO" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TEM SAO JOSE DO RIO PRETO
-http://cdnbr.xyz:8080/2226724/4072696/145537
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TEM SOROCABA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TEM SOROCABA
-http://cdnbr.xyz:8080/2226724/4072696/145538
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TRIBUNA SANTOS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TRIBUNA SANTOS HD
-http://cdnbr.xyz:8080/2226724/4072696/145539
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV MIRANTE HD MA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TV MIRANTE HD MA
-http://cdnbr.xyz:8080/2226724/4072696/192228
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VANGUARDA S.J. DOS CAMPOS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VANGUARDA S.J. DOS CAMPOS
-http://cdnbr.xyz:8080/2226724/4072696/145540
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VERDES MARES FORTALEZA
-http://cdnbr.xyz:8080/2226724/4072696/145541
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VERDES MARES HD
-http://cdnbr.xyz:8080/2226724/4072696/145402
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VITORIA HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VITORIA HD
-http://cdnbr.xyz:8080/2226724/4072696/193934
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT" tvg-logo="http://grupobrtv.com/logos/maisglobosathd.png" group-title="VARIEDADES",GLOBOSAT
-http://cdnbr.xyz:8080/2226724/4072696/145467
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT FHD H265" tvg-logo="http://grupobrtv.com/logos/maisglobosathd.png" group-title="VARIEDADES",GLOBOSAT FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145279
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT HD" tvg-logo="http://grupobrtv.com/logos/maisglobosathd.png" group-title="VARIEDADES",GLOBOSAT HD
-http://cdnbr.xyz:8080/2226724/4072696/145150
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="http://grupobrtv.com/logos/gloobhd.png" group-title="INFANTIL",GLOOB
-http://cdnbr.xyz:8080/2226724/4072696/145456
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265" tvg-logo="http://grupobrtv.com/logos/gloobhd.png" group-title="INFANTIL",GLOOB FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145268
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://grupobrtv.com/logos/gloobhd.png" group-title="INFANTIL",GLOOB HD
-http://cdnbr.xyz:8080/2226724/4072696/145151
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="http://grupobrtv.com/logos/gnthd.png" group-title="VARIEDADES",GNT
-http://cdnbr.xyz:8080/2226724/4072696/145457
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265" tvg-logo="http://grupobrtv.com/logos/gnthd.png" group-title="VARIEDADES",GNT FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145269
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://grupobrtv.com/logos/gnthd.png" group-title="VARIEDADES",GNT HD
-http://cdnbr.xyz:8080/2226724/4072696/145152
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="https://res.cloudinary.com/fanfic-storage/image/upload/v1581397149/umwxncshkc8v36tvxnxt.png" group-title="RADIOS",GOSPEL
-http://cdnbr.xyz:8080/2226724/4072696/165797
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="" group-title="RELIGIOSO",GOSPEL CARTOON
-http://cdnbr.xyz:8080/2226724/4072696/165854
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV" tvg-logo="" group-title="RELIGIOSO",GOSPEL MOVIE TV
-http://cdnbr.xyz:8080/2226724/4072696/165849
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="http://grupobrtv.com/logos/hbohd.png" group-title="HBO",HBO
-http://cdnbr.xyz:8080/2226724/4072696/145458
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265" tvg-logo="http://grupobrtv.com/logos/hbohd.png" group-title="HBO",HBO FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145271
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://grupobrtv.com/logos/hbohd.png" group-title="HBO",HBO HD
-http://cdnbr.xyz:8080/2226724/4072696/145155
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="http://grupobrtv.com/logos/hbo2hd.png" group-title="HBO",HBO 2
-http://cdnbr.xyz:8080/2226724/4072696/145462
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://grupobrtv.com/logos/hbo2hd.png" group-title="HBO",HBO 2 FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145274
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://grupobrtv.com/logos/hbo2hd.png" group-title="HBO",HBO 2 HD
-http://cdnbr.xyz:8080/2226724/4072696/145153
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILLY FHD H265" tvg-logo="http://grupobrtv.com/logos/hbofamilyhd.png" group-title="HBO",HBO FAMILLY FHD H265
-http://cdnbr.xyz:8080/2226724/4072696/145270
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="http://grupobrtv.com/logos/hbofamilyhd.png" group-title="HBO",HBO FAMILY
-http://cdnbr.xyz:8080/2226724/4072696/145459
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://grupobrtv.com/logos/hbofamilyhd.png" group-title="HBO",HBO FAMILY HD
-http://cdnbr.xyz:8080/2226724/4072696/145154
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD (LEG)" tvg-logo="http://grupobrtv.com/logos/hbohd.png" group-title="FILMES LEGENDADOS",HBO FHD (LEG)
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-ae.png" group-title="Canais de Filmes e Séries",A&E SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4263
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-ae.png" group-title="Canais de Filmes e Séries",A&E HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4264
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-ae.png" group-title="Canais de Filmes e Séries",A&E FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3884
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="http://www.encounters.co.za/wp-content/uploads/2017/05/al-jazeera-500x288.png" group-title="Canais Notícias",Al Jazeera English
+http://login.iptvcompany.org:80/eversonsantos/everson/16435
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/AMC_logo_2013.png" group-title="Canais de Filmes e Séries",AMC SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4261
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/AMC_logo_2013.png" group-title="Canais de Filmes e Séries",AMC HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4260
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/AMC_logo_2013.png" group-title="Canais de Filmes e Séries",AMC FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3883
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/animalplanet.png" group-title="Canais de Entretenimento",Animal Planet FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3882
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/animalplanet.png" group-title="Canais de Entretenimento",Animal Planet SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3985
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/animalplanet.png" group-title="Canais de Entretenimento",Animal Planet HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3986
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte1 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/30wpabn.jpg" group-title="Canais de Entretenimento",Arte1 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4255
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/maxiaxnlogo.jpg" group-title="Canais de Filmes e Séries",AXN FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3881
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/maxiaxnlogo.jpg" group-title="Canais de Filmes e Séries",AXN SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4257
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/maxiaxnlogo.jpg" group-title="Canais de Filmes e Séries",AXN HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4258
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BabyTV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Baby_TV2.png" group-title="Canais para Crianças",BabyTV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4047
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV Alemanha" tvg-logo="http://ipbr.tv/img/stream/badentv.png" group-title="Canais Notícias",Baden TV Alemanha
+http://login.iptvcompany.org:80/eversonsantos/everson/16436
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="Canais Abertos",Band Campinas SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4305
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="Band Campinas HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="Canais Abertos",Band Campinas HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4306
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/bandnews.png" group-title="Canais Notícias",Band News SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3995
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/bandnews.png" group-title="Canais Notícias",Band News HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3996
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/bandnews.png" group-title="Canais Notícias",Band News FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3879
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="Canais Abertos",BAND SP SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4307
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="Canais Abertos",BAND SP HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4308
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="Canais Abertos",BAND SP FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4309
+#EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/BandSports.png" group-title="Canais de Esportes",Band Sports SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4112
+#EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/BandSports.png" group-title="Canais de Esportes",Band Sports HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4113
+#EXTINF:-1 tvg-id="band.sports.br" tvg-name="Band Sports FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/BandSports.png" group-title="Canais de Esportes",Band Sports FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3878
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/8ca415a17b57bdc9dff88a951e82.png" group-title="Canais de Entretenimento",BIS FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3877
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/8ca415a17b57bdc9dff88a951e82.png" group-title="Canais de Entretenimento",BIS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3991
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/8ca415a17b57bdc9dff88a951e82.png" group-title="Canais de Entretenimento",BIS HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3993
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="Canais para Crianças",Boomerang SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4043
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="Canais para Crianças",Boomerang HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4044
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="Canais para Crianças",Boomerang FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3876
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/brasil.jpg" group-title="Canais Abertos",CANAL BRASIL HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4252
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canal Canção Nova" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Canais Evangélicos",Canal Canção Nova
+http://login.iptvcompany.org:80/eversonsantos/everson/16432
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais de Entretenimento",CANAL DO BOI SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4314
+#EXTINF:-1 tvg-id="canal.promessas.br" tvg-name="CANAL PROMESSAS FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/cor-site.png" group-title="Canais Evangélicos",CANAL PROMESSAS FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4313
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/territoriotpa-cn.jpg" group-title="Canais para Crianças",Cartoon Network SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4039
+#EXTINF:-1 tvg-id="cartoon.network.brazil.br" tvg-name="Cartoon Network HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/territoriotpa-cn.jpg" group-title="Canais para Crianças",Cartoon Network HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4040
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/territoriotpa-cn.jpg" group-title="Canais para Crianças",Cartoon Network FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3875
+#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="Canais Notícias",CBN News
+http://login.iptvcompany.org:80/eversonsantos/everson/16437
+#EXTINF:-1 tvg-id="" tvg-name="CBSN AM" tvg-logo="http://ipbr.tv/img/stream/cbsn.png" group-title="Canais Notícias",CBSN AM
+http://login.iptvcompany.org:80/eversonsantos/everson/16438
+#EXTINF:-1 tvg-id="cine.brasil.br" tvg-name="CINE SD" tvg-logo="" group-title="Canais de Filmes e Séries",CINE SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4265
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/Cinemax_LA.png" group-title="Canais de Filmes e Séries",Cinemax SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4248
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/Cinemax_LA.png" group-title="Canais de Filmes e Séries",Cinemax HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4249
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/Cinemax_LA.png" group-title="Canais de Filmes e Séries",Cinemax FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3874
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/cnn-espac3b1ol.jpeg" group-title="Canais Notícias",CNN ESPANHOL SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3988
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/CNN-International-Logo.svg.png" group-title="Canais Notícias",CNN INTERNACIONAL SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3989
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT SP" tvg-logo="" group-title="Canais Notícias",CNT SP
+http://login.iptvcompany.org:80/eversonsantos/everson/4304
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" group-title="Canais de Esportes",Combate SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4108
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" group-title="Canais de Esportes",Combate HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4110
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/combate123.jpg" group-title="Canais de Esportes",Combate FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3873
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/comedycentra1.jpg" group-title="Canais de Entretenimento",COMEDY CENTRAL FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3872
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/comedycentra1.jpg" group-title="Canais de Entretenimento",COMEDY CENTRAL SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3987
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE" tvg-logo="" group-title="Canais de Esportes",COPA DO NORDESTE
+http://login.iptvcompany.org:80/eversonsantos/everson/16644
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="" group-title="Canais de Esportes",COPA DO NORDESTE HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16645
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tvcultura.jpg" group-title="Canais Abertos",Cultura SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4302
+#EXTINF:-1 tvg-id="cultura.sp.br" tvg-name="Cultura HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tvcultura.jpg" group-title="Canais Abertos",Cultura HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4303
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="https://media3.giphy.com/media/w7vCg9G82PgFFzXW7z/source.gif" group-title="Canais de Esportes",DAZN SD
+http://login.iptvcompany.org:80/eversonsantos/everson/16594
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="https://media3.giphy.com/media/w7vCg9G82PgFFzXW7z/source.gif" group-title="Canais de Esportes",DAZN FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/16593
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Discovery-Channel-logo.jpg" group-title="Canais Discovery",Discovery Channel SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3981
+#EXTINF:-1 tvg-id="the.discovery.east.br" tvg-name="Discovery Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Discovery-Channel-logo.jpg" group-title="Canais Discovery",Discovery Channel HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3982
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Discovery-Channel-logo.jpg" group-title="Canais Discovery",Discovery Channel FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3871
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="HGTV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hgtv.png" group-title="Canais de Entretenimento",HGTV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3979
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="HGTV FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hgtv.png" group-title="Canais de Entretenimento",HGTV FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3870
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H SD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" group-title="Canais Discovery",Discovery H&H SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3977
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" group-title="Canais Discovery",Discovery H&H HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3978
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/heh.jpg" group-title="Canais Discovery",Discovery H&H FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3869
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/kids.jpg" group-title="Canais para Crianças",Discovery Kids SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4037
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/kids.jpg" group-title="Canais para Crianças",Discovery Kids HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4038
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/kids.jpg" group-title="Canais para Crianças",Discovery Kids FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3868
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais Discovery",Discovery Science SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3974
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="Discovery Science HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais Discovery",Discovery Science HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3975
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="Canais Discovery",Discovery Science FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3867
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery theater SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="Canais Discovery",Discovery theater SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3972
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="Canais Discovery",Discovery Theater HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3973
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="Canais Discovery",Discovery Theater FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3866
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/TURBO-Logo-white_0.png" group-title="Canais Discovery",Discovery Turbo SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3969
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/TURBO-Logo-white_0.png" group-title="Canais Discovery",Discovery Turbo HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3970
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/TURBO-Logo-white_0.png" group-title="Canais Discovery",Discovery Turbo FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3865
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="Canais Discovery",Discovery World SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3967
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="Canais Discovery",Discovery World HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3968
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="Canais Discovery",Discovery World FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3864
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="Canais para Crianças",Disney Channel SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4033
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="Canais para Crianças",Disney Channel HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4034
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="Canais para Crianças",Disney Channel FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3863
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney Junior SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/disneyjunior1.jpg" group-title="Canais para Crianças",Disney Junior SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4027
+#EXTINF:-1 tvg-id="disney.junior.brazil.br" tvg-name="Disney Junior HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/disneyjunior1.jpg" group-title="Canais para Crianças",Disney Junior HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4029
+#EXTINF:-1 tvg-id="disney.junior.brazil.br" tvg-name="Disney Junior FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/disneyjunior1.jpg" group-title="Canais para Crianças",Disney Junior FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3862
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="Disney XD SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/xddi12.jpg" group-title="Canais para Crianças",Disney XD SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4022
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/xddi12.jpg" group-title="Canais para Crianças",Disney XD HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4024
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="Disney XD FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/xddi12.jpg" group-title="Canais para Crianças",Disney XD FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4025
+#EXTINF:-1 tvg-id="dw.deutsch+.br" tvg-name="DW (Deutsch+)" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="Canais Notícias",DW (Deutsch+)
+http://login.iptvcompany.org:80/eversonsantos/everson/16439
+#EXTINF:-1 tvg-id="e.entertainment.br" tvg-name="E! SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/e-logo.jpg" group-title="Canais de Entretenimento",E! SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3965
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/e-logo.jpg" group-title="Canais de Entretenimento",E! HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3966
+#EXTINF:-1 tvg-id="esporte.interativo.br" tvg-name="Esporte Interativo 1 HD" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/Esporte_Interativo_Colorido_-_Branco_2017.png" group-title="Canais de Esportes",Esporte Interativo 1 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16710
+#EXTINF:-1 tvg-id="esporte.interativo.2.br" tvg-name="Esporte Interativo 2 HD" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/Esporte_Interativo_2_Colorido_-_Branco_2017.png" group-title="Canais de Esportes",Esporte Interativo 2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16711
+#EXTINF:-1 tvg-id="espnu.br" tvg-name="Espn 2 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espn2_.jpg" group-title="Canais de Esportes",Espn 2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4082
+#EXTINF:-1 tvg-id="espnu.br" tvg-name="Espn 2 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espn2_.jpg" group-title="Canais de Esportes",Espn 2 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3861
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="Espn Brasil HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/br_espn-brasil_m.png" group-title="Canais de Esportes",Espn Brasil HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4093
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espnextra.jpg" group-title="Canais de Esportes",ESPN EXTRA SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4079
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espnextra.jpg" group-title="Canais de Esportes",ESPN EXTRA HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4080
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espnextra.jpg" group-title="Canais de Esportes",ESPN EXTRA FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4081
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espn.png" group-title="Canais de Esportes",Espn SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4086
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espn.png" group-title="Canais de Esportes",Espn HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4088
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/espn.png" group-title="Canais de Esportes",Espn FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3859
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS SD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/imagesartes.png" group-title="Canais de Filmes e Séries",FILM & ARTS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4243
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/imagesartes.png" group-title="Canais de Filmes e Séries",FILM & ARTS FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4242
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/fishtv.png" group-title="Canais de Esportes",FISH TV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4076
+#EXTINF:-1 tvg-id="fish.br" tvg-name="Fish TV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/fishtv.png" group-title="Canais de Esportes",Fish TV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4078
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/FOOD_BrandLogo_Gradient_US_master.png" group-title="Canais de Entretenimento",Food Network SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3962
+#EXTINF:-1 tvg-id="food.network.brasil.br" tvg-name="Food Network HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/FOOD_BrandLogo_Gradient_US_master.png" group-title="Canais de Entretenimento",Food Network HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3963
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/FOOD_BrandLogo_Gradient_US_master.png" group-title="Canais de Entretenimento",Food Network FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3858
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal_fox_lam.png" group-title="Canais Fox",FOX SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4239
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal_fox_lam.png" group-title="Canais Fox",FOX HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4240
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal_fox_lam.png" group-title="Canais Fox",FOX FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3857
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="Fox Life SD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/ar_fox-life_m.png" group-title="Canais de Entretenimento",Fox Life SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4235
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="Fox Life HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/ar_fox-life_m.png" group-title="Canais de Entretenimento",Fox Life HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4237
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="Fox Life FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/ar_fox-life_m.png" group-title="Canais Fox",Fox Life FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3856
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="Fox Premium 1 SD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais Fox",Fox Premium 1 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4231
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="Fox Premium 1 HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais Fox",Fox Premium 1 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4234
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="Fox Premium 1 FHD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais Fox",Fox Premium 1 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4118
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="Fox Premium 2 SD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais Fox",Fox Premium 2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4232
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="Fox Premium 2 HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="Canais Fox",Fox Premium 2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4233
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports 2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4070
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports 2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4071
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports 2 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3855
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="Fox Sports SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4073
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="Fox Sports HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4074
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="Fox Sports FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Fox_Sports_Logo.png" group-title="Canais de Esportes",Fox Sports FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3854
+#EXTINF:-1 tvg-id="canal.futura.br" tvg-name="Futura SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/futura-canal.jpg" group-title="Canais Abertos",Futura SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4299
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/LOGxmSCt_400x400.jpg" group-title="Canais de Filmes e Séries",FX SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4229
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/LOGxmSCt_400x400.jpg" group-title="Canais de Filmes e Séries",FX HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4230
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/LOGxmSCt_400x400.jpg" group-title="Canais de Filmes e Séries",FX FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3853
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO BRASILIA SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4338
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO BRASILIA HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4339
+#EXTINF:-1 tvg-id="Globotvc.americacuiaba.hdbr" tvg-name="Globo Cuaibï¿½" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="Canais Globo",Globo Cuaibï¿½
+http://login.iptvcompany.org:80/eversonsantos/everson/16446
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",Globo EPTV Campinas SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3958
+#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",Globo EPTV Campinas HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3959
+#EXTINF:-1 tvg-id="Eptvrpreto.hdbr" tvg-name="GLOBO EPTV RIBEIR" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO EPTV RIBEIR
+http://login.iptvcompany.org:80/eversonsantos/everson/4319
+#EXTINF:-1 tvg-id="Globotvverdesmaresfortalezahdh265.hdbr" tvg-name="Globo Fortaleza HD" tvg-logo="https://pbs.twimg.com/profile_images/1281895099/CETVfull2_400x400" group-title="Canais Globo",Globo Fortaleza HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16447
+#EXTINF:-1 tvg-id="Globointertvcbugihdh265.hdbr" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO INTER TV CABUGI SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4327
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="Globo Inter TV Serra+Mar FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="Canais Globo",Globo Inter TV Serra+Mar FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/16448
+#EXTINF:-1 tvg-id="Globominas.hdbr" tvg-name="GLOBO MINAS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO MINAS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4341
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO MINAS HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4342
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="Canais Notícias",Globo News FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3852
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="Canais Notícias",Globo News SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3955
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="Canais Notícias",Globo News HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3957
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO NORDESTE SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4335
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO NORDESTE HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4336
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="Globo Norte - TV Cabugi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="Canais Globo",Globo Norte - TV Cabugi HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16449
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="Globo NSC TV FHD" tvg-logo="http://ipbr.tv/img/stream/nsctv.png" group-title="Canais Globo",Globo NSC TV FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/16450
+#EXTINF:-1 tvg-id="Rbstvpoa.hdbr" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO RBS PORTO ALEGRE SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4324
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO RBS TV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3851
+#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO REDE AMAZONICA HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4333
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RIO SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO RIO SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4344
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="GLOBO RIO HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO RIO HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4345
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO RJ FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3850
+#EXTINF:-1 tvg-id="Globorpccuritiba100.hdbr" tvg-name="GLOBO RPC TV CURITIBA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO RPC TV CURITIBA SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4325
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="Canais Globo",Globo RPC HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16451
+#EXTINF:-1 tvg-id="Globosp20.hdbr" tvg-name="GLOBO SJRP SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO SJRP SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4317
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO SP
+http://login.iptvcompany.org:80/eversonsantos/everson/4346
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO SP SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4347
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO SP HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4349
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO SP FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3849
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias1.hdbr" tvg-name="GLOBO TV ANHANGUERA GOI" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV ANHANGUERA GOI
+http://login.iptvcompany.org:80/eversonsantos/everson/4326
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO TV BAHIA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV BAHIA
+http://login.iptvcompany.org:80/eversonsantos/everson/4331
+#EXTINF:-1 tvg-id="Globonordeste.hdbr" tvg-name="GLOBO TV CENTRO AM" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV CENTRO AM
+http://login.iptvcompany.org:80/eversonsantos/everson/4330
+#EXTINF:-1 tvg-id="Globotvliberalbelem.hdbr" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV LIBERAL BELEM SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4329
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/Logotipo_da_TV_Morena.png/200px-Logotipo_da_TV_Morena.png" group-title="Canais Globo",Globo TV Morena FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/16452
+#EXTINF:-1 tvg-id="Globosp6.hdbr" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV TEM BAURU SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4320
+#EXTINF:-1 tvg-id="Globosp12.hdbr" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV TEM SOROCABA SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4321
+#EXTINF:-1 tvg-id="Globosp100.hdbr" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV TRIBUNA SANTOS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4322
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="Globo TV Tribuna HD" tvg-logo="http://www.climapress.com.br/UpLoad/GaleriaMidia/149/0.jpg" group-title="Canais Globo",Globo TV Tribuna HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16453
+#EXTINF:-1 tvg-id="Globobrasilia11.hdbr" tvg-name="GLOBO TV VANGUARDA S" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV VANGUARDA S
+http://login.iptvcompany.org:80/eversonsantos/everson/4316
+#EXTINF:-1 tvg-id="Globotvverdesmaresfortaleza.hdbr" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-logo.png" group-title="Canais Globo",GLOBO TV VERDES MARES FORTALEZA SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4328
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dccc890c8fc4c07991d826add5a0.png" group-title="Canais para Crianças",Gloob SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4018
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dccc890c8fc4c07991d826add5a0.png" group-title="Canais para Crianças",Gloob HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4020
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/74e4a5f0ba3ea11e0b9715260014.png" group-title="Canais para Crianças",GLOOBINHO SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4015
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/74e4a5f0ba3ea11e0b9715260014.png" group-title="Canais para Crianças",GLOOBINHO HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4016
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/74e4a5f0ba3ea11e0b9715260014.png" group-title="Canais para Crianças",GLOOBINHO FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3848
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/800px-GNT_logo-roxo.svg.png" group-title="Canais de Entretenimento",GNT SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3950
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/800px-GNT_logo-roxo.svg.png" group-title="Canais de Entretenimento",GNT HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3953
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/H2_1.png" group-title="Canais de Entretenimento",H2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3945
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/H2_1.png" group-title="Canais de Entretenimento",H2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3946
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/H2_1.png" group-title="Canais de Entretenimento",H2 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3847
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO 2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4223
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO 2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4224
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO 2 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3846
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Family SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4220
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Family HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4221
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Family FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3845
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4226
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4227
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3844
+#EXTINF:-1 tvg-id="hbo.plus.brasil.br" tvg-name="HBO Plus SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Plus SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4217
+#EXTINF:-1 tvg-id="hbo.plus.brasil.br" tvg-name="HBO Plus HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Plus HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4218
+#EXTINF:-1 tvg-id="hbo.plus.brasil.br" tvg-name="HBO Plus 1 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Plus 1 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3843
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Signature SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4214
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Signature HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4215
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO Signature FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3842
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/history-channel-logo.png" group-title="Canais de Entretenimento",History Channel SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3943
+#EXTINF:-1 tvg-id="history.br" tvg-name="History Channel FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/history-channel-logo.png" group-title="Canais de Entretenimento",History Channel FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3806
+#EXTINF:-1 tvg-id="investigation.discovery.br" tvg-name="ID Investiga SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/id-inverstia.png" group-title="Canais Discovery",ID Investiga SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3940
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID Investiga HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/id-inverstia.png" group-title="Canais Discovery",ID Investiga HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3941
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID Investiga FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/id-inverstia.png" group-title="Canais Discovery",ID Investiga FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3841
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/lifetime.png" group-title="Canais de Filmes e Séries",Lifetime SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3938
+#EXTINF:-1 tvg-id="lifetime.brazil.br" tvg-name="Lifetime HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/lifetime.png" group-title="Canais de Filmes e Séries",Lifetime HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3939
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/lifetime.png" group-title="Canais de Filmes e Séries",Lifetime FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3840
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Mais Globosat SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/maisglobo.jpg" group-title="Canais de Filmes e Séries",Mais Globosat SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3934
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Mais Globosat HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/maisglobo.jpg" group-title="Canais de Filmes e Séries",Mais Globosat HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3936
+#EXTINF:-1 tvg-id="Max" tvg-name="HBO MUNDI SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO MUNDI SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4211
+#EXTINF:-1 tvg-id="max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO MUNDI HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4212
+#EXTINF:-1 tvg-id="max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO MUNDI FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3839
+#EXTINF:-1 tvg-id="max.prime.br" tvg-name="HBO XTREME SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO XTREME SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4208
+#EXTINF:-1 tvg-id="max.prime.br" tvg-name="HBO XTREME HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO XTREME HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4209
+#EXTINF:-1 tvg-id="max.prime.br" tvg-name="HBO XTREME FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO XTREME FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3838
+#EXTINF:-1 tvg-id="max.up.br" tvg-name="HBO POP SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO POP SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4205
+#EXTINF:-1 tvg-id="max.up.br" tvg-name="HBO POP HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO POP HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4206
+#EXTINF:-1 tvg-id="max.up.br" tvg-name="HBO POP FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hbologo.jpg" group-title="Canais HBO",HBO POP FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3837
+#EXTINF:-1 tvg-id="Megapix101.hdbr" tvg-name="Megapix SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/megapix-claro-tv.png" group-title="Canais de Filmes e Séries",Megapix SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4202
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/megapix-claro-tv.png" group-title="Canais de Filmes e Séries",Megapix HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4203
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/megapix-claro-tv.png" group-title="Canais de Filmes e Séries",Megapix FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3836
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/07d86a8f9f3b2aa19fa74d72e89c9429.jpg" group-title="Canais de Entretenimento",MTV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3931
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/07d86a8f9f3b2aa19fa74d72e89c9429.jpg" group-title="Canais de Entretenimento",MTV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3932
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/07d86a8f9f3b2aa19fa74d72e89c9429.jpg" group-title="Canais de Entretenimento",MTV FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3835
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/800px-Multishow_logo-laranja.png" group-title="Canais de Entretenimento",MULTISHOW SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3927
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/800px-Multishow_logo-laranja.png" group-title="Canais de Entretenimento",MULTISHOW HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3929
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/800px-Multishow_logo-laranja.png" group-title="Canais de Entretenimento",MULTISHOW FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3834
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/MusicBoxBrazilLogo.png" group-title="Canais de Entretenimento",MUSIC BOX BRAZIL SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3925
+#EXTINF:-1 tvg-id="natgeo.kids.br" tvg-name="NatGeo Kids SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="Canais para Crianças",NatGeo Kids SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4013
+#EXTINF:-1 tvg-id="natgeo.kids.br" tvg-name="NatGeo Kids HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="Canais para Crianças",NatGeo Kids HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4014
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NatGeo Kids FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/resize1_NGKidsAssets.ai-01.png" group-title="Canais para Crianças",NatGeo Kids FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3832
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NatGeo Wild SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Nat+geo+wild.png" group-title="Canais de Entretenimento",NatGeo Wild SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3923
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NatGeo Wild HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Nat+geo+wild.png" group-title="Canais de Entretenimento",NatGeo Wild HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3924
+#EXTINF:-1 tvg-id="nat.geo.wild.br" tvg-name="NatGeo Wild FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Nat+geo+wild.png" group-title="Canais de Entretenimento",NatGeo Wild FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3831
+#EXTINF:-1 tvg-id="national.geographic.wild.latin.america.br" tvg-name="National Geographic SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ngc.png" group-title="Canais de Entretenimento",National Geographic SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3920
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="National Geographic HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ngc.png" group-title="Canais de Entretenimento",National Geographic HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3921
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="National Geographic FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ngc.png" group-title="Canais de Entretenimento",National Geographic FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3833
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hhkjapan.jpg" group-title="Canais Notícias",NHK SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3917
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/hhkjapan.jpg" group-title="Canais Notícias",NHK HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3918
+#EXTINF:-1 tvg-id="nhk.world.japan.english.br" tvg-name="NHK WORLD HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nhk1.jpg" group-title="Canais Notícias",NHK WORLD HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4048
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="Canais para Crianças",Nick Jr SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4010
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="Canais para Crianças",Nick Jr HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4011
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/nickjr12.png" group-title="Canais para Crianças",Nick Jr FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3829
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/818.png" group-title="Canais para Crianças",Nickelodeon SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4007
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/818.png" group-title="Canais para Crianças",Nickelodeon HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4008
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/818.png" group-title="Canais para Crianças",Nickelodeon FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3830
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-off-logo-0.png" group-title="Canais de Esportes",OFF SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4053
+#EXTINF:-1 tvg-id="canal.off.br" tvg-name="OFF HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-off-logo-0.png" group-title="Canais de Esportes",OFF HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4055
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="Canais de Filmes e Séries",Paramount Channel SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4199
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="Canais de Filmes e Séries",Paramount Channel HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4200
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="Canais de Filmes e Séries",Paramount Channel FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3828
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/playdikiss2.jpg" group-title="Canais para Crianças",PLAYKIDS HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4005
+#EXTINF:-1 tvg-id="play.br" tvg-name="PLAYTV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/253cb0602df3d6e7682c6179911514d587b0630a_hq.jpg" group-title="Canais de Entretenimento",PLAYTV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3913
+#EXTINF:-1 tvg-id="Premiere2101.hdbr" tvg-name="Premiere 2 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4139
+#EXTINF:-1 tvg-id="Premiere2hd100.hdbr" tvg-name="Premiere 2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4140
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 2 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3827
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 3 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4134
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 3 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4135
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 3 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3826
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 4 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4128
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 4 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4129
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 4 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3825
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 5 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4124
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 5 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4125
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 5 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3824
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 6 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4120
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 6 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4121
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 6 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3823
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 7 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4116
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 7 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4117
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere 7 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3822
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere Clubes SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4143
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere Clubes HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4144
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/premieriplay.png" group-title="Canais Premiere",Premiere Clubes FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3821
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brazil SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/primeboxbrazil.png" group-title="Canais de Entretenimento",Prime Box Brazil SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3911
+#EXTINF:-1 tvg-id="prime.box.brasil.br" tvg-name="Prime Box Brazil HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/primeboxbrazil.png" group-title="Canais de Entretenimento",Prime Box Brazil HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3912
+#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD BELEM SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais Abertos",RECORD BELEM SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4312
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais Abertos",RECORD BRASILIA SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4292
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais Abertos",RECORD BRASILIA FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4293
+#EXTINF:-1 tvg-id="record.sao.paulo.br" tvg-name="RECORD FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3820
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD GOIAS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4280
+#EXTINF:-1 tvg-id="record.sao.paulo.br" tvg-name="RECORD HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4282
+#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="RECORD ITAPOAN FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais Abertos",RECORD ITAPOAN FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4291
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOAN SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais Abertos",RECORD ITAPOAN SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4290
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MINAS FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD MINAS FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4289
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD MINAS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4288
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="Canais Notícias",RECORD NEWS FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4279
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="Canais Notícias",RECORD NEWS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4278
+#EXTINF:-1 tvg-id="record.rio.janeiro.br" tvg-name="RECORD RIO FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD RIO FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4287
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD RIO SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4286
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD RS FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4285
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD RS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4284
+#EXTINF:-1 tvg-id="record.sao.paulo.br" tvg-name="RECORD SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="Canais RECORD",RECORD SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4281
+#EXTINF:-1 tvg-id="" tvg-name="Redbull TV HD" tvg-logo="https://i2.wp.com/ohmyguide.pt/wp-content/uploads/2016/04/icon-2.png" group-title="Canais de Esportes",Redbull TV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16454
+#EXTINF:-1 tvg-id="" tvg-name="REDE NEW HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redenew_logo_mid.jpg" group-title="Canais Notícias",REDE NEW HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4273
+#EXTINF:-1 tvg-id="" tvg-name="Rede Sï¿½culo 21" tvg-logo="http://ipbr.tv/img/stream/rs21.jpg" group-title="Canais Notícias",Rede Sï¿½culo 21
+http://login.iptvcompany.org:80/eversonsantos/everson/16455
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/rede-vida.jpg" group-title="Canais Evangélicos",Rede Vida SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3909
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/rede-vida.jpg" group-title="Canais Evangélicos",Rede Vida HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3910
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redetv.png" group-title="Canais Abertos",RedeTV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4276
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redetv.png" group-title="Canais Abertos",RedeTV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4277
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/redetv.png" group-title="Canais Abertos",REDETV FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/4294
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today (RT) HD" tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="Canais Notícias",Russia Today (RT) HD
+http://login.iptvcompany.org:80/eversonsantos/everson/16456
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT GOI" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sbt-logo.jpg" group-title="Canais SBT",SBT GOI
+http://login.iptvcompany.org:80/eversonsantos/everson/4270
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sbt-logo.jpg" group-title="Canais SBT",SBT SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4271
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sbt-logo.jpg" group-title="Canais SBT",SBT HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4272
+#EXTINF:-1 tvg-id="" tvg-name="SBT PERNAMBUCO SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sbt-logo.jpg" group-title="Canais SBT",SBT PERNAMBUCO SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4268
+#EXTINF:-1 tvg-id="Sbthdtvpioneiraalternativo108.hdbr" tvg-name="SBT PERNAMBUCO HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sbt-logo.jpg" group-title="Canais SBT",SBT PERNAMBUCO HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4269
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT PIAU" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sbt-logo.jpg" group-title="Canais SBT",SBT PIAU
+http://login.iptvcompany.org:80/eversonsantos/everson/4267
+#EXTINF:-1 tvg-id="sic.internacional.br" tvg-name="SIC INTERNACIONAL" tvg-logo="http://iptvclub.com.br/iptvhd-capas/sic-internacional.png" group-title="Canais Notícias",SIC INTERNACIONAL
+http://login.iptvcompany.org:80/eversonsantos/everson/4311
+#EXTINF:-1 tvg-id="" tvg-name="SIC K PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="Canais Notícias",SIC K PT
+http://login.iptvcompany.org:80/eversonsantos/everson/16457
+#EXTINF:-1 tvg-id="sic.internacional.br" tvg-name="SIC Notï¿½cias PT" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq-300x200.png" group-title="Canais Notícias",SIC Notï¿½cias PT
+http://login.iptvcompany.org:80/eversonsantos/everson/16458
+#EXTINF:-1 tvg-id="sic.br" tvg-name="SIC Radical PT" tvg-logo="https://c1.quickcachr.fotos.sapo.pt/i/P3315caf1/16738398_s5CCP.jpeg" group-title="Canais Notícias",SIC Radical PT
+http://login.iptvcompany.org:80/eversonsantos/everson/16459
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ZQjlLKKO.png" group-title="Canais de Filmes e Séries",Sony SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4195
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ZQjlLKKO.png" group-title="Canais de Filmes e Séries",Sony HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4197
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/ZQjlLKKO.png" group-title="Canais de Filmes e Séries",Sony FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3819
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-Space.jpg" group-title="Canais de Filmes e Séries",Space SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4193
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-Space.jpg" group-title="Canais de Filmes e Séries",Space HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4194
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canal-Space.jpg" group-title="Canais de Filmes e Séries",Space FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3818
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732.jpg" group-title="Canais SportTV",SporTV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4065
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732.jpg" group-title="Canais SportTV",SporTV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4067
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732.jpg" group-title="Canais SportTV",SporTV FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3815
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV2 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/3397322.jpg" group-title="Canais SportTV",SporTV2 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4061
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV2 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/3397322.jpg" group-title="Canais SportTV",SporTV2 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4063
+#EXTINF:-1 tvg-id="sportv.2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/3397322.jpg" group-title="Canais SportTV",SporTV 2 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3817
+#EXTINF:-1 tvg-id="sportv.3.br" tvg-name="SporTV3 SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732333.jpg" group-title="Canais SportTV",SporTV3 SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4057
+#EXTINF:-1 tvg-id="sportv.3.br" tvg-name="SporTV3 HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732333.jpg" group-title="Canais SportTV",SporTV3 HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4059
+#EXTINF:-1 tvg-id="sportv.3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/339732333.jpg" group-title="Canais SportTV",SporTV 3 FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3816
+#EXTINF:-1 tvg-id="Studiouniversalsd102.hdbr" tvg-name="Studio Universal SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="Canais de Filmes e Séries",Studio Universal SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4190
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="Canais de Filmes e Séries",Studio Universal HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4191
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="Canais de Filmes e Séries",Studio Universal FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3814
+#EXTINF:-1 tvg-id="Syfysd102.hdbr" tvg-name="Syfy SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Syfy-canal.png" group-title="Canais de Filmes e Séries",Syfy SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4187
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Syfy-canal.png" group-title="Canais de Filmes e Séries",Syfy HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4188
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Syfy-canal.png" group-title="Canais de Filmes e Séries",Syfy FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3813
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Syrian_TV_Logo.png" group-title="Canais Notícias",Syria TV
+http://login.iptvcompany.org:80/eversonsantos/everson/16460
+#EXTINF:-1 tvg-id="Tbs102.hdbr" tvg-name="TBS SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tbscal.jpg" group-title="Canais de Filmes e Séries",TBS SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4184
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tbscal.jpg" group-title="Canais de Filmes e Séries",TBS HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4185
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tcm1.png" group-title="Canais de Filmes e Séries",TCM SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4182
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tcm1.png" group-title="Canais de Filmes e Séries",TCM HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4183
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Action SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4179
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Action HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4180
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Action FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3812
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Cult SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4176
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult  HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Cult  HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4177
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Cult FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3811
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Fun SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4173
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Fun HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4174
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Fun FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3810
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Pipoca SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4170
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Pipoca HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4171
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Pipoca FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3809
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Premium SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4167
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Premium HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4168
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Premium FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3808
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Touch SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4164
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Touch HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4165
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/telecine21.jpg" group-title="Canais Telecine",Telecine Touch FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3807
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Tlc_logo_discovery.jpg" group-title="Canais de Entretenimento",TLC SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3901
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Tlc_logo_discovery.jpg" group-title="Canais de Entretenimento",TLC HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3902
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tnt12.jpg" group-title="Canais de Filmes e Séries",TNT SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4161
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tnt12.jpg" group-title="Canais de Filmes e Séries",TNT HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4162
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tnt12.jpg" group-title="Canais de Filmes e Séries",TNT FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3805
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="Canais de Filmes e Séries",TNT Series SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4157
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="Canais de Filmes e Séries",TNT Series HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4158
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tntseiees.png" group-title="Canais de Filmes e Séries",TNT SERIES FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3804
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tooncast-na-sky.jpg" group-title="Canais para Crianças",Tooncast SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4001
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/tooncast-na-sky.jpg" group-title="Canais para Crianças",Tooncast HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4002
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Logotipo_da_TV_Aparecida.png" group-title="Canais Evangélicos",TV Aparecida SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3898
+#EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/EwRD_yZf_400x400.jpg" group-title="Canais Abertos",TV GAZETA HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4297
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/TV-Ra-Tim-Bum.jpg" group-title="Canais para Crianças",TV RA TIM BUM SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4003
+#EXTINF:-1 tvg-id="tv.vitoria.br" tvg-name="TV VIT" tvg-logo="" group-title="Canais Abertos",TV VIT
+http://login.iptvcompany.org:80/eversonsantos/everson/3897
+#EXTINF:-1 tvg-id="tve.br" tvg-name="TVE" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Canais Notícias",TVE
+http://login.iptvcompany.org:80/eversonsantos/everson/16461
+#EXTINF:-1 tvg-id="tve.internacional.br" tvg-name="TVE Espanha" tvg-logo="http://ipbr.tv/img/stream/rtve.png" group-title="Canais Notícias",TVE Espanha
+http://login.iptvcompany.org:80/eversonsantos/everson/16462
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/universaltv1.jpg" group-title="Canais de Filmes e Séries",Universal TV SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4153
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/universaltv1.jpg" group-title="Canais de Filmes e Séries",Universal TV HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4154
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/universaltv1.jpg" group-title="Canais de Filmes e Séries",Universal TV FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3803
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canalviva.png" group-title="Canais de Entretenimento",Viva FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3893
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canalviva.png" group-title="Canais de Entretenimento",Viva SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3889
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/canalviva.png" group-title="Canais de Entretenimento",Viva HD
+http://login.iptvcompany.org:80/eversonsantos/everson/3891
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Warner-azul.png" group-title="Canais de Filmes e Séries",Warner Channel SD
+http://login.iptvcompany.org:80/eversonsantos/everson/4150
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Warner-azul.png" group-title="Canais de Filmes e Séries",Warner Channel HD
+http://login.iptvcompany.org:80/eversonsantos/everson/4151
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/Warner-azul.png" group-title="Canais de Filmes e Séries",Warner Channel FHD
+http://login.iptvcompany.org:80/eversonsantos/everson/3802
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo SD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/wohoo.jpg" group-title="Canais de Esportes",Woohoo SD
+http://login.iptvcompany.org:80/eversonsantos/everson/3948
+#EXTINF
