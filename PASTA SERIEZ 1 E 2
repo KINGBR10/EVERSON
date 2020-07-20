@@ -1,7 +1,7 @@
 
 ﻿<channels>
 <channel>
-<name>[B][COLOR orange]- CLIQUE AQUI[/COLOR] [COLOR lightgreen]- SERIES 1 [/COLOR][/B]</name>
+<name>[B][COLOR lightgreen]- SERIES 1 [/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmFwag4u_xVUPCxBGYiCMkTpA7QnqGINTetg&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/EVERSON/master/CONTEUDO%20SERIES%201</externallink>
 <fanart>http://hd.wallpaperswide.com/thumbs/marvel___the_avengers_shield_logo-t2.jpg</fanart>
@@ -21,7 +21,7 @@
  
 ﻿<channels>
 <channel>
-<name>[B][COLOR orange]- CLIQUE AQUI[/COLOR] [COLOR darkblue]- SERIES 2 [/COLOR][/B]</name>
+<name>[B][COLOR darkblue]- SERIES 2 [/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmFwag4u_xVUPCxBGYiCMkTpA7QnqGINTetg&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/EVERSON/master/CONTEUDO%20SERIEZ%202</externallink>
 <fanart>http://hd.wallpaperswide.com/thumbs/marvel___the_avengers_shield_logo-t2.jpg</fanart>
@@ -41,11 +41,15 @@
  
 ﻿<channels>
 <channel>
-<name> SERIE TESTE</name>
+<name> [B][COLOR gold] SERIES DO NOSSO NOVO SERVIDOR [/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/EVERSON/master/TESTE%20LINK%20NOVO</externallink>
 <fanart></fanart>
-<info>   </info>
+<info> 
+
+
+
+[B][COLOR orange]NÃO PRECISA DE GDRIVE E NEM ELEMENTUM PRA RODAS AS SERIES DO NOSSO NOVO SERVIDOR [/B][/COLOR]   </info>
 </channel>
 </channels>
 
