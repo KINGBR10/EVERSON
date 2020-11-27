@@ -6,19 +6,320 @@ http://lista.lorddark.club:80/fulviodefreitas/freitass5235/758
 http://lista.lorddark.club:80/fulviodefreitas/freitass5235/814
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://1.bp.blogspot.com/-2-J1GZKEpTs/XvovPmbONeI/AAAAAAAAAUo/XqyHxSJ5wKoiNYrXOZwjH5RlSFT195RiQCK4BGAsYHg/s320/SPORTV.png" group-title="ESPORTE",SPORTV HD
 http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19327
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://script.clearnight.xyz/logos/Variedades/OFF.png" group-title="Variedades",
-OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[
 
-	COLOR white
+#EXTM3U
 
-][
+#EXTINF:-1tvg-id="Hbo2.br"tvg-name="HBO2H.265³"tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png"group-title="Canais4K/H265",HBO 2 H.265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR whitej][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201962
 
-	B
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201961
 
-]KING BR SERVIDOR LISO[
-	/B
-][
-	/COLOR
-]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/848
-#
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201960
+
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201959
+
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201958
+
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201957
+
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201956
+
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201955
+
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201954
+
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201953
+
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 H.265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201952
+
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201951
+
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201950
+
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201949
+
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201948
+
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201947
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Canais 4K / H265",ESPN Brasil H.265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201946
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201945
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201944
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201943
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201942
+
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201941
+
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201940
+
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201939
+
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201938
+
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201937
+
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201935
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201465
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201464
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201463
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201462
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201461
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201460
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201459
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201458
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201457
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201456
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201455
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201454
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD " tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 SD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201453
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201452
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201451
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201450
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201449
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201448
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201447
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201446
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201445
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201444
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201443
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201442
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201440
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201439
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201438
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201437
+
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Canais 4K / H265",BandSports H.265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201436
+
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201435
+
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201434
+
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201433
+
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201432
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 4K²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Canais 4K / H265",Fox Sports 4K²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201431
+
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Canais 4K / H265",Fox Sports 2 H.265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201430
+
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201428
+
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201427
+
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201426
+
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201425
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201423
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201422
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201421
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201420
+
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201419
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201418
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201417
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201416
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201415
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201414
+
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201413
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 H265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Canais 4K / H265",SporTV 2 H265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[f
+/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201412
+
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201411
