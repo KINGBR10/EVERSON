@@ -6,9 +6,19 @@ http://lista.lorddark.club:80/fulviodefreitas/freitass5235/758
 http://lista.lorddark.club:80/fulviodefreitas/freitass5235/814
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://1.bp.blogspot.com/-2-J1GZKEpTs/XvovPmbONeI/AAAAAAAAAUo/XqyHxSJ5wKoiNYrXOZwjH5RlSFT195RiQCK4BGAsYHg/s320/SPORTV.png" group-title="ESPORTE",SPORTV HD
 http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19327
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://script.clearnight.xyz/logos/Variedades/OFF.png" group-title="Variedades",
+OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[
 
+	COLOR white
 
+][
 
+	B
 
-
-
+]KING BR SERVIDOR LISO[
+	/B
+][
+	/COLOR
+]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/848
+#
