@@ -1,580 +1,580 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="Rede TelecineunTelecine Cult HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201384
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201384
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="Rede Telecine",Telecine Cult SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201383
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201383
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="Rede Telecine",Telecine Cult SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201382
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201382
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="Rede Telecine",Telecine Fun FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201381
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201381
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="Rede Telecine",Telecine Fun FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201380
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201380
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="Rede Telecine",Telecine Fun HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201379
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201379
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="Rede Telecine",Telecine Fun SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201378
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201378
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Fun.png" group-title="Rede Telecine",Telecine Fun SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201377
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201377
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png" group-title="Rede Telecine",Telecine Touch FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201376
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201376
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png" group-title="Rede Telecine",Telecine Touch FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201375
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201375
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png" group-title="Rede Telecine",Telecine Touch HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201374
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201374
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-touch.png" group-title="Rede Telecine",Telecine Touch SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201373
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201373
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png" group-title="Rede Telecine",Telecine Premium FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201372
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201372
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png" group-title="Rede Telecine",Telecine Premium FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201371
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201371
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-premium.png" group-title="Rede Telecine",Telecine Premium HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201370
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201370
 
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo NSC TV Chapeco FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Chapeco FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19058
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19058
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC TV Florianopolis SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Florianopolis SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19418
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19418
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC TV Florianopolis HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Florianopolis HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19419
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19419
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/788
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/788
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="Globo NSC TV Florianopolis FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Florianopolis FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19067
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19067
 #EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC TV Joinville SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Joinville SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19473
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19473
 #EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC TV Joinville HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Joinville HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19472
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19472
 #EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC TV Joinville FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Joinville FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19085
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19085
 #EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="Globo NSC TV Santa Catarina HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Santa Catarina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/775
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/775
 #EXTINF:-1 tvg-id="RBSCaxiasSul.br" tvg-name="Globo RBS TV Caxias do Sul SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Caxias do Sul SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19471
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19471
 #EXTINF:-1 tvg-id="RBSCaxiasSul.br" tvg-name="Globo RBS TV Caxias do Sul HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Caxias do Sul HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19470
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19470
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RBS TV Caxias Do Sul FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Caxias Do Sul FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19084
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19084
 #EXTINF:-1 tvg-id="RBS TV HD" tvg-name="Globo RBS TV Pelotas SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Pelotas SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19475
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19475
 #EXTINF:-1 tvg-id="RBS TV HD" tvg-name="Globo RBS TV Pelotas HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Pelotas HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19474
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19474
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RBS TV Pelotas FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Pelotas FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19086
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19086
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS TV Porto Alegre SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Porto Alegre SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19420
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19420
 #EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Porto Alegre HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19421
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19421
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS TV Porto Alegre FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rbs.png" group-title="Rede Globo",Globo RBS TV Porto Alegre FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19068
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19068
 #EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazonica SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Rede Amazonica SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19422
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19422
 #EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="Globo Rede Amazonica SD *" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-rede-amazonica.png" group-title="Rede Globo",Globo Rede Amazonica SD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/572
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/572
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-curitiba.png" group-title="Rede Globo",Globo RPC Curitiba SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19426
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19426
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-curitiba.png" group-title="Rede Globo",Globo RPC Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/576
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/576
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-curitiba.png" group-title="Rede Globo",Globo RPC Curitiba HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19427
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19427
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-curitiba.png" group-title="Rede Globo",Globo RPC Curitiba FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19057
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19057
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="Globo RPC Foz do Iguacu SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RPC Foz do Iguacu SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19447
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19447
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="Globo RPC Foz do Iguacu HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RPC Foz do Iguacu HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19448
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19448
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RPC Foz Do Iguacu FHD [1]" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo RPC Foz Do Iguacu FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19059
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19059
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Maringa SD [1]" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo RPC Maringa SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19404
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19404
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Maringa HD [1]" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo RPC Maringa HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19403
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19403
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RPC Maringa FHD [1]" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo RPC Maringa FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19056
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19056
 #EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Parana HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-RPC-parana.png" group-title="Rede Globo",Globo RPC Parana HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/781
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/781
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo TV Anhanguera SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-anhanguera.png" group-title="Rede Globo",Globo TV Anhanguera SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19431
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19431
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo TV Anhanguera SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-anhanguera.png" group-title="Rede Globo",Globo TV Anhanguera SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/599
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/599
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo TV Anhanguera HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-anhanguera.png" group-title="Rede Globo",Globo TV Anhanguera HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19432
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19432
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-anhanguera.png" group-title="Rede Globo",Globo TV Anhanguera HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/875
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/875
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo TV Anhanguera FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-anhanguera.png" group-title="Rede Globo",Globo TV Anhanguera FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19069
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19069
 #EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-anhanguera.png" group-title="Rede Globo",Globo TV Anhanguera FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1051
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1051
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-bahia.png" group-title="Rede Globo",Globo TV Bahia SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19433
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19433
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-bahia.png" group-title="Rede Globo",Globo TV Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/601
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/601
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-bahia.png" group-title="Rede Globo",Globo TV Bahia HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19434
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19434
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia HD ²" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-bahia.png" group-title="Rede Globo",Globo TV Bahia HD ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/768
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/768
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-bahia.png" group-title="Rede Globo",Globo TV Bahia FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19070
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19070
 #EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo TV C. America Cuiaba SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV C. America Cuiaba SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19435
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19435
 #EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="Globo TV C. America Cuiaba SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV C. America Cuiaba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/603
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/603
 #EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Cabo Branco SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-cabo-branco.png" group-title="Rede Globo",Globo TV Cabo Branco SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19477
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19477
 #EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Cabo Branco HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-cabo-branco.png" group-title="Rede Globo",Globo TV Cabo Branco HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19476
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19476
 #EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo Tv Cabo Branco FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-cabo-branco.png" group-title="Rede Globo",Globo Tv Cabo Branco FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19087
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19087
 #EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube Teresina SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-clube.png" group-title="Rede Globo",Globo TV Clube Teresina SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19449
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19449
 #EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube Teresina HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-clube.png" group-title="Rede Globo",Globo TV Clube Teresina HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19450
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19450
 #EXTINF:-1 tvg-id="Redeclube.br" tvg-name="Globo TV Clube Teresina FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-clube.png" group-title="Rede Globo",Globo TV Clube Teresina FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19060
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19060
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="Globo TV Diario Fortaleza FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-diario.png" group-title="Rede Globo",Globo TV Diario Fortaleza FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19053
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19053
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="Globo TV Diario Fortaleza SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-diario.png" group-title="Rede Globo",Globo TV Diario Fortaleza SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19395
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19395
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="Globo TV Diario Fortaleza HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-diario.png" group-title="Rede Globo",Globo TV Diario Fortaleza HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19394
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19394
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Alagoas SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19457
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19457
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Alagoas HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19458
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19458
 #EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Alagoas FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19076
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19076
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Sul ES HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Sul ES HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19459
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19459
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Sul ES FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Sul ES FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19077
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19077
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Vitoria SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Vitoria SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19451
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19451
 #EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Vitoria HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Vitoria HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19452
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19452
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Globo TV Gazeta Vitoria FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo TV Gazeta Vitoria FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19061
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19061
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="Globo TV Liberal Belem SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-liberal.png" group-title="Rede Globo",Globo TV Liberal Belem SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19436
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19436
 #EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-liberal.png" group-title="Rede Globo",Globo TV Liberal Belem SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/606
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/606
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-mirante.png" group-title="Rede Globo",Globo TV Mirante Sao Luis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/786
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/786
 #EXTINF:-1 tvg-id="TVMiranteCocaisHD.br" tvg-name="Globo TV Mirante Sao Luis FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-mirante.png" group-title="Rede Globo",Globo TV Mirante Sao Luis FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19071
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19071
 #EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena Campo Grande SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-morena.png" group-title="Rede Globo",Globo TV Morena Campo Grande SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19456
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19456
 #EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena Campo Grande HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-morena.png" group-title="Rede Globo",Globo TV Morena Campo Grande HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19455
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19455
 #EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena Campo Grande FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-morena.png" group-title="Rede Globo",Globo TV Morena Campo Grande FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19074
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19074
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-morena.png" group-title="Rede Globo",Globo TV Morena Ponta Pora HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/766
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/766
 #EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="Globo TV Rio Sul SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rio-sul.png" group-title="Rede Globo",Globo TV Rio Sul SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19479
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19479
 #EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="Globo TV Rio Sul HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rio-sul.png" group-title="Rede Globo",Globo TV Rio Sul HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19478
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19478
 #EXTINF:-1 tvg-id="TVRioSul.br" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rio-sul.png" group-title="Rede Globo",Globo TV Rio Sul HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/787
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/787
 #EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="Globo TV Rio Sul FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-rio-sul.png" group-title="Rede Globo",Globo TV Rio Sul FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19088
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19088
 #EXTINF:-1 tvg-id="TVSantaCruzHD.br" tvg-name="Globo TV Santa Cruz SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-santa-cruz.png" group-title="Rede Globo",Globo TV Santa Cruz SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19481
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19481
 #EXTINF:-1 tvg-id="TVSantaCruzHD.br" tvg-name="Globo TV Santa Cruz HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-santa-cruz.png" group-title="Rede Globo",Globo TV Santa Cruz HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19480
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19480
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Santa Cruz FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-santa-cruz.png" group-title="Rede Globo",Globo TV Santa Cruz FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19089
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19089
 #EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="Globo TV Sergipe SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/glovo-tv-sergipe.png" group-title="Rede Globo",Globo TV Sergipe SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19453
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19453
 #EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="Globo TV Sergipe HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/glovo-tv-sergipe.png" group-title="Rede Globo",Globo TV Sergipe HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19454
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19454
 #EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="Globo TV Sergipe FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/glovo-tv-sergipe.png" group-title="Rede Globo",Globo TV Sergipe FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19062
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19062
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Subae Bahia HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-suabe.png" group-title="Rede Globo",Globo TV Subae Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/769
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/769
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-tem.png" group-title="Rede Globo",Globo TV Tem Bauru SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19437
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19437
 #EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-tem.png" group-title="Rede Globo",Globo TV Tem Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/609
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/609
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Tem S. J. Rio Preto SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-tem.png" group-title="Rede Globo",Globo TV Tem S. J. Rio Preto SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19440
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19440
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Tem S. J. Rio Preto SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-tem.png" group-title="Rede Globo",Globo TV Tem S. J. Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/610
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/610
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Tem S. J. Rio Preto HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-tv-tem.png" group-title="Rede Globo",Globo TV Tem S. J. Rio Preto HD [1]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[ 
 /B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19439
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Record/rede-record.png" group-title="Noticias",Record News FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201369
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201369
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Record/rede-record.png" group-title="Noticias",Record News SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201368
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201368
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Record/rede-record.png" group-title="Noticias",Record News SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201367
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201367
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD²" tvg-logo="http://script.clearnight.xyz/logos/Noticias/globo-news.png" group-title="Noticias",Globo News HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201366
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201366
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD³" tvg-logo="http://script.clearnight.xyz/logos/Noticias/globo-news.png" group-title="Noticias",Globo News SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201365
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201365
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD²" tvg-logo="http://script.clearnight.xyz/logos/Noticias/globo-news.png" group-title="Noticias",Globo News SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201364
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201364
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News H.265³" tvg-logo="http://script.clearnight.xyz/logos/Noticias/band-news.png" group-title="Canais 4K / H265",Band News H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201363
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201363
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND News FHD²" tvg-logo="http://script.clearnight.xyz/logos/Noticias/band-news.png" group-title="Noticias",BAND News FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201362
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201362
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND News SD³" tvg-logo="http://script.clearnight.xyz/logos/Noticias/band-news.png" group-title="Noticias",BAND News SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201361
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201361
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil FHD³" tvg-logo="http://script.clearnight.xyz/logos/Noticias/CNN-brasil.png" group-title="Noticias",CNN Brasil FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201360
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201360
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil FHD²" tvg-logo="http://script.clearnight.xyz/logos/Noticias/CNN-brasil.png" group-title="Noticias",CNN Brasil FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201359
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201359
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD²" tvg-logo="http://script.clearnight.xyz/logos/Noticias/CNN-brasil.png" group-title="Noticias",CNN Brasil HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201358
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201358
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil SD³" tvg-logo="http://script.clearnight.xyz/logos/Noticias/CNN-brasil.png" group-title="Noticias",CNN Brasil SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201357
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201357
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 2020 HD³" tvg-logo="http://script.clearnight.xyz/logos/A-fazenda-12/a-fazenda.png" group-title="A Fazenda 12",A Fazenda 2020 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201345
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201345
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 2020 SD³" tvg-logo="http://script.clearnight.xyz/logos/A-fazenda-12/a-fazenda.png" group-title="A Fazenda 12",A Fazenda 2020 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201344
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201344
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 2020 SD" tvg-logo="http://script.clearnight.xyz/logos/A-fazenda-12/a-fazenda.png" group-title="A Fazenda 12",A Fazenda 2020 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201343
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201343
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 2020 HD" tvg-logo="http://script.clearnight.xyz/logos/A-fazenda-12/a-fazenda.png" group-title="A Fazenda 12",A Fazenda 2020 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201342
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201342
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 2020 HD¹" tvg-logo="http://script.clearnight.xyz/logos/A-fazenda-12/a-fazenda.png" group-title="A Fazenda 12",A Fazenda 2020 HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201341
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201341
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo SP HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19429
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19429
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo SP SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19428
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19428
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/527
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/527
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/745
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/745
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD **" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo SP HD **
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1108
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1108
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo SP FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19430
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19430
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RJ SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19423
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19423
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RJ SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/526
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/526
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RJ HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19424
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19424
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/743
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/743
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD *" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo RJ HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1115
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1115
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo RJ FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19425
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19425
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Brasilia SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19405
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19405
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/522
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/522
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Brasilia HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19406
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19406
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/739
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/739
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD *" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Brasilia HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1111
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1111
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Brasilia FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19063
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19063
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19414
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19414
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/523
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/523
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19415
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19415
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD *" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1110
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1110
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/779
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/779
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19065
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19065
 #EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1064
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1064
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Nordeste SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19416
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19416
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/525
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/525
 #EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Nordeste HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19417
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19417
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste HD *" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Nordeste HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1113
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1113
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Nordeste FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19066
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19066
 #EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="Globo MA HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo MA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/785
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/785
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo PE HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo PE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/744
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/744
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo ES FHD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo ES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1058
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/1058
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Araraquara SD [1]" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo EPTV Araraquara SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19407
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19407
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-cp.png" group-title="Rede Globo",Globo EPTV Campinas SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19408
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19408
 #EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-cp.png" group-title="Rede Globo",Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/508
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/508
 #EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-cp.png" group-title="Rede Globo",Globo EPTV Campinas HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19409
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19409
 #EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="Globo EPTV Campinas FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-cp.png" group-title="Rede Globo",Globo EPTV Campinas FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19064
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19064
 #EXTINF:-1 tvg-id="E#PTV R#ibeirao P#reto" tvg-name="Globo EPTV Ribeirao Preto SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-Rp.png" group-title="Rede Globo",Globo EPTV Ribeirao Preto SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19411
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19411
 #EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-Rp.png" group-title="Rede Globo",Globo EPTV Ribeirao Preto SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/509
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/509
 #EXTINF:-1 tvg-id="E#PTV R#ibeirao P#reto" tvg-name="Globo EPTV Ribeirao Preto HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-Rp.png" group-title="Rede Globo",Globo EPTV Ribeirao Preto HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19410
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19410
 #EXTINF:-1 tvg-id="E#PTV R#ibeirao P#reto" tvg-name="Globo EPTV Ribeirao Preto FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-eptv-Rp.png" group-title="Rede Globo",Globo EPTV Ribeirao Preto FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19078
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19078
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Sao Carlos SD [1]" tvg-logo="http://st1.horizonplay.io:8080/icon/100-b-1573492375805.png" group-title="Rede Globo",Globo EPTV Sao Carlos SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19412
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19412
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="https://1.bp.blogspot.com/-MFhGMe6N5gI/Wm99h4PEraI/AAAAAAAAB6M/mJ9GElreoB4aAbt79T5IESCMLsz0HPyWwCLcBGAs/s1600/eptvsaocarlos.png" group-title="Rede Globo",Globo EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/507
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/507
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Inter TV Alto Litoral SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Alto Litoral SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19461
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19461
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Inter TV Alto Litoral HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Alto Litoral HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19460
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19460
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo Inter TV Alto Litoral FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Alto Litoral FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19079
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19079
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/537
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/537
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Inter TV Dos Vales SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Dos Vales SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19463
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19463
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Inter TV Dos Vales HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Dos Vales HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19462
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19462
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Inter TV Dos Vales FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Dos Vales FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19080
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19080
 #EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Inter TV Grande Minas SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Grande Minas SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19465
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19465
 #EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Inter TV Grande Minas HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Grande Minas HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19464
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19464
 #EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Inter TV Grande Minas FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Grande Minas FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19081
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19081
 #EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Natal SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Natal SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19413
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19413
 #EXTINF:-1 tvg-id="InterTVserraMar.br" tvg-name="Globo Inter TV Serra Mar SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Serra Mar SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19467
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19467
 #EXTINF:-1 tvg-id="InterTVserraMar.br" tvg-name="Globo Inter TV Serra Mar HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Serra Mar HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19466
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19466
 #EXTINF:-1 tvg-id="InterTVserraMar.br" tvg-name="Globo Inter TV Serra Mar FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Inter TV Serra Mar FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19082
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19082
 #EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo InterTV Alto Litoral HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/789
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/789
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Internacional" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19444
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19444
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Internacional HD" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo.png" group-title="Rede Globo",Globo Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/742
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/742
 #EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC TV Blumenau SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Blumenau SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19469
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19469
 #EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC TV Blumenau HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Blumenau HD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19468
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19468
 #EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC TV Blumenau FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Blumenau FHD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19083
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19083
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC TV Chapeco SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Rede-globo/globo-nsc-tv.png" group-title="Rede Globo",Globo NSC TV Chapeco SD [1]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19446
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/19446
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 H.265³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Canais 4K / H265",HBO 2 H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201962
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201962
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201961
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201961
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201960
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201960
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201959
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201959
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201958
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201958
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO-2.png" group-title="Rede HBO",HBO 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201957
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201957
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201956
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201956
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201955
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201955
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201954
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201954
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-HBO/HBO.png" group-title="Rede HBO",HBO SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201953
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201953
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201952
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201952
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201951
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201951
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201950
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201950
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201949
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201949
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201948
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201948
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-2.png" group-title="Esportes",ESPN 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201947
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201947
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Canais 4K / H265",ESPN Brasil H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201946
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201946
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201945
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201945
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201944
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201944
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201943
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201943
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201942
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201942
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn-brasil.png" group-title="Esportes",ESPN Brasil SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201941
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201941
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201940
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201940
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201939
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201939
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201938
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201938
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201937
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201937
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/espn.png" group-title="Esportes",ESPN SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201935
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201935
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201465
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201465
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201464
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201464
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201463
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201463
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201462
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201462
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201461
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201461
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201460
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201460
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201459
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201459
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201458
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201458
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201457
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201457
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201456
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201456
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201455
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201455
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201454
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201454
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD " tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201453
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201453
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201452
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201452
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201451
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201451
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201450
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201450
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201449
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201449
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201448
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201448
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201447
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201447
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201446
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201446
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201445
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201445
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201444
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201444
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201443
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201443
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201442
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201442
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 4 HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201440
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201440
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 3 HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201439
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201439
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 2 HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201438
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201438
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD¹" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="Esportes Especiais",CONMEBOL TV 1 HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201437
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201437
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Canais 4K / H265",BandSports H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201436
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201436
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201435
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201435
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201434
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201434
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201433
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201433
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/band-sports.png" group-title="Esportes",BandSports SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201432
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201432
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 4K²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Canais 4K / H265",Fox Sports 4K²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201431
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201431
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Canais 4K / H265",Fox Sports 2 H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201430
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201430
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201428
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201428
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201427
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201427
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201426
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201426
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports 2 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201425
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201425
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201423
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201423
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201422
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201422
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201421
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201421
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201420
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201420
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="Esportes",FOX Sports SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201419
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201419
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201418
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201418
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201417
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201417
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201416
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201416
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201415
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201415
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201414
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201414
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv.png" group-title="Esportes",SporTV SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201413
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201413
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2 H265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Canais 4K / H265",SporTV 2 H265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201412
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201412
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201411
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201411
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201410
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201410
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201409
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201409
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201408
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201408
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-2.png" group-title="Esportes",SporTV 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201407
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201407
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201406
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201406
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201405
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201405
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201404
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201404
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/sportv-3.png" group-title="Esportes",SporTV 3 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201403
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201403
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201402
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201402
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201401
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201401
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201400
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201400
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201399
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201399
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/combate.png" group-title="Esportes",Combate SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201398
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201398
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV H.265³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Canais 4K / H265",Fish TV H.265³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201397
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201397
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201396
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201396
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201395
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201395
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201394
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201394
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD²" tvg-logo="http://script.clearnight.xyz/logos/Esportes/fishtv.png" group-title="Esportes",Fish TV SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201393
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201393
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png" group-title="Rede Telecine",Telecine Action FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201392
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201392
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png" group-title="Rede Telecine",Telecine Action FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201391
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201391
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png" group-title="Rede Telecine",Telecine Action HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201390
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201390
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png" group-title="Rede Telecine",Telecine Action SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201389
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201389
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-Action.png" group-title="Rede Telecine",Telecine Action SD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201388
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201388
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD³" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="Rede Telecine",Telecine Cult FHD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201387
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201387
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD²" tvg-logo="http://script.clearnight.xyz/logos/Rede-Telecine/Tele-cine-cult-logo-2.png" group-title="Rede Telecine",Telecine Cult FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201386
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201386
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD³" tvg-logo="http://st1.horizonplay.io:8080/icon/1120-b-1579663056650.png" group-title="Rede Telecine",Telecine Cult HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KING BR SERVIDOR LISO[/B][/COLOR]&amp;url=http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201385
+http://lista.lorddark.club:80/fulviodefreitas/freitass5235/201385
