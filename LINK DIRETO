@@ -5,9 +5,9 @@
 <link>http://belugacdn.azureedge.net/cdn3/homemaranha3.mp4$nome=[COLOR lime]HOMEM ARANHA 3[/COLOR]</link>
 <link>http://belugacdn.azureedge.net/cdn7/OEspetacularHomemAranha.mp4$nome=[COLOR yellow]O ESPETACULAR HOMEM ARANHA[/COLOR]</link>
 <link>http://belugacdn.azureedge.net/cdn7/OEspetacularHomemAranha2.mp4$nome=[COLOR lime]O ESPETACULAR HOEM ARANHA 2[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/serifx_a3a456c532c36se552f3vcba199858bb4a6d60/cdnespecial3/HomemAranhanoAranhaversoDUB.mp4$nome=[COLOR lime]HOMEM ARANHA NO ARANHA VERSO[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdn6/HomemAranhaDeVoltaaoLar.mp4$nome=[COLOR yellow]HOMEM ARANHA DE VOLTA AO LAR[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdnespecial3/HomemAranhaLongedeCasa.mp4$nome=[COLOR yellow]HOMEM ARANHA LONGE DE CASA[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Spider-man.into.the.spider-verse.2018.mp4$nome=[COLOR lime]HOMEM ARANHA NO ARANHA VERSO[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Spider-man.homecoming.2017.mp4$nome=[COLOR yellow]HOMEM ARANHA DE VOLTA AO LAR[/COLOR]</link>
+<link>https://cdn.ultracine.net/server1/Spider-man.far.from.home.2019.mp4$nome=[COLOR yellow]HOMEM ARANHA LONGE DE CASA[/COLOR]</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_657548-MLB43253138908_082020-O.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/D_NQ_NP_657548-MLB43253138908_082020-O.jpg</fanart>
 <info>[ BY EVERSON SANTOS ]
@@ -28,8 +28,8 @@
 <item>
 <title>[B]DIVERGENTE  [COLOR yellow](SERVIDOR NOVO)[/COLOR][/B]</title>
 <link>http://belugacdn.azureedge.net/cdn2/divergente-dub-480p.mp4$nome=[COLOR yellow]DIVERGENTE[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdn1/aseriedivergenteinsurgente-dub-480p.mp4$nome=[COLOR yellow]INSURGENTE[/COLOR]</link>
-<link>http://zonecentral.azureedge.net:80/server1/convergente.mp4$nome=[COLOR yellow]CONVERGENTE[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Insurgent.2015.mp4$nome=[COLOR yellow]INSURGENTE[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes2/Allegiant.2016.mp4$nome=[COLOR yellow]CONVERGENTE[/COLOR]</link>
 <thumbnail>https://3.bp.blogspot.com/-cxDan1RCrS4/VqJ8M_BPbEI/AAAAAAAAC2o/MnJdqacSOdI/s1600/filme%2Bsaga%2Bdivergente%2B-%2Bconvergente.png</thumbnail>
 <fanart>https://3.bp.blogspot.com/-cxDan1RCrS4/VqJ8M_BPbEI/AAAAAAAAC2o/MnJdqacSOdI/s1600/filme%2Bsaga%2Bdivergente%2B-%2Bconvergente.png</fanart>
 <info>[ BY EVERSON SANTOS ]
@@ -74,11 +74,11 @@
 
 <item>
 <title>[B]PIRATAS DO CARIBE    [COLOR yellow](SERVIDOR NOVO)[/COLOR][/B]</title>
-<link>http://belugacdn.azureedge.net/cdn3/amaldicaodoperolanegra.mp4?$nome=[COLOR yellow]A MALDICAO DA PEROLA NEGRA[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdn3/baudamorte.mp4$nome=[COLOR yellow]O BAU DA MORTE[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdn3/nofimdomundo.mp4$nome=[COLOR yellow]O FIM DO MUNDO[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdn2/aguasmisteriosas-dub-480p.mp4$nome=[COLOR yellow]NAVEGANDO EM AGUAS MISTERIOSAS[/COLOR]</link>
-<link>http://belugacdn.azureedge.net/cdn2/vingancasalazar-dub-480p.mp4$nome=[COLOR yellow]A VINGANCA DE SALAZAR[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Server1/piratasdocaribealmaldicao.mp4$nome=[COLOR yellow]A MALDICAO DA PEROLA NEGRA[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/PIRATASDOCARIBE2006.mp4$nome=[COLOR yellow]O BAU DA MORTE[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Server1/piratasdocaribenofimdomundo.mp4$nome=[COLOR yellow]O FIM DO MUNDO[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Server1/piratasdocaribenavegando.mp4$nome=[COLOR yellow]NAVEGANDO EM AGUAS MISTERIOSAS[/COLOR]</link>
+<link>https://cdn.ultracine.net/filmes/Pirates.of.the.caribbean.dead.men.tell.no.tales.2017.mp4$nome=[COLOR yellow]A VINGANCA DE SALAZAR[/COLOR]</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71Q4na7KcIL._AC_SX569_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/71Q4na7KcIL._AC_SX569_.jpg</fanart>
 <info>[ BY EVERSON SANTOS ]
@@ -93,6 +93,9 @@
                  </info>
 <genre></genre>
 </item>
+
+
+
 
 
 
